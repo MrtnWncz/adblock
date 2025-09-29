@@ -1,4 +1,4 @@
-########## 0000.2025.0929.1400
+########## 0000.2025.0929.1500
 ##google-one-tap__container
 24.hu###credential_picker_container
 24.hu##.-noSticky
@@ -492,6 +492,7 @@ nytimes.com###top-league-content-root
 nytimes.com###top-news-root
 nytimes.com###TopAd1
 nytimes.com###user-modal-drawer
+nytimes.com##.#ta-bar-one
 nytimes.com##.bkTkuQ.sc-55d79bd3-1
 nytimes.com##.bzjZNd.sc-bfe43728-21
 nytimes.com##.css-11dvitf
