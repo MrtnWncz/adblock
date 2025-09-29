@@ -1,4 +1,4 @@
-########## 0000.2025.0917.2100
+########## 0000.2025.0929.1400
 ##google-one-tap__container
 24.hu###credential_picker_container
 24.hu##.-noSticky
