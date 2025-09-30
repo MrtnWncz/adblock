@@ -1,4 +1,4 @@
-########## 0000.2025.0930.1200
+########## 0000.2025.0930.1600
 ##google-one-tap__container
 24.hu###credential_picker_container
 24.hu##.-noSticky
@@ -727,3 +727,10 @@ yahoo.com###app-promo
 yahoo.com###preArticle
 yahoo.com##.app-banner
 youtube.com###frosted-glass
+
+facebook.com##^script:has-text(/cookie|login/):style(display:none)
+facebook.com##+js(trusted-click-element, body > div[id^="mount"] #scrollview ~ div div[role="button"]:has(> div[data-visualcompletion="ignore"]) )
+facebook.com##div[id^="mount"] div:not([id]):not([class]):not([style]) > div[data-nosnippet]
+facebook.com##+js(aeld, scroll)   
+facebook.com##[role="dialog"][aria-label]:has([aria-label="Create a new account"])
+facebook.com##[role="dialog"][aria-modal="true"]
