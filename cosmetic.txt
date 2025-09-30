@@ -1,4 +1,4 @@
-########## 0000.2025.0929.1600
+########## 0000.2025.0930.1200
 ##google-one-tap__container
 24.hu###credential_picker_container
 24.hu##.-noSticky
@@ -268,6 +268,7 @@ facebook.com###pagelet_canvas_nav_content
 facebook.com###pagelet_ego_pane .ego_section
 facebook.com###photos_snowlift .wrapper > .inner > .ego_section
 facebook.com##._9oet._9ofg._9oeu._3-8x._54k8
+facebook.com##.bottom
 facebook.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
 futunatura.hu##.action_wrapper
 galeria.totalcar.hu###hasznaltauto_iframe_wrapper
