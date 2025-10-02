@@ -1,4 +1,4 @@
-########## 0000.2025.0930.1800
+########## 0000.2025.1002.1500
 ##google-one-tap__container
 24.hu###credential_picker_container
 24.hu##.-noSticky
@@ -727,13 +727,3 @@ yahoo.com###app-promo
 yahoo.com###preArticle
 yahoo.com##.app-banner
 youtube.com###frosted-glass
-
-facebook.com##div[id^="login_popup"]
-facebook.com##[data-testid="cookie-policy-dialog"]
-facebook.com##.login_page_login_mode_dialog
-facebook.com##div[role="dialog"]:not(:has([aria-label="Close"])):upward(4) 
-||facebook.com^$popup,third-party
-||facebook.com^$script,domain=facebook.com|www.facebook.com,redirect=noopjs
-||facebook.com^$image,domain=facebook.com|www.facebook.com,redirect=noopjs
-||facebook.com^$stylesheet,domain=facebook.com|www.facebook.com,redirect=noopjs
-||facebook.com##+js(aopr, ._5v3a, ._5v3b, ._5v3c, ._5v3d, ._5v3e, ._5v3f, ._5v3g, ._5v3h, ._5v3i, ._5v3j, ._5v3k, ._5v3l, ._5v3m, ._5v3n, ._5v3o, ._5v3p, ._5v3q, ._5v3r, ._5v3s, ._5v3t, ._5v3u, ._5v3v, ._5v3w, ._5v3x, ._5v3y, ._5v3z)
