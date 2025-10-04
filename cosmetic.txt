@@ -1,4 +1,4 @@
-########## 0000.2025.1002.1500
+########## 0000.2025.1004.1700
 ##google-one-tap__container
 24.hu###credential_picker_container
 24.hu##.-noSticky
@@ -248,6 +248,7 @@ episode.hu##.szoveg_doboz.row
 episode.hu##banya_felhiv
 episode.hu##div.container.main:nth-child(26)>div.row:first-child>div.video.col-12>div.container>div.row.szoveg_doboz:first-child
 eredmenyek.com###box-over-content-revive
+eredmenyek.com###detail-breadcrumbs > div:last-child
 eredmenyek.com###zoneContainer-box_over_content>.zone__container>.zone__inner
 eredmenyek.com###zoneContainer-detail_leaderboard>.zone__container
 eredmenyek.com###zoneContainer-top>.zone__container
@@ -612,6 +613,8 @@ shorturl.at###emailbox
 shorturl.at###ns-banner-mobile
 shorturl.at##.intercom-lightweight-app-launcher
 shorturl.at##header
+soccertvhd.com###\30 x307f87
+soccertvhd.com##.animate__animated
 stackoverflow.com##.js-consent-banner
 startpage.com###marketing-tag-container
 startpage.com###serp-toast-container
@@ -685,9 +688,11 @@ tiktok.com###react-app-launch
 tiktok.com##.bottom
 tiktok.com##.css-1anes8e-StyledIcon
 tiktok.com##.css-1gt7x97-DivKeyboardShortcutContainer, .e1l04njg0
+tiktok.com##.css-1x4gp7x-5b89d02d--DivModalMask, .eurh82z2
 tiktok.com##.css-behvuc-DivModalContainer
 tiktok.com##.css-fcx8x5-DivNoticeContainerWithoutHeader
 tiktok.com##.css-fvbzbd-5e6d46e3--DivModalContainer, .em9wld0
+tiktok.com##.css-oosdog-5e6d46e3--PopupContainer
 tiktok.com##.css-py8jux-DivModalContainer,.e1gjoq3k0
 tiktok.com##.css-qrtvk6-5e6d46e3--DivKeyboardShortcutContainer
 tiktok.com##.el3hfgg0.css-1plqdfw-DivFooterContainer
