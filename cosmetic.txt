@@ -1,4 +1,4 @@
-########## 0000.2025.1004.1700
+########## 0000.2025.1005.2000
 ##google-one-tap__container
 24.hu###credential_picker_container
 24.hu##.-noSticky
@@ -161,6 +161,9 @@ amazon.de##span:has-text(/Schneiden Sie dieses Etikett aus und kleben Sie es au√
 amazon.de#@##percolate-ui-ilm_div
 amazon.de#@##percolate-ui-ilm_feature_div
 aqua.hu###mobile_app_link_offer
+arcanum.com##.card-body
+arcanum.com##.card-img-top
+arcanum.com##.d-md-none
 arukereso.hu###category-pricedrop
 arukereso.hu###homebanner-box
 arukereso.hu###top-promo-banner
