@@ -1,4 +1,4 @@
-########## 0000.2025.1011.2100
+########## 0000.2025.1011.2200
 ###fadeIn
 ##.fadeIn
 ##google-one-tap__container
@@ -553,6 +553,7 @@ quora.com##button[type="button"]:has-text(Open in App)
 quora.com##div#credential_picker_container
 reddit.com###blocking-modal-blur-container:style(filter: none !important;)
 reddit.com###right-sidebar-contents
+reddit.com###search-hero
 reddit.com###team-flair-selection-modal
 reddit.com##+js(aeld, touchmove)
 reddit.com##._13GEaJc1u3mPvCCGhfLQG4
