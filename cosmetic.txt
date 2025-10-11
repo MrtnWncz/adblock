@@ -1,4 +1,4 @@
-########## 0000.2025.1006.2000
+########## 0000.2025.1011.2000
 ###fadeIn
 ##.fadeIn
 ##google-one-tap__container
@@ -324,6 +324,11 @@ google.com##.torspo_view__follow-button
 google.com##.zU3lCe
 google.com##ios-safari-home-screen-icon-banner
 google.com##promo-bottom-tout
+grok.com###grok-4-promotion-dialog-content
+grok.com##.bg-background
+grok.com##.bg-black\/20
+grok.com##.bg-overlay
+grok.com##.bg-surface-l2
 gyakorikerdesek.hu###stialert
 gyakorikerdesek.hu###stidiv
 gymbeam.hu##.gb-notification
