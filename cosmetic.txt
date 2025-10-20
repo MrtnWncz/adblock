@@ -1,4 +1,4 @@
-########## 0000.2025.1019.2200
+########## 0000.2025.1020.1000
 ###fadeIn
 ##.fadeIn
 ##google-one-tap__container
@@ -627,6 +627,7 @@ shorturl.at##.intercom-lightweight-app-launcher
 shorturl.at##header
 soccertvhd.com###\30 x307f87
 soccertvhd.com###\30 x31df77
+soccertvhd.com###\30 x31dfa1
 soccertvhd.com##.animate__animated
 stackoverflow.com##.js-consent-banner
 startpage.com###marketing-tag-container
