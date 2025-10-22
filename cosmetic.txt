@@ -1,4 +1,4 @@
-########## 0000.2025.1020.1000
+########## 0000.2025.1022.2100
 ###fadeIn
 ##.fadeIn
 ##google-one-tap__container
@@ -368,9 +368,16 @@ index.hu###_iph_brk_act
 index.hu###aisummit_index
 index.hu###b_1961178
 index.hu###cikkvegi_static_promo
+index.hu###closeSplash
 index.hu###exchange
 index.hu###exchange-e3f3ee14970d6ef54260f648e11d00dc
 index.hu###exchange-ticker
+index.hu###lotto-container
+index.hu###lotto-container-sidekick
+index.hu###lottoCanvas
+index.hu###lottoClose
+index.hu###lottoSplash
+index.hu###lottoSplash_inner
 index.hu###m-cf-fejlec
 index.hu###m-cf-fejlec_container
 index.hu###m-cf-kiadvanylista
@@ -387,6 +394,7 @@ index.hu##.ceginfokereso.rovarsearch_box
 index.hu##.cikk-bottom-box.social-stripe>.index-social-box
 index.hu##.cikk-vegi-ajanlo-reklamok-container
 index.hu##.cikkvegi_static_promo
+index.hu##.closeSplash
 index.hu##.dogz
 index.hu##.ecnmxajanlo_wrapper
 index.hu##.exchange
@@ -394,6 +402,12 @@ index.hu##.exchange-ticker
 index.hu##.info-stripe
 index.hu##.linkpreview, .bekezdes_utan
 index.hu##.linkpreview,.bekezdes_utan
+index.hu##.lotto-container
+index.hu##.lotto-container-sidekick
+index.hu##.lottoCanvas
+index.hu##.lottoClose
+index.hu##.lottoSplash
+index.hu##.lottoSplash_inner
 index.hu##.m-automatic-file-snippet
 index.hu##.m-cf-fejlec
 index.hu##.m-cf-fejlec_container
