@@ -1,4 +1,4 @@
-########## 0000.2025.1023.1800
+########## 0000.2025.1023.1900
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -500,6 +500,8 @@ nemzetisport.hu##.nso-articles-related-content
 nemzetisport.hu##.recommendation-block
 nemzetisport.hu##nso-articles-related-content
 nlm.nih.gov##.usa-banner__header
+nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.RegionBanner_banner__peckr.RegionBanner_visible__9Ph19:last-child
+nytimes.com###__next > div > footer.Footer_footer__n3iGa:last-child
 nytimes.com###athletic-gateway-container
 nytimes.com###c-col-editors-picks
 nytimes.com###complianceOverlay
