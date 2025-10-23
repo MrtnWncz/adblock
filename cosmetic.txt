@@ -1,10 +1,8 @@
-########## 0000.2025.1023.1600
+########## 0000.2025.1023.1700
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
 ##google-one-tap__container
-.MobileNav_MobileSubscribeDisplay
-.MobileNav_MobileSubscribeDisplay__7ugeg
 24.hu###credential_picker_container
 24.hu##.-noSticky
 24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
@@ -520,8 +518,11 @@ nytimes.com###masthead-bar-one
 nytimes.com###most-popular-root
 nytimes.com###nav-subscribe-cta
 nytimes.com###newsletter-promo
+nytimes.com###showcase-link-6458487
+nytimes.com###showcase-link-6658919
 nytimes.com###showcase-link-6732827
 nytimes.com###showcase-link-6735182
+nytimes.com###showcase-link-6739461
 nytimes.com###slideup-paywall
 nytimes.com###slideup-regwall
 nytimes.com###standalone-footer
@@ -538,6 +539,7 @@ nytimes.com##.css-1bd8bfl
 nytimes.com##.css-1pd93lg-FormBox
 nytimes.com##.css-1r6nyza
 nytimes.com##.css-1r939ki
+nytimes.com##.css-1trsbq4
 nytimes.com##.css-3q1dtb
 nytimes.com##.css-axg1qy
 nytimes.com##.css-mcm29f
@@ -559,6 +561,7 @@ nytimes.com##.iIoWTf.sc-5b229d13-0
 nytimes.com##.isPersonalizedAddOn
 nytimes.com##.jfciYU.sc-1e7d7615-0
 nytimes.com##.lmuhZL.sc-bfb49400-0
+nytimes.com##.MobileNav_MobileSubscribeDisplay
 nytimes.com##.MobileNav_MobileSubscribeDisplay__7ugeg
 nytimes.com##.puzzle-content-container
 nytimes.com##.ReactModalPortal
@@ -566,6 +569,9 @@ nytimes.com##.RegionBanner_visible__9Ph19
 nytimes.com##.sc-bb764264-0
 nytimes.com##.ta-bar-one
 nytimes.com##div#showcase-link
+nytimes.com#showcase-link-6458487
+nytimes.com#showcase-link-6658919
+nytimes.com#showcase-link-6739461
 open.spotify.com##.paywall
 open.spotify.com##button[data-testid="open-app-button"]
 origo.hu##.blue
