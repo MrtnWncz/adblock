@@ -1,7 +1,8 @@
-########## 0000.2025.1023.1200
+########## 0000.2025.1023.1400
 ###fadeIn
 ##.fadeIn
 ##google-one-tap__container
+###google-one-tap__container
 24.hu###credential_picker_container
 24.hu##.-noSticky
 24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
@@ -165,6 +166,7 @@ amazon.de#@##percolate-ui-ilm_feature_div
 aqua.hu###mobile_app_link_offer
 arcanum.com##.card-body
 arcanum.com##.card-img-top
+arcanum.com##.container-fluid
 arcanum.com##.d-md-none
 arukereso.hu###category-pricedrop
 arukereso.hu###homebanner-box
@@ -363,8 +365,6 @@ imgur.com##.MainContainer > div > .UploadSpinner-contentWrapper > .FastGrid > .G
 imgur.com##.MainContainer > div > .UploadSpinner-contentWrapper > .FastGrid > .Grid-column > div[id^="Col-Child-Imgur/Post/InContent/"]:has(.fast-grid-ad)
 imgur.com##body:style(overflow: auto !important;)
 imgur.com##div[class^="SeeImgurOIA-"]
-index.hu##.pp-hasab
-index.hu##.big
 index.hu###_iph_brk_act
 index.hu###aisummit_index
 index.hu###b_1961178
@@ -389,6 +389,7 @@ index.hu##._iph_brk_act
 index.hu##.aisummit
 index.hu##.aisummit_index
 index.hu##.app_promo_wrapper
+index.hu##.big
 index.hu##.book_index
 index.hu##.bubble-container
 index.hu##.ceginfokereso.rovarsearch_box
@@ -419,6 +420,7 @@ index.hu##.moneytalks
 index.hu##.nehagyjaki
 index.hu##.njs-carousel
 index.hu##.postcontent
+index.hu##.pp-hasab
 index.hu##.small.facebook.social-follow
 index.hu##.szelso-jobb
 index.hu##.vegasodds
@@ -493,6 +495,10 @@ ncore.pro###fancybox-overlay
 ncore.pro###fancybox-wrap
 ncore.pro##.hessteg-ad-block.news_block_right
 ncore.pro##.infocsik
+nemzetisport.hu##.article-header-right-top
+nemzetisport.hu##.nso-articles-related-content
+nemzetisport.hu##.recommendation-block
+nemzetisport.hu##nso-articles-related-content
 nlm.nih.gov##.usa-banner__header
 nytimes.com###app div:if(> div:only-child > div:only-child > div.ad)
 nytimes.com###athletic-gateway-container
@@ -503,8 +509,6 @@ nytimes.com###credential_picker_container
 nytimes.com###credential_picker_iframe
 nytimes.com###darken-overlay
 nytimes.com###darkwall
-nytimes.com###ta-bar-one
-nytimes.com##.ta-bar-one
 nytimes.com###dock-container
 nytimes.com###fides-overlay
 nytimes.com###gateway-container
@@ -515,9 +519,13 @@ nytimes.com###masthead-bar-one
 nytimes.com###most-popular-root
 nytimes.com###nav-subscribe-cta
 nytimes.com###newsletter-promo
+nytimes.com###showcase-link
+nytimes.com###showcase-link-6732827
+nytimes.com###showcase-link-6735182
 nytimes.com###slideup-paywall
 nytimes.com###slideup-regwall
 nytimes.com###standalone-footer
+nytimes.com###ta-bar-one
 nytimes.com###top-league-content-root
 nytimes.com###top-news-root
 nytimes.com###TopAd1
@@ -541,6 +549,7 @@ nytimes.com##.dxuWPS.sc-d7bcf893-2
 nytimes.com##.e1xxpj0j1
 nytimes.com##.fides-overlay
 nytimes.com##.fKFRKA.sc-b1dc387f-0
+nytimes.com##.Footer_Footer__BSyrm
 nytimes.com##.gateway-container
 nytimes.com##.gdpr
 nytimes.com##.glvRoy.sc-41a4432-1
@@ -550,11 +559,37 @@ nytimes.com##.iIoWTf.sc-5b229d13-0
 nytimes.com##.isPersonalizedAddOn
 nytimes.com##.jfciYU.sc-1e7d7615-0
 nytimes.com##.lmuhZL.sc-bfb49400-0
+nytimes.com##.MobileNav_MobileSubscribeDisplay__7ugeg
 nytimes.com##.puzzle-content-container
 nytimes.com##.ReactModalPortal
+nytimes.com##.RegionBanner_visible__9Ph19
 nytimes.com##.sc-bb764264-0
+nytimes.com##.ta-bar-one
 open.spotify.com##.paywall
 open.spotify.com##button[data-testid="open-app-button"]
+origo.hu##.content-type-newsletter-block
+origo.hu##.content-type-social-media
+origo.hu##.external-recommendations
+origo.hu##.first
+origo.hu##.google-news
+origo.hu##.google-news-text
+origo.hu##.mobile
+origo.hu##.mwf-portfolio-categories
+origo.hu##.newsletter-wrapper
+origo.hu##.portfolio-link-list
+origo.hu##.services-box
+origo.hu##.style-bors
+origo.hu##.style-life
+origo.hu##.style-nemzetisport
+origo.hu##.style-OrigoBlue
+origo.hu##.style-ripost
+origo.hu##.style-tenyek
+origo.hu##.style-travelo
+origo.hu##.with-double-breaking-strip
+origo.hu##kesma-mediaworks-footer-compact
+origo.hu##kesma-sponsored-box
+origo.hu##origo-articles-related-content
+origo.hu##origo-most-read
 pastedownload.com###sectionsNav
 paypal.com###PPAppDownloadBannerContainer
 pcforum.hu###subscribebar
