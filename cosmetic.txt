@@ -1,4 +1,4 @@
-########## 0000.2025.1022.2100
+########## 0000.2025.1023.1000
 ###fadeIn
 ##.fadeIn
 ##google-one-tap__container
@@ -363,7 +363,8 @@ imgur.com##.MainContainer > div > .UploadSpinner-contentWrapper > .FastGrid > .G
 imgur.com##.MainContainer > div > .UploadSpinner-contentWrapper > .FastGrid > .Grid-column > div[id^="Col-Child-Imgur/Post/InContent/"]:has(.fast-grid-ad)
 imgur.com##body:style(overflow: auto !important;)
 imgur.com##div[class^="SeeImgurOIA-"]
-index.gu##.pp-hasab
+index.hu##.pp-hasab
+index.hu##.big
 index.hu###_iph_brk_act
 index.hu###aisummit_index
 index.hu###b_1961178
