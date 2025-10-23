@@ -1,4 +1,4 @@
-########## 0000.2025.1023.1700
+########## 0000.2025.1023.1800
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -552,6 +552,7 @@ nytimes.com##.e1xxpj0j1
 nytimes.com##.fides-overlay
 nytimes.com##.fKFRKA.sc-b1dc387f-0
 nytimes.com##.Footer_Footer__BSyrm
+nytimes.com##.Footer_footer__n3iGa
 nytimes.com##.gateway-container
 nytimes.com##.gdpr
 nytimes.com##.glvRoy.sc-41a4432-1
