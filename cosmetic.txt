@@ -1,8 +1,8 @@
-########## 0000.2025.1023.1400
+########## 0000.2025.1023.1500
 ###fadeIn
+###google-one-tap__container
 ##.fadeIn
 ##google-one-tap__container
-###google-one-tap__container
 24.hu###credential_picker_container
 24.hu##.-noSticky
 24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
@@ -567,6 +567,7 @@ nytimes.com##.sc-bb764264-0
 nytimes.com##.ta-bar-one
 open.spotify.com##.paywall
 open.spotify.com##button[data-testid="open-app-button"]
+origo.hu##.blue
 origo.hu##.content-type-newsletter-block
 origo.hu##.content-type-social-media
 origo.hu##.external-recommendations
