@@ -1,4 +1,4 @@
-########## 0000.2025.1023.2000
+########## 0000.2025.1023.2100
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -500,6 +500,9 @@ nemzetisport.hu##.nso-articles-related-content
 nemzetisport.hu##.recommendation-block
 nemzetisport.hu##nso-articles-related-content
 nlm.nih.gov##.usa-banner__header
+nytimes.com####ta-bar-one
+nytimes.com###[data-campaign=fallback]
+nytimes.com###[data-testid=onsite-messaging-unit-athleticBarOne]
 nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.RegionBanner_banner__peckr.RegionBanner_visible__9Ph19:last-child
 nytimes.com###__next > div > footer.Footer_footer__n3iGa:last-child
 nytimes.com###athletic-gateway-container
@@ -561,20 +564,29 @@ nytimes.com##.gdpr
 nytimes.com##.glvRoy.sc-41a4432-1
 nytimes.com##.go-deeper
 nytimes.com##.gOgnzx.sc-7d18ca-0
+nytimes.com##.Grid_justifyContent-flex-end__qVryc
 nytimes.com##.Grid_xsNumber2__QJEIT
 nytimes.com##.iIoWTf.sc-5b229d13-0
 nytimes.com##.isPersonalizedAddOn
 nytimes.com##.jfciYU.sc-1e7d7615-0
 nytimes.com##.lmuhZL.sc-bfb49400-0
+nytimes.com##.MobileNav_MobileSub-scribeDisplay__7ugeg
 nytimes.com##.MobileNav_MobileSubscribeDisplay
 nytimes.com##.MobileNav_MobileSubscribeDisplay__7ugeg
 nytimes.com##.puzzle-content-container
 nytimes.com##.ReactModalPortal
+nytimes.com##.RegionBanner_ban-ner__peckr
+nytimes.com##.RegionBanner_con-tent__kvPGd
+nytimes.com##.RegionBanner_mes-sage__S2Ws_
+nytimes.com##.RegionBanner_visi-ble__9Ph19
 nytimes.com##.RegionBanner_visible__9Ph19
 nytimes.com##.sc-bb764264-0
 nytimes.com##.showcase-link-container
 nytimes.com##.ta-bar-one
+nytimes.com##[data-campaign=fallback]
+nytimes.com##[data-testid=onsite-messaging-unit-athleticBarOne]
 nytimes.com##div#showcase-link
+nytimes.com##footer
 nytimes.com#showcase-link-6458487
 nytimes.com#showcase-link-6658919
 nytimes.com#showcase-link-6739461
