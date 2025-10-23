@@ -1,4 +1,4 @@
-########## 0000.2025.1023.1000
+########## 0000.2025.1023.1200
 ###fadeIn
 ##.fadeIn
 ##google-one-tap__container
@@ -503,6 +503,8 @@ nytimes.com###credential_picker_container
 nytimes.com###credential_picker_iframe
 nytimes.com###darken-overlay
 nytimes.com###darkwall
+nytimes.com###ta-bar-one
+nytimes.com##.ta-bar-one
 nytimes.com###dock-container
 nytimes.com###fides-overlay
 nytimes.com###gateway-container
