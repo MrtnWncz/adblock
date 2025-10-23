@@ -1,4 +1,4 @@
-########## 0000.2025.1023.2200
+########## 0000.2025.1023.2300
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -373,6 +373,7 @@ index.hu###closeSplash
 index.hu###exchange
 index.hu###exchange-e3f3ee14970d6ef54260f648e11d00dc
 index.hu###exchange-ticker
+index.hu###index
 index.hu###lotto-container
 index.hu###lotto-container-sidekick
 index.hu###lottoCanvas
@@ -503,8 +504,10 @@ nlm.nih.gov##.usa-banner__header
 nytimes.com####ta-bar-one
 nytimes.com###[data-campaign=fallback]
 nytimes.com###[data-testid=onsite-messaging-unit-athleticBarOne]
+nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.Header_TopHeaderNavBar__jxe2t:first-child > div.mobile-padding.Container_default-padding__wzugc.Container_container__l8hjR > div.Grid_item__V5q9S.Grid_container__uWTYN.Grid_alignItems-stretch__yf9bR.Grid_justifyContent-flex-end__qVryc.Grid_xsNumber2__QJEIT.Grid_smNumber5__X7HJQ.Grid_mdNumber5__LmA05:last-child
 nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.RegionBanner_banner__peckr.RegionBanner_visible__9Ph19:last-child
 nytimes.com###__next > div > footer.Footer_footer__n3iGa:last-child
+nytimes.com###article-container-grid > div.PuzzleEntryPoint_PuzzleContainer___nayX:last-child
 nytimes.com###athletic-gateway-container
 nytimes.com###c-col-editors-picks
 nytimes.com###complianceOverlay
@@ -533,6 +536,7 @@ nytimes.com###slideup-paywall
 nytimes.com###slideup-regwall
 nytimes.com###stacked-recommendations-root
 nytimes.com###standalone-footer
+nytimes.com###storyline-root
 nytimes.com###ta-bar-one
 nytimes.com###top-league-content-root
 nytimes.com###top-news-root
@@ -624,6 +628,10 @@ origo.hu##.style-ripost
 origo.hu##.style-tenyek
 origo.hu##.style-travelo
 origo.hu##.with-double-breaking-strip
+origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > aside:last-child > app-sidebar:last-child > div.sidebar-main
+origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(13)
+origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
+origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origosport-wysiwyg-box:nth-child(5) > div.block-content:nth-child(2) > ul:last-child
 origo.hu##kesma-mediaworks-footer-compact
 origo.hu##kesma-sponsored-box
 origo.hu##origo-articles-related-content
