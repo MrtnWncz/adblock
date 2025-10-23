@@ -1,4 +1,4 @@
-########## 0000.2025.1023.2100
+########## 0000.2025.1023.2200
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -531,6 +531,7 @@ nytimes.com###showcase-link-6735182
 nytimes.com###showcase-link-6739461
 nytimes.com###slideup-paywall
 nytimes.com###slideup-regwall
+nytimes.com###stacked-recommendations-root
 nytimes.com###standalone-footer
 nytimes.com###ta-bar-one
 nytimes.com###top-league-content-root
@@ -557,6 +558,7 @@ nytimes.com##.dxuWPS.sc-d7bcf893-2
 nytimes.com##.e1xxpj0j1
 nytimes.com##.fides-overlay
 nytimes.com##.fKFRKA.sc-b1dc387f-0
+nytimes.com##.Footer_Footer___BSyrm
 nytimes.com##.Footer_Footer__BSyrm
 nytimes.com##.Footer_footer__n3iGa
 nytimes.com##.gateway-container
@@ -564,22 +566,32 @@ nytimes.com##.gdpr
 nytimes.com##.glvRoy.sc-41a4432-1
 nytimes.com##.go-deeper
 nytimes.com##.gOgnzx.sc-7d18ca-0
+nytimes.com##.Grid_justifyContent-flex-end___qVryc
 nytimes.com##.Grid_justifyContent-flex-end__qVryc
+nytimes.com##.Grid_xsNumber2___QJEIT
 nytimes.com##.Grid_xsNumber2__QJEIT
 nytimes.com##.iIoWTf.sc-5b229d13-0
 nytimes.com##.isPersonalizedAddOn
 nytimes.com##.jfciYU.sc-1e7d7615-0
 nytimes.com##.lmuhZL.sc-bfb49400-0
 nytimes.com##.MobileNav_MobileSub-scribeDisplay__7ugeg
+nytimes.com##.MobileNav_MobileSub-scribeDisplay___7ugeg
 nytimes.com##.MobileNav_MobileSubscribeDisplay
 nytimes.com##.MobileNav_MobileSubscribeDisplay__7ugeg
+nytimes.com##.MobileNav_MobileSubscribeDisplay___7ugeg
 nytimes.com##.puzzle-content-container
+nytimes.com##.PuzzleEntryPoint_PuzzleContainer___nayX
 nytimes.com##.ReactModalPortal
+nytimes.com##.RegionBanner_ban-ner___peckr
 nytimes.com##.RegionBanner_ban-ner__peckr
+nytimes.com##.RegionBanner_con-tent___kvPGd
 nytimes.com##.RegionBanner_con-tent__kvPGd
+nytimes.com##.RegionBanner_mes-sage___S2Ws_
 nytimes.com##.RegionBanner_mes-sage__S2Ws_
 nytimes.com##.RegionBanner_visi-ble__9Ph19
+nytimes.com##.RegionBanner_visi-ble___9Ph19
 nytimes.com##.RegionBanner_visible__9Ph19
+nytimes.com##.RegionBanner_visible___9Ph19
 nytimes.com##.sc-bb764264-0
 nytimes.com##.showcase-link-container
 nytimes.com##.ta-bar-one
