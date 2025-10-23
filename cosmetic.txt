@@ -1,8 +1,10 @@
-########## 0000.2025.1023.1500
+########## 0000.2025.1023.1600
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
 ##google-one-tap__container
+.MobileNav_MobileSubscribeDisplay
+.MobileNav_MobileSubscribeDisplay__7ugeg
 24.hu###credential_picker_container
 24.hu##.-noSticky
 24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
@@ -500,7 +502,6 @@ nemzetisport.hu##.nso-articles-related-content
 nemzetisport.hu##.recommendation-block
 nemzetisport.hu##nso-articles-related-content
 nlm.nih.gov##.usa-banner__header
-nytimes.com###app div:if(> div:only-child > div:only-child > div.ad)
 nytimes.com###athletic-gateway-container
 nytimes.com###c-col-editors-picks
 nytimes.com###complianceOverlay
@@ -519,7 +520,6 @@ nytimes.com###masthead-bar-one
 nytimes.com###most-popular-root
 nytimes.com###nav-subscribe-cta
 nytimes.com###newsletter-promo
-nytimes.com###showcase-link
 nytimes.com###showcase-link-6732827
 nytimes.com###showcase-link-6735182
 nytimes.com###slideup-paywall
@@ -565,6 +565,7 @@ nytimes.com##.ReactModalPortal
 nytimes.com##.RegionBanner_visible__9Ph19
 nytimes.com##.sc-bb764264-0
 nytimes.com##.ta-bar-one
+nytimes.com##div#showcase-link
 open.spotify.com##.paywall
 open.spotify.com##button[data-testid="open-app-button"]
 origo.hu##.blue
