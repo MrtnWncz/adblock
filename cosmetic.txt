@@ -847,6 +847,7 @@ wsj.com##.css-gykdi7-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-vkkgu1-CustomerNavWrapper, .e1mkna770
 wsj.com##.nav-hat
 wsj.com##nav-hat
+www.nytimes.com##footer
 www.nytimes.com###showcase-link-6343902
 www.nytimes.com###showcase-link-6458487
 www.nytimes.com###showcase-link-6568120
@@ -857,14 +858,6 @@ www.nytimes.com###showcase-link-6739461
 www.nytimes.com##.Grid_xsNumber2__QJEIT
 www.nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 www.nytimes.com##.showcase-link-container
-www.nytimes.com##div#showcase-link
-www.nytimes.com##footer
-www.nytimes.com#showcase-link-6343902
-www.nytimes.com#showcase-link-6458487
-www.nytimes.com#showcase-link-6568120
-www.nytimes.com#showcase-link-6618918
-www.nytimes.com#showcase-link-6658919
-www.nytimes.com#showcase-link-6739461
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
