@@ -1,4 +1,4 @@
-########## 0000.2025.1023.2300
+########## 0000.2025.1024.2000
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -527,7 +527,10 @@ nytimes.com###masthead-bar-one
 nytimes.com###most-popular-root
 nytimes.com###nav-subscribe-cta
 nytimes.com###newsletter-promo
+nytimes.com###showcase-link-6343902
 nytimes.com###showcase-link-6458487
+nytimes.com###showcase-link-6568120
+nytimes.com###showcase-link-6618918
 nytimes.com###showcase-link-6658919
 nytimes.com###showcase-link-6732827
 nytimes.com###showcase-link-6735182
@@ -585,6 +588,7 @@ nytimes.com##.MobileNav_MobileSubscribeDisplay__7ugeg
 nytimes.com##.MobileNav_MobileSubscribeDisplay___7ugeg
 nytimes.com##.puzzle-content-container
 nytimes.com##.PuzzleEntryPoint_PuzzleContainer___nayX
+nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 nytimes.com##.ReactModalPortal
 nytimes.com##.RegionBanner_ban-ner___peckr
 nytimes.com##.RegionBanner_ban-ner__peckr
@@ -603,9 +607,14 @@ nytimes.com##[data-campaign=fallback]
 nytimes.com##[data-testid=onsite-messaging-unit-athleticBarOne]
 nytimes.com##div#showcase-link
 nytimes.com##footer
+nytimes.com#showcase-link-6343902
 nytimes.com#showcase-link-6458487
+nytimes.com#showcase-link-6568120
+nytimes.com#showcase-link-6618918
 nytimes.com#showcase-link-6658919
 nytimes.com#showcase-link-6739461
+nytimes.com.Grid_xsNumber2__QJEIT
+nytimes.com.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 open.spotify.com##.paywall
 open.spotify.com##button[data-testid="open-app-button"]
 origo.hu##.blue
@@ -838,6 +847,12 @@ wsj.com##.css-gykdi7-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-vkkgu1-CustomerNavWrapper, .e1mkna770
 wsj.com##.nav-hat
 wsj.com##nav-hat
+www.nytimes.com###showcase-link-6343902
+www.nytimes.com###showcase-link-6568120
+www.nytimes.com###showcase-link-6618918
+www.nytimes.com##.Grid_xsNumber2__QJEIT
+www.nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
+www.nytimes.com##footer
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
