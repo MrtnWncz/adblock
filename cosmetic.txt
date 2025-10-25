@@ -1,4 +1,4 @@
-########## 0000.2025.1024.2100
+########## 0000.2025.1025.9000
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -763,6 +763,7 @@ telex.hu##.footer__app
 telex.hu##.footer__container
 telex.hu##.l-screen.telex-links
 telex.hu##.modal--tax
+tekex.hu##.navigation--domain
 telex.hu##.modal--threat__content
 telex.hu##.navigation__button
 telex.hu##.navigation__logo
