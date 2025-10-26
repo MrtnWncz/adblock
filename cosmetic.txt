@@ -1,4 +1,4 @@
-########## 0000.2025.1026.1400
+########## 0000.2025.1026.1500
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -500,6 +500,9 @@ nemzetisport.hu###FeaturedSidedBottomColumnTitleDate
 nemzetisport.hu##.article-header-right-top
 nemzetisport.hu##.FeaturedSidedBottomColumnTitleDate
 nemzetisport.hu##.nso-articles-related-content
+nemzetisport.hu##.footer-menu
+nemzetisport.hu##nso-subscription
+nemzetisport.hu###nso-subscription
 nemzetisport.hu##.recommendation-block
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(16)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(5)
