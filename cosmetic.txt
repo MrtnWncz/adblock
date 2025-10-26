@@ -1,4 +1,4 @@
-########## 0000.2025.1025.1000
+########## 0000.2025.1026.1400
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -496,9 +496,21 @@ ncore.pro###fancybox-overlay
 ncore.pro###fancybox-wrap
 ncore.pro##.hessteg-ad-block.news_block_right
 ncore.pro##.infocsik
+nemzetisport.hu###FeaturedSidedBottomColumnTitleDate
 nemzetisport.hu##.article-header-right-top
+nemzetisport.hu##.FeaturedSidedBottomColumnTitleDate
 nemzetisport.hu##.nso-articles-related-content
 nemzetisport.hu##.recommendation-block
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(16)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(5)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(10)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(11)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(12)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(13)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(6)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(7)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(8)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(9)
 nemzetisport.hu##nso-articles-related-content
 nlm.nih.gov##.usa-banner__header
 nytimes.com####ta-bar-one
@@ -763,8 +775,8 @@ telex.hu##.footer__app
 telex.hu##.footer__container
 telex.hu##.l-screen.telex-links
 telex.hu##.modal--tax
-telex.hu##.navigation--domain
 telex.hu##.modal--threat__content
+telex.hu##.navigation--domain
 telex.hu##.navigation__button
 telex.hu##.navigation__logo
 telex.hu##.pip
@@ -848,7 +860,6 @@ wsj.com##.css-gykdi7-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-vkkgu1-CustomerNavWrapper, .e1mkna770
 wsj.com##.nav-hat
 wsj.com##nav-hat
-www.nytimes.com##footer
 www.nytimes.com###showcase-link-6343902
 www.nytimes.com###showcase-link-6458487
 www.nytimes.com###showcase-link-6568120
@@ -859,6 +870,7 @@ www.nytimes.com###showcase-link-6739461
 www.nytimes.com##.Grid_xsNumber2__QJEIT
 www.nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 www.nytimes.com##.showcase-link-container
+www.nytimes.com##footer
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
