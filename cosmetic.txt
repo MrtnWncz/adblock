@@ -1,4 +1,4 @@
-########## 0000 2025.1027.2000
+########## 0000 2025.1027.2100
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -518,11 +518,6 @@ nemzetisport.hu##nso-articles-related-content
 nemzetisport.hu##nso-subscription
 nlm.nih.gov##.usa-banner__header
 nytimes.com####ta-bar-one
-nytimes.com###[data-campaign=fallback]
-nytimes.com###[data-testid=onsite-messaging-unit-athleticBarOne]
-nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.Header_TopHeaderNavBar__jxe2t:first-child > div.mobile-padding.Container_default-padding__wzugc.Container_container__l8hjR > div.Grid_item__V5q9S.Grid_container__uWTYN.Grid_alignItems-stretch__yf9bR.Grid_justifyContent-flex-end__qVryc.Grid_xsNumber2__QJEIT.Grid_smNumber5__X7HJQ.Grid_mdNumber5__LmA05:last-child
-nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.RegionBanner_banner__peckr.RegionBanner_visible__9Ph19:last-child
-nytimes.com###__next > div > footer.Footer_footer__n3iGa:last-child
 nytimes.com###article-container-grid > div.PuzzleEntryPoint_PuzzleContainer___nayX:last-child
 nytimes.com###athletic-gateway-container
 nytimes.com###c-col-editors-picks
@@ -583,6 +578,7 @@ nytimes.com##.e1xxpj0j1
 nytimes.com##.fides-overlay
 nytimes.com##.fKFRKA.sc-b1dc387f-0
 nytimes.com##.Footer_Footer___BSyrm
+nytimes.com##.Footer_footer___n3iGa
 nytimes.com##.Footer_Footer__BSyrm
 nytimes.com##.Footer_footer__n3iGa
 nytimes.com##.gateway-container
@@ -609,10 +605,16 @@ nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 nytimes.com##.ReactModalPortal
 nytimes.com##.RegionBanner_ban-ner___peckr
 nytimes.com##.RegionBanner_ban-ner__peckr
+nytimes.com##.RegionBanner_banner___peckr
+nytimes.com##.RegionBanner_banner__peckr
 nytimes.com##.RegionBanner_con-tent___kvPGd
 nytimes.com##.RegionBanner_con-tent__kvPGd
+nytimes.com##.RegionBanner_content___kvPGd
+nytimes.com##.RegionBanner_content__kvPGd
 nytimes.com##.RegionBanner_mes-sage___S2Ws_
 nytimes.com##.RegionBanner_mes-sage__S2Ws_
+nytimes.com##.RegionBanner_message___S2Ws_
+nytimes.com##.RegionBanner_message__S2Ws_
 nytimes.com##.RegionBanner_visi-ble__9Ph19
 nytimes.com##.RegionBanner_visi-ble___9Ph19
 nytimes.com##.RegionBanner_visible__9Ph19
@@ -620,9 +622,6 @@ nytimes.com##.RegionBanner_visible___9Ph19
 nytimes.com##.sc-bb764264-0
 nytimes.com##.showcase-link-container
 nytimes.com##.ta-bar-one
-nytimes.com##[data-campaign=fallback]
-nytimes.com##[data-testid=onsite-messaging-unit-athleticBarOne]
-nytimes.com##div#showcase-link
 nytimes.com##footer
 nytimes.com#showcase-link-6343902
 nytimes.com#showcase-link-6458487
@@ -632,9 +631,6 @@ nytimes.com#showcase-link-6658919
 nytimes.com#showcase-link-6739461
 nytimes.com.Grid_xsNumber2__QJEIT
 nytimes.com.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
-nytimes.com/##.Grid_xsNumber2__QJEIT
-nytimes.com/##.PuzzleEntryPoint_PuzzleContainer___nayX
-nytimes.com/##footer
 open.spotify.com##.paywall
 open.spotify.com##button[data-testid="open-app-button"]
 origo.hu##.blue
@@ -868,124 +864,6 @@ wsj.com##.css-gykdi7-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-vkkgu1-CustomerNavWrapper, .e1mkna770
 wsj.com##.nav-hat
 wsj.com##nav-hat
-www.nytimes.com####ta-bar-one
-www.nytimes.com###[data-campaign=fallback]
-www.nytimes.com###[data-testid=onsite-messaging-unit-athleticBarOne]
-www.nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.Header_TopHeaderNavBar__jxe2t:first-child > div.mobile-padding.Container_default-padding__wzugc.Container_container__l8hjR > div.Grid_item__V5q9S.Grid_container__uWTYN.Grid_alignItems-stretch__yf9bR.Grid_justifyContent-flex-end__qVryc.Grid_xsNumber2__QJEIT.Grid_smNumber5__X7HJQ.Grid_mdNumber5__LmA05:last-child
-www.nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.RegionBanner_banner__peckr.RegionBanner_visible__9Ph19:last-child
-www.nytimes.com###__next > div > footer.Footer_footer__n3iGa:last-child
-www.nytimes.com###article-container-grid > div.PuzzleEntryPoint_PuzzleContainer___nayX:last-child
-www.nytimes.com###athletic-gateway-container
-www.nytimes.com###c-col-editors-picks
-www.nytimes.com###complianceOverlay
-www.nytimes.com###content-recommendation-root
-www.nytimes.com###credential_picker_container
-www.nytimes.com###credential_picker_iframe
-www.nytimes.com###darken-overlay
-www.nytimes.com###darkwall
-www.nytimes.com###dock-container
-www.nytimes.com###fides-overlay
-www.nytimes.com###footer
-www.nytimes.com###gateway-container
-www.nytimes.com###gateway-content
-www.nytimes.com###google-one-tap-container
-www.nytimes.com###inline-graphic
-www.nytimes.com###masthead-bar-one
-www.nytimes.com###most-popular-root
-www.nytimes.com###nav-subscribe-cta
-www.nytimes.com###newsletter-promo
-www.nytimes.com###showcase-link-6343902
-www.nytimes.com###showcase-link-6458487
-www.nytimes.com###showcase-link-6568120
-www.nytimes.com###showcase-link-6573388
-www.nytimes.com###showcase-link-6618918
-www.nytimes.com###showcase-link-6658919
-www.nytimes.com###showcase-link-6732827
-www.nytimes.com###showcase-link-6735182
-www.nytimes.com###showcase-link-6739461
-www.nytimes.com###slideup-paywall
-www.nytimes.com###slideup-regwall
-www.nytimes.com###stacked-recommendations-root
-www.nytimes.com###standalone-footer
-www.nytimes.com###storyline-root
-www.nytimes.com###ta-bar-one
-www.nytimes.com###top-league-content-root
-www.nytimes.com###top-news-root
-www.nytimes.com###TopAd1
-www.nytimes.com###user-modal-drawer
-www.nytimes.com##.#ta-bar-one
-www.nytimes.com##.bkTkuQ.sc-55d79bd3-1
-www.nytimes.com##.bzjZNd.sc-bfe43728-21
-www.nytimes.com##.css-11dvitf
-www.nytimes.com##.css-1bd8bfl
-www.nytimes.com##.css-1pd93lg-FormBox
-www.nytimes.com##.css-1r6nyza
-www.nytimes.com##.css-1r939ki
-www.nytimes.com##.css-1trsbq4
-www.nytimes.com##.css-3q1dtb
-www.nytimes.com##.css-axg1qy
-www.nytimes.com##.css-mcm29f
-www.nytimes.com##.css-ni09ec
-www.nytimes.com##.css-s2htvn
-www.nytimes.com##.dpftJE.sc-a38d734-0
-www.nytimes.com##.dscpPZ.sc-c8885e19-0
-www.nytimes.com##.dxuWPS.sc-d7bcf893-2
-www.nytimes.com##.e1xxpj0j1
-www.nytimes.com##.fides-overlay
-www.nytimes.com##.fKFRKA.sc-b1dc387f-0
-www.nytimes.com##.Footer_Footer___BSyrm
-www.nytimes.com##.Footer_Footer__BSyrm
-www.nytimes.com##.Footer_footer__n3iGa
-www.nytimes.com##.gateway-container
-www.nytimes.com##.gdpr
-www.nytimes.com##.glvRoy.sc-41a4432-1
-www.nytimes.com##.go-deeper
-www.nytimes.com##.gOgnzx.sc-7d18ca-0
-www.nytimes.com##.Grid_justifyContent-flex-end___qVryc
-www.nytimes.com##.Grid_justifyContent-flex-end__qVryc
-www.nytimes.com##.Grid_xsNumber2___QJEIT
-www.nytimes.com##.Grid_xsNumber2__QJEIT
-www.nytimes.com##.iIoWTf.sc-5b229d13-0
-www.nytimes.com##.isPersonalizedAddOn
-www.nytimes.com##.jfciYU.sc-1e7d7615-0
-www.nytimes.com##.lmuhZL.sc-bfb49400-0
-www.nytimes.com##.MobileNav_MobileSub-scribeDisplay__7ugeg
-www.nytimes.com##.MobileNav_MobileSub-scribeDisplay___7ugeg
-www.nytimes.com##.MobileNav_MobileSubscribeDisplay
-www.nytimes.com##.MobileNav_MobileSubscribeDisplay__7ugeg
-www.nytimes.com##.MobileNav_MobileSubscribeDisplay___7ugeg
-www.nytimes.com##.puzzle-content-container
-www.nytimes.com##.PuzzleEntryPoint_PuzzleContainer___nayX
-www.nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
-www.nytimes.com##.ReactModalPortal
-www.nytimes.com##.RegionBanner_ban-ner___peckr
-www.nytimes.com##.RegionBanner_ban-ner__peckr
-www.nytimes.com##.RegionBanner_con-tent___kvPGd
-www.nytimes.com##.RegionBanner_con-tent__kvPGd
-www.nytimes.com##.RegionBanner_mes-sage___S2Ws_
-www.nytimes.com##.RegionBanner_mes-sage__S2Ws_
-www.nytimes.com##.RegionBanner_visi-ble__9Ph19
-www.nytimes.com##.RegionBanner_visi-ble___9Ph19
-www.nytimes.com##.RegionBanner_visible__9Ph19
-www.nytimes.com##.RegionBanner_visible___9Ph19
-www.nytimes.com##.sc-bb764264-0
-www.nytimes.com##.showcase-link-container
-www.nytimes.com##.ta-bar-one
-www.nytimes.com##[data-campaign=fallback]
-www.nytimes.com##[data-testid=onsite-messaging-unit-athleticBarOne]
-www.nytimes.com##div#showcase-link
-www.nytimes.com##footer
-www.nytimes.com#showcase-link-6343902
-www.nytimes.com#showcase-link-6458487
-www.nytimes.com#showcase-link-6568120
-www.nytimes.com#showcase-link-6618918
-www.nytimes.com#showcase-link-6658919
-www.nytimes.com#showcase-link-6739461
-www.nytimes.com.Grid_xsNumber2__QJEIT
-www.nytimes.com.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
-www.nytimes.com/##.Grid_xsNumber2__QJEIT
-www.nytimes.com/##.PuzzleEntryPoint_PuzzleContainer___nayX
-www.nytimes.com/##footer
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
