@@ -1,8 +1,54 @@
-########## 0000 2025.1027.2100
-###fadeIn
-###google-one-tap__container
+########## 0000 2025.1101.1500
 ##.fadeIn
+##fadeIn
+###fadeIn
+##.google-one-tap__container
 ##google-one-tap__container
+###google-one-tap__container
+
+##.cookie-alert
+##.cookie-alert:not(body):not(html)
+##.cookie-banner
+##.cookie-banner-wrapper
+##.cookie-bar
+##.cookie-bar:not(body):not(html)
+##.cookie-box
+##.cookie-consent
+##.cookie-consent-banner
+##.cookie-consent-dialog
+##.cookie-consent-wrapper
+##.cookie-consent:not(body):not(html)
+##.cookie-container
+##.cookie-info
+##.cookie-law
+##.cookie-law:not(body):not(html)
+##.cookie-layer
+##.cookie-message
+##.cookie-message:not(body):not(html)
+##.cookie-notice
+##.cookie-notice-banner
+##.cookie-notice-overlay
+##.cookie-notice-wrapper
+##.cookie-notice:not(body):not(html)
+##.cookie-notification
+##.cookie-notification:not(body):not(html)
+##.cookie-overlay
+##.cookie-overlay:not(body):not(html)
+##.cookie-policy
+##.cookie-policy-notification
+##.cookie-policy:not(body):not(html)
+##.cookie-popup
+##.cookie-popup-container
+##.cookie-popup:not(body):not(html)
+##.cookie-prompt
+##.cookies‐banner
+##.cookie‐wall
+##.gdpr-banner
+##.gdpr-consent
+##.gdpr-notice
+##.gdpr-overlay
+##.privacy-banner
+
 24.hu###credential_picker_container
 24.hu##.-noSticky
 24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
@@ -200,6 +246,8 @@ biobolt.eu###fogyaszto
 biobolt.eu###hud
 biobolt.eu###top-bar
 biomenu.hu###exposeMaskOverlay
+bkk.hu###gdprCookieSettings
+bkk.hu##.cookie-new-wrapper
 canva.com##._1PHgrg, .FijAlA
 chatgpt.com##+js(set-local-storage-item, oai/apps/hasSeenNoAuthImagegenNux, true)
 chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
@@ -504,6 +552,7 @@ nemzetisport.hu##.FeaturedSidedBottomColumnTitleDate
 nemzetisport.hu##.footer-menu
 nemzetisport.hu##.nso-articles-related-content
 nemzetisport.hu##.recommendation-block
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > aside:last-child
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(16)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(5)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(10)
