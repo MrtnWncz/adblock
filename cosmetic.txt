@@ -1,4 +1,4 @@
-########## 0000 2025.1101.1500
+########## 0000 2025.1101.1600
 ##.fadeIn
 ##fadeIn
 ###fadeIn
@@ -248,6 +248,8 @@ biobolt.eu###top-bar
 biomenu.hu###exposeMaskOverlay
 bkk.hu###gdprCookieSettings
 bkk.hu##.cookie-new-wrapper
+bkk.hu##.noir noir-shadow
+bkk.hu##.noir-shadow
 canva.com##._1PHgrg, .FijAlA
 chatgpt.com##+js(set-local-storage-item, oai/apps/hasSeenNoAuthImagegenNux, true)
 chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
