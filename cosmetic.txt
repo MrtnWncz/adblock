@@ -1,54 +1,10 @@
-########## 0000 2025.1101.1600
+########## 0000 2025.1101.1700
 ##.fadeIn
 ##fadeIn
 ###fadeIn
 ##.google-one-tap__container
 ##google-one-tap__container
 ###google-one-tap__container
-
-##.cookie-alert
-##.cookie-alert:not(body):not(html)
-##.cookie-banner
-##.cookie-banner-wrapper
-##.cookie-bar
-##.cookie-bar:not(body):not(html)
-##.cookie-box
-##.cookie-consent
-##.cookie-consent-banner
-##.cookie-consent-dialog
-##.cookie-consent-wrapper
-##.cookie-consent:not(body):not(html)
-##.cookie-container
-##.cookie-info
-##.cookie-law
-##.cookie-law:not(body):not(html)
-##.cookie-layer
-##.cookie-message
-##.cookie-message:not(body):not(html)
-##.cookie-notice
-##.cookie-notice-banner
-##.cookie-notice-overlay
-##.cookie-notice-wrapper
-##.cookie-notice:not(body):not(html)
-##.cookie-notification
-##.cookie-notification:not(body):not(html)
-##.cookie-overlay
-##.cookie-overlay:not(body):not(html)
-##.cookie-policy
-##.cookie-policy-notification
-##.cookie-policy:not(body):not(html)
-##.cookie-popup
-##.cookie-popup-container
-##.cookie-popup:not(body):not(html)
-##.cookie-prompt
-##.cookies‐banner
-##.cookie‐wall
-##.gdpr-banner
-##.gdpr-consent
-##.gdpr-notice
-##.gdpr-overlay
-##.privacy-banner
-
 24.hu###credential_picker_container
 24.hu##.-noSticky
 24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
@@ -239,17 +195,7 @@ benu.hu##.popup_wrapper
 benu.hu/##molin-shop-ai
 bestmarkt.hu###ddModal-inner
 bestmarkt.hu###ddModal>div.overlay:first-child
-biobolt.eu###fb_content_box_wrapper
-biobolt.eu###fb_header_box
-biobolt.eu###fb_minim_content
-biobolt.eu###fogyaszto
-biobolt.eu###hud
-biobolt.eu###top-bar
 biomenu.hu###exposeMaskOverlay
-bkk.hu###gdprCookieSettings
-bkk.hu##.cookie-new-wrapper
-bkk.hu##.noir noir-shadow
-bkk.hu##.noir-shadow
 canva.com##._1PHgrg, .FijAlA
 chatgpt.com##+js(set-local-storage-item, oai/apps/hasSeenNoAuthImagegenNux, true)
 chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
