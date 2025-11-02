@@ -1,4 +1,4 @@
-########## 0000 2025.1102.1800
+########## 0000 2025.1102.1900
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -626,9 +626,11 @@ nytimes.com##.showcase-link-container
 nytimes.com##.subscribe-button
 nytimes.com##.ta-bar-one
 nytimes.com##[data-testid="subscribe-button"]
+nytimes.com##[href*="nytimes.com/subscription"]
 nytimes.com##button:contains("Subscribe"):not([aria-label])
 nytimes.com##div[aria-label="Subscribe Button"]
 nytimes.com##div[class*="subscribe"] 
+nytimes.com##div[class^="RegionBanner_banner__"]
 nytimes.com##footer
 nytimes.com##header button.css-1a0i3lu
 nytimes.com#showcase-link-6343902
