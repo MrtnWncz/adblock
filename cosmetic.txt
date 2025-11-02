@@ -1,4 +1,4 @@
-########## 0000 2025.1102.1500
+########## 0000 2025.1102.1600
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -862,6 +862,38 @@ wsj.com##.css-gykdi7-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-vkkgu1-CustomerNavWrapper, .e1mkna770
 wsj.com##.nav-hat
 wsj.com##nav-hat
+www.nytimes.com###footer
+www.nytimes.com###ta-bar-one
+www.nytimes.com###user-modal-drawer
+www.nytimes.com##.#ta-bar-one
+www.nytimes.com##.Footer_Footer___BSyrm
+www.nytimes.com##.Footer_footer___n3iGa
+www.nytimes.com##.Footer_Footer__BSyrm
+www.nytimes.com##.Footer_footer__n3iGa
+www.nytimes.com##.MobileNav_MobileSub-scribeDisplay__7ugeg
+www.nytimes.com##.MobileNav_MobileSub-scribeDisplay___7ugeg
+www.nytimes.com##.MobileNav_MobileSubscribeDisplay
+www.nytimes.com##.MobileNav_MobileSubscribeDisplay__7ugeg
+www.nytimes.com##.MobileNav_MobileSubscribeDisplay___7ugeg
+www.nytimes.com##.RegionBanner_ban-ner___peckr
+www.nytimes.com##.RegionBanner_ban-ner__peckr
+www.nytimes.com##.RegionBanner_banner___peckr
+www.nytimes.com##.RegionBanner_banner__peckr
+www.nytimes.com##.RegionBanner_con-tent___kvPGd
+www.nytimes.com##.RegionBanner_con-tent__kvPGd
+www.nytimes.com##.RegionBanner_content___kvPGd
+www.nytimes.com##.RegionBanner_content__kvPGd
+www.nytimes.com##.RegionBanner_mes-sage___S2Ws_
+www.nytimes.com##.RegionBanner_mes-sage__S2Ws_
+www.nytimes.com##.RegionBanner_message___S2Ws_
+www.nytimes.com##.RegionBanner_message__S2Ws_
+www.nytimes.com##.RegionBanner_visi-ble__9Ph19
+www.nytimes.com##.RegionBanner_visi-ble___9Ph19
+www.nytimes.com##.RegionBanner_visible__9Ph19
+www.nytimes.com##.RegionBanner_visible___9Ph19
+www.nytimes.com.Grid_xsNumber2__QJEIT
+wwwnytimes.com##.ta-bar-one
+wwwnytimes.com##footer
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
