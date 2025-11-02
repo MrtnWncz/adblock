@@ -1,10 +1,10 @@
-########## 0000 2025.1101.1700
-##.fadeIn
-##fadeIn
+########## 0000 2025.1102.1500
 ###fadeIn
-##.google-one-tap__container
-##google-one-tap__container
 ###google-one-tap__container
+##.fadeIn
+##.google-one-tap__container
+##fadeIn
+##google-one-tap__container
 24.hu###credential_picker_container
 24.hu##.-noSticky
 24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
@@ -672,6 +672,7 @@ quora.com##.qu-bg--poe_primary_purple:has-text(Ask AI bots any question on Poe, 
 quora.com##button[type="button"]:has-text(Open in App)
 quora.com##div#credential_picker_container
 reddit.com###blocking-modal-blur-container:style(filter: none !important;)
+reddit.com###left-sidebar > nav.z-2.box-border.flex.flex-col.mt-0.mb-0.pt-md.shrink-0.s\:shrink.w-full.min-h-screen-without-header.select-none > faceplate-tracker:nth-child(3) > games-section-badge-controller.nd\:visible
 reddit.com###right-sidebar-contents
 reddit.com###search-hero
 reddit.com###team-flair-selection-modal
