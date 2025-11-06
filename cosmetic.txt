@@ -1,4 +1,5 @@
-########## 0000 2025.1103.1900
+########## 0000 2025.1106.1900
+###:remove-class(fadeIn)
 ###fadeIn
 ###google-one-tap__container
 ##.fadeIn
@@ -239,12 +240,14 @@ arukereso.hu##.top-promo-banner
 arukereso.hu##.top-promo-banner-wrapper
 arukereso.hu##.visible
 benu.hu###amrelated-block-9
+benu.hu###molin-shop-ai
 benu.hu##.header-message
 benu.hu##.mfp-close
 benu.hu##.mfp-wrap
 benu.hu##.mp-container
 benu.hu##.popup_content
 benu.hu##.popup_wrapper
+benu.hu##molin-shop-ai
 benu.hu/##molin-shop-ai
 bestmarkt.hu###ddModal-inner
 bestmarkt.hu###ddModal>div.overlay:first-child
@@ -382,6 +385,8 @@ grok.com##.bg-black\/20
 grok.com##.bg-overlay
 grok.com##.bg-surface-l2
 grok.com##.m-10.w-full.max-w-\[480px\].dark.relative
+grok.com##.toast
+grok.com##section:nth-child(4) > ol.toaster.group > li.inset-x-0.mx-auto.group.toast.bg-popover.rounded-2xl.border-0.shadow-sm.w-fit.min-w-\[200px\].left-0.right-0.sm\:mx-auto.ring-1.ring-inset.ring-input-border.p-3\.5.h-fit.gap-3
 gyakorikerdesek.hu###stialert
 gyakorikerdesek.hu###stidiv
 gymbeam.hu##.gb-notification
@@ -553,6 +558,7 @@ nemzetisport.hu##.FeaturedSidedBottomColumnTitleDate
 nemzetisport.hu##.footer-menu
 nemzetisport.hu##.nso-articles-related-content
 nemzetisport.hu##.recommendation-block
+nemzetisport.hu##.share
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > aside:last-child
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(16)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(5)
@@ -719,6 +725,7 @@ origo.hu##.with-double-breaking-strip
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > aside:last-child > app-sidebar:last-child > div.sidebar-main
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(13)
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
+origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(19)
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origosport-wysiwyg-box:nth-child(5) > div.block-content:nth-child(2) > ul:last-child
 origo.hu##kesma-mediaworks-footer-compact
 origo.hu##kesma-sponsored-box
@@ -1055,6 +1062,16 @@ www.nytimes.com###Footer_Footer__BSyrm
 www.nytimes.com###OpenAppToast_OpenAppToast__CfDPd
 www.nytimes.com###PuzzleEntryPoint_PuzzlesContentContainer__YIJUL 
 www.nytimes.com###RegionBanner_banner__peckr
+www.nytimes.com###showcase-link-5587198
+www.nytimes.com###showcase-link-6343902
+www.nytimes.com###showcase-link-6458487
+www.nytimes.com###showcase-link-6568120
+www.nytimes.com###showcase-link-6573388
+www.nytimes.com###showcase-link-6618918
+www.nytimes.com###showcase-link-6658919
+www.nytimes.com###showcase-link-6732827
+www.nytimes.com###showcase-link-6735182
+www.nytimes.com###showcase-link-6739461
 www.nytimes.com###ta-bar-one
 www.nytimes.com##.Content_PuzzleContainer__xV0Ru
 www.nytimes.com##.Footer_Footer__BSyrm
