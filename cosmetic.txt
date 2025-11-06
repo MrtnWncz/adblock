@@ -1,9 +1,22 @@
-########## 0000 2025.1106.1900
+########## 0000 2025.1106.2000
 ###:remove-class(fadeIn)
 ###fadeIn
 ###google-one-tap__container
+##.-bottom-px
+##.-right-10
+##.\[animation-delay\:500ms\]
 ##.fadeIn
+##.fadeln
 ##.google-one-tap__container
+##.h-\[250px\]
+##.min-\[450px\\:right-3
+##.min-\[450px\]:-right-px
+##.min-\[450px\]\:bottom-3
+##.min-\[450px\]\:w-\[400px\]
+##.outline
+##.outline-1
+##.outline-gray-300
+##.shadow-xl
 ##fadeIn
 ##google-one-tap__container
 24.hu###credential_picker_container
@@ -1069,6 +1082,7 @@ www.nytimes.com###showcase-link-6568120
 www.nytimes.com###showcase-link-6573388
 www.nytimes.com###showcase-link-6618918
 www.nytimes.com###showcase-link-6658919
+www.nytimes.com###showcase-link-6665455
 www.nytimes.com###showcase-link-6732827
 www.nytimes.com###showcase-link-6735182
 www.nytimes.com###showcase-link-6739461
