@@ -6,7 +6,6 @@
 ##.-right-10
 ##.\[animation-delay\:500ms\]
 ##.fadeIn
-##.fadeln
 ##.google-one-tap__container
 ##.h-\[250px\]
 ##.min-\[450px\\:right-3
