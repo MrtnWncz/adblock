@@ -1,6 +1,6 @@
-########## 0000 2025.1106.2400
+########## 0000 2025.1108.1100
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
-###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
+###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
@@ -705,6 +705,8 @@ nytimes.com.Grid_xsNumber2__QJEIT
 nytimes.com.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 open.spotify.com##.paywall
 open.spotify.com##button[data-testid="open-app-button"]
+origo.hu###app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
+origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 origo.hu##.blue
 origo.hu##.content-type-newsletter-block
 origo.hu##.content-type-social-media
@@ -725,6 +727,7 @@ origo.hu##.style-ripost
 origo.hu##.style-tenyek
 origo.hu##.style-travelo
 origo.hu##.with-double-breaking-strip
+origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > aside:last-child > app-sidebar:last-child > div.sidebar-main
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(13)
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
@@ -1060,6 +1063,8 @@ wsj.com##.css-gykdi7-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-vkkgu1-CustomerNavWrapper, .e1mkna770
 wsj.com##.nav-hat
 wsj.com##nav-hat
+www.nytimes###showcase-link-6115307
+www.nytimes###showcase-link-6742851
 www.nytimes.com###Content_PuzzleContainer__xV0Ru
 www.nytimes.com###Footer_Footer__BSyrm
 www.nytimes.com###OpenAppToast_OpenAppToast__CfDPd
@@ -1083,6 +1088,9 @@ www.nytimes.com##.OpenAppToast_OpenAppToast__CfDPd
 www.nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 www.nytimes.com##.RegionBanner_banner__peckr
 www.nytimes.com##ta-bar-one
+www.origo.hu###app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
+www.origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
+www.origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
