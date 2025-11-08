@@ -1,4 +1,4 @@
-########## 0000 2025.1108.2000
+########## 0000 2025.1108.2100
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
@@ -729,6 +729,7 @@ origo.hu##.style-ripost
 origo.hu##.style-tenyek
 origo.hu##.style-travelo
 origo.hu##.with-double-breaking-strip
+origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > aside:last-child
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > aside:last-child > app-sidebar:last-child > div.sidebar-main
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(13)
