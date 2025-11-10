@@ -1,4 +1,4 @@
-########## 0000 2025.1108.2100
+########## 0000 2025.1110.2000
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
@@ -695,6 +695,8 @@ nytimes.com##div[class*="subscribe"]
 nytimes.com##div[class^="RegionBanner_banner__"]
 nytimes.com##footer
 nytimes.com##header button.css-1a0i3lu
+nytimes.com#$# #showcase-link { display: none !important; }
+nytimes.com#?# #showcase-link
 nytimes.com#showcase-link-6343902
 nytimes.com#showcase-link-6458487
 nytimes.com#showcase-link-6568120
@@ -922,6 +924,8 @@ theathletic.com###showcase-link-6658919
 theathletic.com###showcase-link-6732827
 theathletic.com###showcase-link-6735182
 theathletic.com###showcase-link-6739461
+theathletic.com###showcase-link-6774171
+theathletic.com###showcase-link-6776323
 theathletic.com###slideup-paywall
 theathletic.com###slideup-regwall
 theathletic.com###stacked-recommendations-root
@@ -1093,9 +1097,13 @@ www.nytimes.com##.OpenAppToast_OpenAppToast__CfDPd
 www.nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 www.nytimes.com##.RegionBanner_banner__peckr
 www.nytimes.com##ta-bar-one
+www.nytimes.com#$# #showcase-link { display: none !important; }
+www.nytimes.com#?# #showcase-link
 www.origo.hu###app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 www.origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 www.origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
+www.theathletic.com###showcase-link-6774171
+www.theathletic.com###showcase-link-6776323
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
