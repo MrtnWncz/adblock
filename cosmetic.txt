@@ -1,4 +1,4 @@
-########## 0000 2025.1110.2000
+########## 0000 2025.1111.2000
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
@@ -334,6 +334,7 @@ facebook.com###photos_snowlift .wrapper > .inner > .ego_section
 facebook.com##._9oet._9ofg._9oeu._3-8x._54k8
 facebook.com##.bottom
 facebook.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
+finance.yahoo.com##div[class*="consent"]
 futunatura.hu##.action_wrapper
 galeria.totalcar.hu###hasznaltauto_iframe_wrapper
 galeriasavaria.hu##.box_wave, .box_wave_prod
@@ -724,6 +725,7 @@ origo.hu##.origo-newsletter-box
 origo.hu##.portfolio-link-list
 origo.hu##.services-box
 origo.hu##.style-bors
+origo.hu##.style-FeaturedTopImgTagSmallTitleLead
 origo.hu##.style-life
 origo.hu##.style-nemzetisport
 origo.hu##.style-OrigoBlue
@@ -1109,4 +1111,10 @@ x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
 yahoo.com###preArticle
 yahoo.com##.app-banner
+yahoo.com##div[class*="consent"]
+yahoo.com#$#body { overflow: auto !important; }
 youtube.com###frosted-glass
+||cmp.yahoo.com^
+||cmp.yahoo.com^$all
+||consent.yahoo.com^
+||consent.yahoo.com^$all
