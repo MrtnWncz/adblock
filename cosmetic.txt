@@ -1,7 +1,8 @@
-########## 0000 2025.1111.2000
+########## 0000 2025.1111.2100
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
+###molin-shop-ai
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##.google-one-tap__container
@@ -9,6 +10,7 @@
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##google-one-tap__container
+##molin-shop-ai
 24.hu###credential_picker_container
 24.hu##.-noSticky
 24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
@@ -691,6 +693,7 @@ nytimes.com##.ta-bar-one
 nytimes.com##[data-testid="subscribe-button"]
 nytimes.com##[href*="nytimes.com/subscription"]
 nytimes.com##button:contains("Subscribe"):not([aria-label])
+nytimes.com##div#inline-graphic:has(.showcase-link-container)
 nytimes.com##div[aria-label="Subscribe Button"]
 nytimes.com##div[class*="subscribe"] 
 nytimes.com##div[class^="RegionBanner_banner__"]
