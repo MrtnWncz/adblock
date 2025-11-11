@@ -1117,7 +1117,3 @@ yahoo.com##.app-banner
 yahoo.com##div[class*="consent"]
 yahoo.com#$#body { overflow: auto !important; }
 youtube.com###frosted-glass
-||cmp.yahoo.com^
-||cmp.yahoo.com^$all
-||consent.yahoo.com^
-||consent.yahoo.com^$all
