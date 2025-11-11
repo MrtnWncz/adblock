@@ -1,4 +1,4 @@
-########## 0000 2025.1111.2100
+########## 0000 2025.1111.2200
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
@@ -601,6 +601,7 @@ nytimes.com###masthead-bar-one
 nytimes.com###most-popular-root
 nytimes.com###nav-subscribe-cta
 nytimes.com###newsletter-promo
+nytimes.com###showcase-link-*
 nytimes.com###showcase-link-6343902
 nytimes.com###showcase-link-6458487
 nytimes.com###showcase-link-6568120
