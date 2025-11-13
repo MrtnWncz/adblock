@@ -1,4 +1,4 @@
-########## 0000 2025.1111.2200
+########## 0000 2025.1113.2000
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
@@ -6,10 +6,12 @@
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##.google-one-tap__container
+##:matches-css(position: /fixed|sticky/i ):has-text(/sz(e|é)chenyi/i)
 ##[id="app"] > div:nth-child(6) > div
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##google-one-tap__container
+##img[src*="szechenyi" i], [class*="szechenyi" i], [id*="szechenyi" i]
 ##molin-shop-ai
 24.hu###credential_picker_container
 24.hu##.-noSticky
@@ -257,6 +259,8 @@ benu.hu/##molin-shop-ai
 bestmarkt.hu###ddModal-inner
 bestmarkt.hu###ddModal>div.overlay:first-child
 biomenu.hu###exposeMaskOverlay
+bkk.hu###infoblokk
+bkk.hu###sidebar > button.sidebar-toggle:first-child > i.bkk-icon-sidebar-open
 canva.com##._1PHgrg, .FijAlA
 chatgpt.com##+js(set-local-storage-item, oai/apps/hasSeenNoAuthImagegenNux, true)
 chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
@@ -548,6 +552,8 @@ mail.proton.me##.p-2.flex-item-fluid
 mail.proton.me##.topnav-listItem--noCollapse.topnav-listItem
 mediamarkt.hu##.djoCQE
 mediamarkt.hu##.gCXcXL
+mrmez.hu###elementor-popup-modal-101287 > div.dialog-widget-content.dialog-lightbox-widget-content.animated
+mrmez.hu###elementor-popup-modal-101287 > div.dialog-widget-content.dialog-lightbox-widget-content.animated > div.dialog-message.dialog-lightbox-message:nth-child(2) > div.elementor.elementor-101287.elementor-location-popup > div.elementor-inner > div.elementor-section-wrap > section.elementor-element.elementor-element-4b78e24.elementor-section-boxed.elementor-section-height-default.elementor-section.elementor-top-section > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-element.elementor-element-9f2070d.elementor-column.elementor-col-100.elementor-top-column > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-db10521.elementor-widget.elementor-widget-image > div.elementor-widget-container > div.elementor-image > a > img.attachment-large.size-large
 ncbi.nlm.nih.gov##.pmc-alerts
 ncbi.nlm.nih.gov##.pmc-article__disclaimer
 ncbi.nlm.nih.gov##.pmc-page-banner
@@ -656,6 +662,7 @@ nytimes.com##.Grid_justifyContent-flex-end__qVryc
 nytimes.com##.Grid_xsNumber2___QJEIT
 nytimes.com##.Grid_xsNumber2__QJEIT
 nytimes.com##.iIoWTf.sc-5b229d13-0
+nytimes.com##.in-content-module-link
 nytimes.com##.isPersonalizedAddOn
 nytimes.com##.jfciYU.sc-1e7d7615-0
 nytimes.com##.lmuhZL.sc-bfb49400-0
@@ -753,6 +760,11 @@ origo.hu##origo-newsletter-box
 pastedownload.com###sectionsNav
 paypal.com###PPAppDownloadBannerContainer
 pcforum.hu###subscribebar
+perplexity.ai###root > div.isolate:last-child > div.bg-base\/95.h-headerHeight.pointer-events-none.inset-x-0.top-0.backdrop-blur-md.duration-150.fixed.z-\[2\]:first-child > div.h-headerHeight.flex.flex-col > div.gap-x-md.px-md.py-sm.flex.h-full.items-center.justify-between > div.gap-x-sm.pointer-events-auto.relative.flex.items-center:last-child > div.animate-in.fade-in.duration-300:last-child
+perplexity.ai##div.flex.flex-col.justify-center.md\\:pt-1g.md\\:pb-1g
+perplexity.ai##div:nth-child(12) > div
+perplexity.ai##div:nth-child(13)
+perplexity.ai##h1:contains("One verified answer to any question")
 pmc.ncbi.nlm.nih.gov##.ncbi-alerts
 pmc.ncbi.nlm.nih.gov##.pmc-journal-banner
 pmc.ncbi.nlm.nih.gov##.pmc-layout__disclaimer
@@ -1099,6 +1111,7 @@ www.nytimes.com###showcase-link-6739461
 www.nytimes.com###ta-bar-one
 www.nytimes.com##.Content_PuzzleContainer__xV0Ru
 www.nytimes.com##.Footer_Footer__BSyrm
+www.nytimes.com##.in-content-module-link
 www.nytimes.com##.OpenAppToast_OpenAppToast__CfDPd
 www.nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 www.nytimes.com##.RegionBanner_banner__peckr
