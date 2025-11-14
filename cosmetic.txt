@@ -1,4 +1,4 @@
-########## 0000 2025.1114.2000
+########## 0000 2025.1114.2100
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
@@ -588,6 +588,7 @@ macrumors.com##div.noskim.widget--3ewetJyi:nth-of-type(5)
 macrumors.com##slick-inline-search
 mail.proton.me##.bg-info.no-print.text-bold.relative.text-center.flex-nowrap.flex-item-noshrink.flex
 mail.proton.me##.bg-info.no-print.text-bold.relative.text-center.flex-nowrap.shrink-0.flex
+mail.proton.me##.modal-two-dialog--large.offer-modal--one-deal.offer-black-friday-2025-inbox-free-yearly.offer-modal.outline-none.modal-two-dialog
 mail.proton.me##.p-2.flex-1
 mail.proton.me##.p-2.flex-item-fluid
 mail.proton.me##.topnav-listItem--noCollapse.topnav-listItem
