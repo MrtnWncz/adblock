@@ -1,14 +1,35 @@
-########## 0000 2025.1114.1400
+########## 0000 2025.1114.2000
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
 ###molin-shop-ai
+##+js(ac, a, Decline, true)
+##+js(ac, a, Reject All, true)
+##+js(ac, button, Allow necessary, true)
+##+js(ac, button, Decline all, true)
+##+js(ac, button, Decline, true)
+##+js(ac, button, No thanks, true)
+##+js(ac, button, Only Necessary, true)
+##+js(ac, button, Reject All, true)
+##+js(ac, button, Reject, true)
+##+js(set, localStorage.consentMode, {"analytics_storage":"denied","ad_storage":"denied","functionality_storage":"denied","personalization_storage":"denied","security_storage":"granted"})
+##+js(set, localStorage.cookie_consent, rejected)
+##+js(set, localStorage.cookies_accepted, false)
+##+js(set, localStorage.cookies_rejected, true)
+##.cookie-banner, .cookie-consent, .cookie-popup, .cookie-notice, .cookie-alert
+##.cookie-overlay, .consent-backdrop, [class*="backdrop"], [class*="overlay"]
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
+##.gmt_google_consent_container, .gcm-consent, .google-consent-banner
 ##.google-one-tap__container
 ##:matches-css(position: /fixed|sticky/i ):has-text(/sz(e|é)chenyi/i)
+##[class*="consent"][class*="banner"], [class*="consent"][class*="popup"]
+##[class*="cookie"][class*="banner"], [class*="cookie"][class*="popup"]
+##[class*="google_consent"], [id*="google_consent"]
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
+##div:where([style*="fixed"], [style*="sticky"])[class*="consent"]
+##div:where([style*="fixed"], [style*="sticky"])[class*="cookie"], 
 ##google-one-tap__container
 ##img[src*="szechenyi" i], [class*="szechenyi" i], [id*="szechenyi" i]
 ##molin-shop-ai
@@ -260,17 +281,22 @@ benu.hu##.draggable.slick-list
 benu.hu##.footer.page-footer
 benu.hu##.header-message
 benu.hu##.hirlevel-feliratkozas
+benu.hu##.mfp-bg
+benu.hu##.mfp-bg.safari-context-wrap
+benu.hu##.mfp-bg.safari-context-wrap.mfp-ready
 benu.hu##.mfp-close
+benu.hu##.mfp-ready
 benu.hu##.mfp-wrap
+benu.hu##.molin-shop-ai
 benu.hu##.mp-container
 benu.hu##.page-footer
 benu.hu##.popup_content
 benu.hu##.popup_wrapper
+benu.hu##.safari-context-wrap
 benu.hu##.slick-track
 benu.hu##.slider
 benu.hu##.widget.block.block-static-block
 benu.hu##molin-shop-ai
-benu.hu##.molin-shop-ai
 bestmarkt.hu###ddModal-inner
 bestmarkt.hu###ddModal>div.overlay:first-child
 biomenu.hu###exposeMaskOverlay
@@ -1146,3 +1172,8 @@ yahoo.com##.app-banner
 yahoo.com##div[class*="consent"]
 yahoo.com#$#body { overflow: auto !important; }
 youtube.com###frosted-glass
+||cdn.consentmanager.net^$script,third-party
+||cdn.cookie-script.com^$script,third-party
+||cdn.cookielaw.org^$script,third-party
+||consent.google.com^$script,third-party
+||googletagmanager.com/gtm.js?$script,third-party
