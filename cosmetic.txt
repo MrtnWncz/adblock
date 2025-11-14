@@ -1,31 +1,19 @@
-########## 0000 2025.1114.2100
+########## 0000 2025.1114.2200
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
 ###molin-shop-ai
-##+js(ac, a, Decline, true)
-##+js(ac, a, Reject All, true)
-##+js(ac, button, Allow necessary, true)
-##+js(ac, button, Decline all, true)
-##+js(ac, button, Decline, true)
-##+js(ac, button, No thanks, true)
-##+js(ac, button, Only Necessary, true)
-##+js(ac, button, Reject All, true)
-##+js(ac, button, Reject, true)
-##+js(set, localStorage.consentMode, {"analytics_storage":"denied","ad_storage":"denied","functionality_storage":"denied","personalization_storage":"denied","security_storage":"granted"})
-##+js(set, localStorage.cookie_consent, rejected)
-##+js(set, localStorage.cookies_accepted, false)
-##+js(set, localStorage.cookies_rejected, true)
 ##.cookie-banner, .cookie-consent, .cookie-popup, .cookie-notice, .cookie-alert
 ##.cookie-overlay, .consent-backdrop, [class*="backdrop"], [class*="overlay"]
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
-##.gmt_google_consent_container, .gcm-consent, .google-consent-banner
+##.gcm-consent
+##.gmt_google_consent_container
+##.google-consent-banner
+##.google-consent-container
 ##.google-one-tap__container
+##.google_consent_container
 ##:matches-css(position: /fixed|sticky/i ):has-text(/sz(e|é)chenyi/i)
-##[class*="consent"][class*="banner"], [class*="consent"][class*="popup"]
-##[class*="cookie"][class*="banner"], [class*="cookie"][class*="popup"]
-##[class*="google_consent"], [id*="google_consent"]
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##div:where([style*="fixed"], [style*="sticky"])[class*="consent"]
@@ -374,14 +362,6 @@ euronics.hu###content-before
 euronics.hu###contentAfter
 euronics.hu###newsletter-subscription-wrapper
 euronics.hu###sc__guest_newsletter_subscription
-facebook.com###pageInviteEscapeHatch
-facebook.com###pagelet_canvas_nav_content
-facebook.com###pagelet_ego_pane .ego_section
-facebook.com###photos_snowlift .wrapper > .inner > .ego_section
-facebook.com##._9oet._9ofg._9oeu._3-8x._54k8
-facebook.com##.bottom
-facebook.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
-finance.yahoo.com##div[class*="consent"]
 futunatura.hu##.action_wrapper
 galeria.totalcar.hu###hasznaltauto_iframe_wrapper
 galeriasavaria.hu##.box_wave, .box_wave_prod
@@ -420,16 +400,6 @@ giphy.com##.sc-86edfcd6-1
 giphy.com##div.sc-6f6dd835-0.brOqxe.device-mobile:nth-child(5)
 giphy.com##div[class*="OpenInAppContainer"]
 github.com###universe24_7
-google.com###footer
-google.com###L2AGLb > .sy4vM.QS5gu
-google.com###lb:has-text(Stay signed out)
-google.com###Rzn5id
-google.com###stUuGf
-google.com##.QlcHMc
-google.com##.torspo_view__follow-button
-google.com##.zU3lCe
-google.com##ios-safari-home-screen-icon-banner
-google.com##promo-bottom-tout
 grok.com###grok-4-promotion-dialog-content
 grok.com##.bg-background
 grok.com##.bg-black\/20
@@ -1173,8 +1143,3 @@ yahoo.com##.app-banner
 yahoo.com##div[class*="consent"]
 yahoo.com#$#body { overflow: auto !important; }
 youtube.com###frosted-glass
-||cdn.consentmanager.net^$script,third-party
-||cdn.cookie-script.com^$script,third-party
-||cdn.cookielaw.org^$script,third-party
-||consent.google.com^$script,third-party
-||googletagmanager.com/gtm.js?$script,third-party
