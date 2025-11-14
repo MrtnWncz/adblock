@@ -270,7 +270,7 @@ benu.hu##.slick-track
 benu.hu##.slider
 benu.hu##.widget.block.block-static-block
 benu.hu##molin-shop-ai
-benu.hu/##molin-shop-ai
+benu.hu##.molin-shop-ai
 bestmarkt.hu###ddModal-inner
 bestmarkt.hu###ddModal>div.overlay:first-child
 biomenu.hu###exposeMaskOverlay
