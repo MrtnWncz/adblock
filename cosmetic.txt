@@ -1,4 +1,4 @@
-########## 0000 2025.1113.2000
+########## 0000 2025.1114.1400
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
@@ -7,7 +7,6 @@
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##.google-one-tap__container
 ##:matches-css(position: /fixed|sticky/i ):has-text(/sz(e|é)chenyi/i)
-##[id="app"] > div:nth-child(6) > div
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##google-one-tap__container
@@ -246,14 +245,30 @@ arukereso.hu##.pricedrop-top-banner
 arukereso.hu##.top-promo-banner
 arukereso.hu##.top-promo-banner-wrapper
 arukereso.hu##.visible
+benu.hu###ambanner-slider-container
 benu.hu###amrelated-block-9
+benu.hu###footer.page-footer
 benu.hu###molin-shop-ai
+benu.hu###pfbx-pdp-complementary-desktop
+benu.hu###slick-slide04.slick-active.slick-current.slick-slide
+benu.hu###widget.block.block-static-block
+benu.hu##.-ambanner-loaded.slick-dotted.slick-slider.slick-initialized.-dots-1.-arrows-1.-ambanner-dots.-ambanner-arrows.ambanner-slider-block
+benu.hu##.ambanner-item-block
+benu.hu##.ambanner-link
+benu.hu##.ambanner-slider-container
+benu.hu##.draggable.slick-list
+benu.hu##.footer.page-footer
 benu.hu##.header-message
+benu.hu##.hirlevel-feliratkozas
 benu.hu##.mfp-close
 benu.hu##.mfp-wrap
 benu.hu##.mp-container
+benu.hu##.page-footer
 benu.hu##.popup_content
 benu.hu##.popup_wrapper
+benu.hu##.slick-track
+benu.hu##.slider
+benu.hu##.widget.block.block-static-block
 benu.hu##molin-shop-ai
 benu.hu/##molin-shop-ai
 bestmarkt.hu###ddModal-inner
