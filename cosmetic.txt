@@ -1,25 +1,13 @@
-########## 0000 2025.1114.2200
+########## 0000 2025.1115.1200
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
 ###molin-shop-ai
-##.cookie-banner, .cookie-consent, .cookie-popup, .cookie-notice, .cookie-alert
-##.cookie-overlay, .consent-backdrop, [class*="backdrop"], [class*="overlay"]
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
-##.gcm-consent
-##.gmt_google_consent_container
-##.google-consent-banner
-##.google-consent-container
-##.google-one-tap__container
-##.google_consent_container
-##:matches-css(position: /fixed|sticky/i ):has-text(/sz(e|é)chenyi/i)
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
-##div:where([style*="fixed"], [style*="sticky"])[class*="consent"]
-##div:where([style*="fixed"], [style*="sticky"])[class*="cookie"], 
 ##google-one-tap__container
-##img[src*="szechenyi" i], [class*="szechenyi" i], [id*="szechenyi" i]
 ##molin-shop-ai
 24.hu###credential_picker_container
 24.hu##.-noSticky
@@ -319,6 +307,7 @@ deepl.com##.mobile\:hidden>.lg\:px-\[70px\].p-8
 dictzone.com###aside
 dictzone.com##.cr
 discussions.apple.com##.site-wide-container
+disneyplus.com###app_body_content > div.sc-fEUNkw.hjCJhU:last-child > div.sc-iNhVCk.iAsmkG:last-child
 docstransfer.com##div.main:first-child>div.ukraine-banner:first-child
 downdetector.com###geo-redirect-root
 duckduckgo.com##.c1GwqC__eRoEs0cLTIfL
