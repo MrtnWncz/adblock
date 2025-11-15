@@ -1,4 +1,4 @@
-########## 0000 2025.1115.1200
+########## 0000 2025.1115.2000
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
@@ -389,6 +389,8 @@ giphy.com##.sc-86edfcd6-1
 giphy.com##div.sc-6f6dd835-0.brOqxe.device-mobile:nth-child(5)
 giphy.com##div[class*="OpenInAppContainer"]
 github.com###universe24_7
+google.com###Rzn5id
+google.hu###Rzn5id
 grok.com###grok-4-promotion-dialog-content
 grok.com##.bg-background
 grok.com##.bg-black\/20
@@ -851,6 +853,11 @@ shorturl.at###emailbox
 shorturl.at###ns-banner-mobile
 shorturl.at##.intercom-lightweight-app-launcher
 shorturl.at##header
+skinsort.com###masthead
+skinsort.com##.flex-col.flex.font-header.my-5.p-6.rounded-xl.w-full.text-indigo-900.bg-indigo-50
+skinsort.com##.relative.h-full.items-center.flex
+skinsort.com##.show
+skinsort.com##.show.z-\[9999\].\[isolation\:isolate\].bottom-drawer-transition.pointer-events-none.opacity-0.flex-col.lg\:justify-center.justify-end.items-center.flex.w-full.h-full.left-0.backdrop-blur-sm.top-0.fixed.transform-gpu.bottom-drawer
 soccertvhd.com###\30 x307f87
 soccertvhd.com###\30 x31df77
 soccertvhd.com###\30 x31dfa1
