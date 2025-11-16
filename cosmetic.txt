@@ -1,10 +1,11 @@
-########## 0000 2025.1115.2000
+########## 0000 2025.1116.2000
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###google-one-tap__container
 ###molin-shop-ai
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
+##.gmt_google_consent_container
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##google-one-tap__container
@@ -253,6 +254,7 @@ benu.hu##.-ambanner-loaded.slick-dotted.slick-slider.slick-initialized.-dots-1.-
 benu.hu##.ambanner-item-block
 benu.hu##.ambanner-link
 benu.hu##.ambanner-slider-container
+benu.hu##.amblog-relatedposts-wrap
 benu.hu##.draggable.slick-list
 benu.hu##.footer.page-footer
 benu.hu##.header-message
@@ -263,11 +265,13 @@ benu.hu##.mfp-bg.safari-context-wrap.mfp-ready
 benu.hu##.mfp-close
 benu.hu##.mfp-ready
 benu.hu##.mfp-wrap
+benu.hu##.mobile-view
 benu.hu##.molin-shop-ai
 benu.hu##.mp-container
 benu.hu##.page-footer
 benu.hu##.popup_content
 benu.hu##.popup_wrapper
+benu.hu##.risks
 benu.hu##.safari-context-wrap
 benu.hu##.slick-track
 benu.hu##.slider
@@ -853,6 +857,7 @@ shorturl.at###emailbox
 shorturl.at###ns-banner-mobile
 shorturl.at##.intercom-lightweight-app-launcher
 shorturl.at##header
+skinsort.com###colophon
 skinsort.com###masthead
 skinsort.com##.flex-col.flex.font-header.my-5.p-6.rounded-xl.w-full.text-indigo-900.bg-indigo-50
 skinsort.com##.relative.h-full.items-center.flex
@@ -1062,6 +1067,7 @@ tiktok.com##.css-1anes8e-StyledIcon
 tiktok.com##.css-1gt7x97-DivKeyboardShortcutContainer, .e1l04njg0
 tiktok.com##.css-1x4gp7x-5b89d02d--DivModalMask, .eurh82z2
 tiktok.com##.css-behvuc-DivModalContainer
+tiktok.com##.css-cid7ev-0be0dc34--DivKeyboardShortcutContainer
 tiktok.com##.css-fcx8x5-DivNoticeContainerWithoutHeader
 tiktok.com##.css-fvbzbd-5e6d46e3--DivModalContainer, .em9wld0
 tiktok.com##.css-oosdog-5e6d46e3--PopupContainer
