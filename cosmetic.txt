@@ -1,4 +1,4 @@
-########## 0000 2025.1117.2100
+########## 0000 2025.1117.2200
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
@@ -14,6 +14,7 @@
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##.fb-hud
+##.fb_header_box
 ##.gmt_google_consent_container
 ##.gmtgc_block_screen
 ##.gmtgc_consent_popup
@@ -23,10 +24,12 @@
 ##chat-widget.hydrated
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
+##div.gmt_google_consent_container
 ##div.hydrated
 ##div[class^="gmtgc_"], div[class*=" gmtgc_"]
 ##fb-hud
 ##google-one-tap__container
+##hydrated
 ##molin-shop-ai
 24.hu###credential_picker_container
 24.hu##.-noSticky
@@ -261,6 +264,7 @@ arukereso.hu##.pricedrop-top-banner
 arukereso.hu##.top-promo-banner
 arukereso.hu##.top-promo-banner-wrapper
 arukereso.hu##.visible
+autofejlesztes.hu##div.gmt_google_consent_container:nth-child(37)
 benu.hu###ambanner-slider-container
 benu.hu###amrelated-block-9
 benu.hu###footer.page-footer
@@ -433,6 +437,8 @@ hasznaltauto.hu###localContent4968902>.local-content__zone
 hasznaltauto.hu###localContent4968905>a>img
 hasznaltauto.hu###wrap>div.container:nth-child(7)>div.adatlap:last-child>div.row>div.col-xs-28.no-print:first-child
 hasznaltauto.hu###wrap>div.container:nth-child(7)>div.site-index:last-child>div.row>div.col-xs-28:first-child
+hazisajtkeszites.hu###fb_header_box
+hazisajtkeszites.hu##chat-widget.hydrated:last-child
 healthline.com##.myFinance-ad-unit
 healthline.com##.myFinance-widget
 healthline.com##.wp-block-healthline-jwplayer
