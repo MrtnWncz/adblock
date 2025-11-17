@@ -1,4 +1,4 @@
-########## 0000 2025.1117.1000
+########## 0000 2025.1117.2000
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###fb-hud
@@ -583,12 +583,15 @@ nemzetisport.hu##.nso-articles-related-content
 nemzetisport.hu##.recommendation-block
 nemzetisport.hu##.share
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > aside:last-child
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(15)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(16)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(4)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > div.article-page-title:nth-child(5)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(10)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(11)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(12)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(13)
+nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(5)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(6)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(7)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(8)
