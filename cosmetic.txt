@@ -1,11 +1,14 @@
-########## 0000 2025.1116.2000
+########## 0000 2025.1117.1000
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
+###fb-hud
 ###google-one-tap__container
 ###molin-shop-ai
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##.gmt_google_consent_container
+##.gmtgc_consent_popup
+##chat-widget
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##google-one-tap__container
@@ -394,6 +397,7 @@ giphy.com##div.sc-6f6dd835-0.brOqxe.device-mobile:nth-child(5)
 giphy.com##div[class*="OpenInAppContainer"]
 github.com###universe24_7
 google.com###Rzn5id
+google.com##.BOyx7
 google.hu###Rzn5id
 grok.com###grok-4-promotion-dialog-content
 grok.com##.bg-background
