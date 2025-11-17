@@ -1,16 +1,31 @@
-########## 0000 2025.1117.2000
+########## 0000 2025.1117.2100
+###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###fb-hud
+###fb_header_box
+###fb_header_grey_banner_wrapper
+###gmt_google_consent_container
+###gmtgc_consent_popup
+###gmtgc_consent_popup, [class^="gmtgc_"], [class*=" gmtgc_"]
 ###google-one-tap__container
 ###molin-shop-ai
+##.chat-widget
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
+##.fb-hud
 ##.gmt_google_consent_container
+##.gmtgc_block_screen
 ##.gmtgc_consent_popup
+##.hydrated
+##[class*="hud"]
 ##chat-widget
+##chat-widget.hydrated
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
+##div.hydrated
+##div[class^="gmtgc_"], div[class*=" gmtgc_"]
+##fb-hud
 ##google-one-tap__container
 ##molin-shop-ai
 24.hu###credential_picker_container
