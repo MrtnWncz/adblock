@@ -1,4 +1,4 @@
-########## 0000 2025.1118.2000
+########## 0000 2025.1118.2100
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
@@ -1094,24 +1094,20 @@ theverge.com##.m-privacy-consent
 threads.com##.x1mk1bxn
 tiktok.com###button-at-bottom-right
 tiktok.com###close-button-at-bottom-right
+tiktok.com###floating-ui-10
+tiktok.com###FooterContainer
+tiktok.com###KeyboardShortcutContainer
 tiktok.com###login-modal
 tiktok.com###loginContainer
+tiktok.com###ModalContainer
+tiktok.com###ModalMask
+tiktok.com###NoticeContainerWithoutHeader
+tiktok.com###PopupContainer
 tiktok.com###react-app-launch
+tiktok.com###StyledIcon
 tiktok.com##.bottom
-tiktok.com##.css-1anes8e-StyledIcon
-tiktok.com##.css-1gt7x97-DivKeyboardShortcutContainer, .e1l04njg0
-tiktok.com##.css-1x4gp7x-5b89d02d--DivModalMask, .eurh82z2
-tiktok.com##.css-behvuc-DivModalContainer
-tiktok.com##.css-cid7ev-0be0dc34--DivKeyboardShortcutContainer
-tiktok.com##.css-fcx8x5-DivNoticeContainerWithoutHeader
-tiktok.com##.css-fvbzbd-5e6d46e3--DivModalContainer, .em9wld0
-tiktok.com##.css-oosdog-5e6d46e3--PopupContainer
-tiktok.com##.css-py8jux-DivModalContainer,.e1gjoq3k0
-tiktok.com##.css-qrtvk6-5e6d46e3--DivKeyboardShortcutContainer
-tiktok.com##.el3hfgg0.css-1plqdfw-DivFooterContainer
 tiktok.com##.login-modal
 tiktok.com##.loginContainer
-tiktok.com##.TUXButton--large
 totalcar.hu###car-suggester
 totalcar.hu##.car-suggester
 totalcar.hu##.cikk-bottom-box.social-stripe>.index-social-box
