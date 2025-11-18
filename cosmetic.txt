@@ -1,7 +1,8 @@
-########## 0000 2025.1117.2200
+########## 0000 2025.1118.2000
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
+###div.gmt_google_consent_container, div[class="gmt_google_consent_container"]
 ###fb-hud
 ###fb_header_box
 ###fb_header_grey_banner_wrapper
@@ -264,7 +265,12 @@ arukereso.hu##.pricedrop-top-banner
 arukereso.hu##.top-promo-banner
 arukereso.hu##.top-promo-banner-wrapper
 arukereso.hu##.visible
+autofejlesztes.hu##+js(noblock, div.gmt_google_consent_container)
+autofejlesztes.hu##.gmt_google_consent_container
+autofejlesztes.hu##body > div.gmt_google_consent_container
+autofejlesztes.hu##div.gmt_google_consent_container
 autofejlesztes.hu##div.gmt_google_consent_container:nth-child(37)
+autofejlesztes.hu##div[class="gmt_google_consent_container"]
 benu.hu###ambanner-slider-container
 benu.hu###amrelated-block-9
 benu.hu###footer.page-footer
@@ -419,6 +425,7 @@ google.com###Rzn5id
 google.com##.BOyx7
 google.hu###Rzn5id
 grok.com###grok-4-promotion-dialog-content
+grok.com###grok-home-promotion-dialog-content
 grok.com##.bg-background
 grok.com##.bg-black\/20
 grok.com##.bg-overlay
