@@ -1,4 +1,5 @@
-########## 0000 2025.1119.2000
+########## 0000 2025.1123.2000
+###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
@@ -20,6 +21,7 @@
 ##.gmtgc_block_screen
 ##.gmtgc_consent_popup
 ##.hydrated
+##.newsletter-drawer
 ##[class*="hud"]
 ##chat-widget
 ##chat-widget.hydrated
