@@ -1,9 +1,10 @@
-########## 0000 2025.1124.1800
+########## 0000 2025.1127.1800
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
 ###div.gmt_google_consent_container, div[class="gmt_google_consent_container"]
+###div.PopupBackdrop.AgeDisclaimerPopup
 ###fb-hud
 ###fb_header_box
 ###fb_header_grey_banner_wrapper
@@ -11,6 +12,7 @@
 ###gmtgc_consent_popup
 ###gmtgc_consent_popup, [class^="gmtgc_"], [class*=" gmtgc_"]
 ###google-one-tap__container
+###mdCookie
 ###molin-shop-ai
 ##.chat-widget
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -1172,6 +1174,7 @@ www.origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.co
 www.origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 www.theathletic.com###showcase-link-6774171
 www.theathletic.com###showcase-link-6776323
+x.com##.r-obd0qt
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
