@@ -1,4 +1,4 @@
-########## 0000 2025.1127.1800
+########## 0000 2025.1129.1200
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -344,7 +344,9 @@ deepl.com##.mobile\:hidden>.lg\:px-\[70px\].p-8
 dictzone.com###aside
 dictzone.com##.cr
 discussions.apple.com##.site-wide-container
+disneyplus.com####.iAsmkG.sc-iNhVCk
 disneyplus.com###app_body_content > div.sc-fEUNkw.hjCJhU:last-child > div.sc-iNhVCk.iAsmkG:last-child
+disneyplus.com##.iAsmkG.sc-iNhVCk
 docstransfer.com##div.main:first-child>div.ukraine-banner:first-child
 downdetector.com###geo-redirect-root
 duckduckgo.com##.c1GwqC__eRoEs0cLTIfL
