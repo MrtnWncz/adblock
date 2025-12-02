@@ -1,4 +1,4 @@
-########## 0000 2025.1202.1900
+########## 0000 2025.1202.2000
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -437,6 +437,7 @@ grok.com##.bg-background
 grok.com##.bg-black\/20
 grok.com##.bg-overlay
 grok.com##.bg-surface-l2
+grok.com##.dark.cursor-pointer.border.text-white.bg-black.rounded-3xl.border-highlight.py-6.px-6.justify-between.items-start.flex-col.flex.relative.w-11\/12
 grok.com##.m-10.w-full.max-w-\[480px\].dark.relative
 grok.com##.toast
 grok.com##section:nth-child(4) > ol.toaster.group > li.inset-x-0.mx-auto.group.toast.bg-popover.rounded-2xl.border-0.shadow-sm.w-fit.min-w-\[200px\].left-0.right-0.sm\:mx-auto.ring-1.ring-inset.ring-input-border.p-3\.5.h-fit.gap-3
