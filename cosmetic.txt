@@ -1,4 +1,4 @@
-########## 0000 2025.1202.2000
+########## 0000 2025.1204.2000
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -500,6 +500,7 @@ index.hu###welovedogzajanlo_wrapper
 index.hu##._iph_brk_act
 index.hu##.aisummit
 index.hu##.aisummit_index
+index.hu##.allsite_otthonstart
 index.hu##.app_promo_wrapper
 index.hu##.big
 index.hu##.book_index
@@ -838,7 +839,6 @@ reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href$="/user/Au
 reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href*="bot"])
 reddit.com##.Comment:has(span:has-text(Pinned by moderators))
 reddit.com##.community-banner
-reddit.com##.community-highlight-carousel
 reddit.com##.communityheader-subscribe-button
 reddit.com##.getappfooter
 reddit.com##.joinbuttonfull
@@ -1177,6 +1177,7 @@ www.origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.co
 www.origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 www.theathletic.com###showcase-link-6774171
 www.theathletic.com###showcase-link-6776323
+x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
 yahoo.com###preArticle
