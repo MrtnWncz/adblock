@@ -1,4 +1,4 @@
-########## 0000 2025.1204.2000
+########## 0000 2025.1206.1700
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -534,6 +534,7 @@ index.hu##.nehagyjaki
 index.hu##.njs-carousel
 index.hu##.postcontent
 index.hu##.pp-hasab
+index.hu##.promo-container
 index.hu##.small.facebook.social-follow
 index.hu##.szelso-jobb
 index.hu##.vegasodds
