@@ -1,4 +1,4 @@
-########## 0000 2025.1207.1400
+########## 0000 2025.1207.1500
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -79,6 +79,7 @@ alza.hu##.brandingEars-alz-1, .brandingEars-alz-3
 alza.hu##.header-1y04ivz.MuiModal-root.header-alz-142.header-alz-141.header-alz-140.header-alz-144.MuiDialog-root
 alza.hu##.MuiDrawer-modal
 alza.hu##.pcConfigurator-alz-11
+alza.hu##alza-jarvis
 alza.hu##swiper-container
 amazon.co.uk###ape_detail_btf_detail-mWeb_iframe
 amazon.co.uk###ape_detail_btf_detail-mWeb_placement
