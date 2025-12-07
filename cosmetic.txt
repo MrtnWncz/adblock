@@ -1,4 +1,4 @@
-########## 0000 2025.1207.1800
+########## 0000 2025.1207.2000
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -547,6 +547,7 @@ instagram.com##._56bt._a6gi._56bs._52jh._54k8
 instagram.com##.bIiDR.aOOlW
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
 instagram.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.
+istyle.hu###shopify-section-announcement_bar_slider
 istyle.hu##.mfp-bg
 istyle.hu##.mfp-container
 jegy.mav.hu###app-header-beta-row
