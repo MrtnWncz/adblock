@@ -1,4 +1,4 @@
-########## 0000 2025.1207.1200
+########## 0000 2025.1207.1400
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -76,6 +76,7 @@ alza.hu###alza-dialog-shadow
 alza.hu###slideout-dialog
 alza.hu##.brandingEars-alz-1, .brandingEars-alz-2
 alza.hu##.brandingEars-alz-1, .brandingEars-alz-3
+alza.hu##.header-1y04ivz.MuiModal-root.header-alz-142.header-alz-141.header-alz-140.header-alz-144.MuiDialog-root
 alza.hu##.MuiDrawer-modal
 alza.hu##.pcConfigurator-alz-11
 alza.hu##swiper-container
@@ -439,6 +440,7 @@ grok.com##.bg-overlay
 grok.com##.bg-surface-l2
 grok.com##.dark.cursor-pointer.border.text-white.bg-black.rounded-3xl.border-highlight.py-6.px-6.justify-between.items-start.flex-col.flex.relative.w-11\/12
 grok.com##.m-10.w-full.max-w-\[480px\].dark.relative
+grok.com##.pb-4.px-4.items-center.flex-col.-translate-y-full.w-full.flex.absolute
 grok.com##.toast
 grok.com##section:nth-child(4) > ol.toaster.group > li.inset-x-0.mx-auto.group.toast.bg-popover.rounded-2xl.border-0.shadow-sm.w-fit.min-w-\[200px\].left-0.right-0.sm\:mx-auto.ring-1.ring-inset.ring-input-border.p-3\.5.h-fit.gap-3
 gyakorikerdesek.hu###stialert
