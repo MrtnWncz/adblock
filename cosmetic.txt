@@ -1,4 +1,4 @@
-########## 0000 2025.1213.1600
+########## 0000 2025.1213.1800
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -385,6 +385,7 @@ eredmenyek.com##.header
 eredmenyek.com##.header__content
 eredmenyek.com##.odds
 eredmenyek.com##.prematchOddsBonus__bonus--withButton
+eredmenyek.com##.section__prematchOdds.section
 eredmenyek.com##.wcl-tooltip_VNnu4,.wcl-onboarding_rfbSg
 eredmenyek.com##.zone--labelPositionRight.zone--placeholderDisabled.zone--skeletonEnabled.zone--loading.zone__top.zone
 eredmenyek.com##.zone__responsive_detail_fixed_bottom
