@@ -1,4 +1,4 @@
-########## 0000 2025.1213.1800
+########## 0000 2025.1214.1200
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -433,6 +433,7 @@ giphy.com##div[class*="OpenInAppContainer"]
 github.com###universe24_7
 google.com###Rzn5id
 google.com###slim_appbar
+google.com###slim_appbar > div
 google.com##.BOyx7
 google.hu###Rzn5id
 grok.com###grok-4-promotion-dialog-content
@@ -549,6 +550,7 @@ instagram.com##._56bt._a6gi._56bs._52jh._54k8
 instagram.com##.bIiDR.aOOlW
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
 instagram.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.
+instagram.com##.xzkaem6.x1n2onr6
 istyle.hu###shopify-section-announcement_bar_slider
 istyle.hu##.mfp-bg
 istyle.hu##.mfp-container
