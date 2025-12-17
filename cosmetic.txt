@@ -1,4 +1,4 @@
-########## 0000 2025.1215.2000
+########## 0000 2025.1217.2000
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -14,6 +14,7 @@
 ###google-one-tap__container
 ###mdCookie
 ###molin-shop-ai
+###sz2020info
 ##.chat-widget
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
@@ -567,6 +568,7 @@ linkedin.com##span:has-text(Promoted):upward(6)
 listen.tidal.com###UPSELL
 m.alza.hu##.MuiDrawer-modal
 m.alza.hu##swiper-container
+m.facebook.com###screen-root > div.m.bg-s2 > div.m.fixed-container.bottom:nth-child(4)
 m.facebook.com##.bottom
 m.hvg.hu##.bxlv_container
 m.hvg.hu##.random-article-box
