@@ -1,4 +1,4 @@
-########## 0000 2025.1217.2000
+########## 0000 2025.1220.2000
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -1128,6 +1128,7 @@ tiktok.com###StyledIcon
 tiktok.com##.bottom
 tiktok.com##.css-1oz3gmx-7937d88b--DivKeyboardShortcutContainer
 tiktok.com##.css-i41e9h-5e6d46e3--DivModalContainer, .ec9omd60
+tiktok.com##.css-qrtvk6-5e6d46e3--DivKeyboardShortcutContainer
 tiktok.com##.login-modal
 tiktok.com##.loginContainer
 totalcar.hu###car-suggester
