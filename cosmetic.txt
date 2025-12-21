@@ -1,4 +1,6 @@
-########## 0000 2025.1220.2000
+########## 0000 2025.1221.2000
+###.nativterelo
+###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -25,7 +27,9 @@
 ##.gmtgc_consent_popup
 ##.hydrated
 ##.modal--overlay
+##.nativterelo
 ##.newsletter-drawer
+##.szechenyi-infoblokk-container
 ##[class*="hud"]
 ##chat-widget
 ##chat-widget.hydrated
@@ -793,6 +797,7 @@ origo.hu##.google-news
 origo.hu##.google-news-text
 origo.hu##.mobile
 origo.hu##.mwf-portfolio-categories
+origo.hu##.nativterelo
 origo.hu##.newsletter-wrapper
 origo.hu##.origo-newsletter-box
 origo.hu##.portfolio-link-list
