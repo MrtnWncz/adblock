@@ -1,4 +1,4 @@
-########## 0000 2025.1221.2000
+########## 0000 2025.1223.1200
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -505,6 +505,7 @@ index.hu###m-cf-fejlec_container
 index.hu###m-cf-kiadvanylista
 index.hu###m-cf-kiadvanylista_container_list
 index.hu###njs-carousel
+index.hu###twitter
 index.hu###welovedogzajanlo_wrapper
 index.hu##._iph_brk_act
 index.hu##.aisummit
