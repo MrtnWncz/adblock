@@ -1,4 +1,4 @@
-########## 0000 2025.1223.1200
+########## 0000 2025.1223.1300
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -840,6 +840,7 @@ pmc.ncbi.nlm.nih.gov##section.usa-banner:nth-child(2)
 provitamin.hu###newsletterbar
 pubmed.ncbi.nlm.nih.gov##.ncbi-alert__info-outer
 pubmed.ncbi.nlm.nih.gov##.usa-banner
+quora.com##.false.q-box
 quora.com##.qu-bg--poe_primary_purple:has-text(Ask AI bots any question on Poe, a free app by Quora)
 quora.com##button[type="button"]:has-text(Open in App)
 quora.com##div#credential_picker_container
