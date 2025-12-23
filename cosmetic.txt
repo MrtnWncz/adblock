@@ -1,4 +1,4 @@
-########## 0000 2025.1223.1400
+########## 0000 2025.1223.1600
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -20,6 +20,7 @@
 ##.chat-widget
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
+##.e1kowrv50.css-1phbfib-7937d88b--DivBannerContainer
 ##.fb-hud
 ##.fb_header_box
 ##.gmt_google_consent_container
