@@ -1,4 +1,4 @@
-########## 0000 2025.1223.1600
+########## 0000 2025.1226.2200
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -348,6 +348,7 @@ dailymail.co.uk##.swipe-tutorial
 deepl.com##.max-\[1280px\]\:ps-\[20px\].ps-0.justify-between.items-center.flex.mobile\:hidden
 deepl.com##.mobile\:hidden>.lg\:px-\[70px\].p-8
 dictzone.com###aside
+dictzone.com##.ad1m
 dictzone.com##.cr
 discussions.apple.com##.site-wide-container
 disneyplus.com####.iAsmkG.sc-iNhVCk
