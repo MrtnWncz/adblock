@@ -1,4 +1,4 @@
-########## 0000 2025.1226.2200
+########## 0000 2025.1227.2000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -63,6 +63,7 @@
 444.hu##.lyj57x2
 444.hu##.navigation-bar_NavigationBarContainerStyle__lyj57x3
 444.hu##.shop-shop
+444.hu##div.ta3a4c6t.ta3a4cym.ta3a4cvq.ta3a4cux.ta3a4crg.ta3a4cqn.tzf76g0:nth-of-type(1)
 9gag.com##.download-app-container
 9gag.com##.inline-banner
 9gag.com##.noscroll:style(overflow: auto !important;)
