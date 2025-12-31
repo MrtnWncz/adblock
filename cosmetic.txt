@@ -15,6 +15,7 @@
 ###gmtgc_consent_popup, [class^="gmtgc_"], [class*=" gmtgc_"]
 ###google-one-tap-anchor
 ###google-one-tap__container
+###google-one-tap_container
 ###mdCookie
 ###molin-shop-ai
 ###sz2020info
