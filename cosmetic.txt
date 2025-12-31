@@ -1,4 +1,4 @@
-########## 0000 2025.1231.1400
+########## 0000 2025.1231.1500
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -13,6 +13,7 @@
 ###gmt_google_consent_container
 ###gmtgc_consent_popup
 ###gmtgc_consent_popup, [class^="gmtgc_"], [class*=" gmtgc_"]
+###google-one-tap-anchor
 ###google-one-tap__container
 ###mdCookie
 ###molin-shop-ai
