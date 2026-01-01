@@ -1,4 +1,4 @@
-########## 0000 2025.1231.1500
+########## 0000 2026.0101.1000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -59,6 +59,8 @@
 444.hu###\3444_cikk_mobil_300_cikkvegi
 444.hu###\3444_cikk_mobil_300_lead_alatt
 444.hu###ap-top
+444.hu###ember4
+444.hu###section
 444.hu##._1chu0yw10
 444.hu##._1ihsx5h0
 444.hu##.button__1oiqrbr7
@@ -67,6 +69,7 @@
 444.hu##.navigation-bar_NavigationBarContainerStyle__lyj57x3
 444.hu##.shop-shop
 444.hu##div.ta3a4c6t.ta3a4cym.ta3a4cvq.ta3a4cux.ta3a4crg.ta3a4cqn.tzf76g0:nth-of-type(1)
+444.hu##section
 9gag.com##.download-app-container
 9gag.com##.inline-banner
 9gag.com##.noscroll:style(overflow: auto !important;)
