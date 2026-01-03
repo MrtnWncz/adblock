@@ -1,4 +1,4 @@
-########## 0000 2026.0101.1000
+########## 0000 2026.0103.2000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -1164,6 +1164,8 @@ vitaminnagyker.hu###hud
 vitaminnagyker.hu###top-bar
 wikipedia.org##+js(rc, frb-overlay-open, body, stay)
 wikipedia.org##+js(rc, frb-overlay-open, html, stay)
+wikipedia.org##.no-font-mode-scale.vector-column-end
+wikipedia.org##.vector-pinnable-element.vector-toc
 wordpress.com##.cookie-banner
 wsj.com##.css-14zqvv1-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-1aa6zog-UtilityBarWrapper
