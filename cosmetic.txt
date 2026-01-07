@@ -1,4 +1,4 @@
-########## 0000 2026.0103.2100
+########## 0000 2026.0107.2000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -625,8 +625,6 @@ mail.proton.me##.p-2.flex-item-fluid
 mail.proton.me##.topnav-listItem--noCollapse.topnav-listItem
 mediamarkt.hu##.djoCQE
 mediamarkt.hu##.gCXcXL
-merriam-webster.com##.header-placeholder
-merriam-webster.com##.toupee-banner
 mobilarena.hu##.modal-md.modal-dialog
 mrmez.hu###elementor-popup-modal-101287 > div.dialog-widget-content.dialog-lightbox-widget-content.animated
 mrmez.hu###elementor-popup-modal-101287 > div.dialog-widget-content.dialog-lightbox-widget-content.animated > div.dialog-message.dialog-lightbox-message:nth-child(2) > div.elementor.elementor-101287.elementor-location-popup > div.elementor-inner > div.elementor-section-wrap > section.elementor-element.elementor-element-4b78e24.elementor-section-boxed.elementor-section-height-default.elementor-section.elementor-top-section > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-element.elementor-element-9f2070d.elementor-column.elementor-col-100.elementor-top-column > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-db10521.elementor-widget.elementor-widget-image > div.elementor-widget-container > div.elementor-image > a > img.attachment-large.size-large
@@ -1141,11 +1139,13 @@ tiktok.com###loginContainer
 tiktok.com###ModalContainer
 tiktok.com###ModalMask
 tiktok.com###NoticeContainerWithoutHeader
+tiktok.com###pns-communication-service
 tiktok.com###PopupContainer
 tiktok.com###react-app-launch
 tiktok.com###StyledIcon
 tiktok.com##.bottom
 tiktok.com##.css-1oz3gmx-7937d88b--DivKeyboardShortcutContainer
+tiktok.com##.css-ailk6h-7937d88b--ButtonGetAppText
 tiktok.com##.css-i41e9h-5e6d46e3--DivModalContainer, .ec9omd60
 tiktok.com##.css-qrtvk6-5e6d46e3--DivKeyboardShortcutContainer
 tiktok.com##.login-modal
