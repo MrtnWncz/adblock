@@ -1,4 +1,4 @@
-########## 0000 2026.0107.2000
+########## 0000 2026.0109.2000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -642,6 +642,7 @@ nemzetisport.hu###nso-subscription
 nemzetisport.hu##.article-header-right-top
 nemzetisport.hu##.FeaturedSidedBottomColumnTitleDate
 nemzetisport.hu##.footer-menu
+nemzetisport.hu##.nativterelo
 nemzetisport.hu##.nso-articles-related-content
 nemzetisport.hu##.recommendation-block
 nemzetisport.hu##.share
