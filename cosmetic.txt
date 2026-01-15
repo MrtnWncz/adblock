@@ -1,4 +1,4 @@
-########## 0000 2026.0109.2000
+########## 0000 2026.0115.2000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -343,9 +343,11 @@ chatgpt.com##.ps-5
 chatgpt.com##.z-50
 community.brave.com###banner
 community.brave.com##.banner
+dailymail.co.uk###footer
 dailymail.co.uk###most-watched-videos
 dailymail.co.uk###most-watched-videos-lazy-container
 dailymail.co.uk###most-watched-videos-wrapper
+dailymail.co.uk##.clrd
 dailymail.co.uk##.container_V5eJTpXY
 dailymail.co.uk##.facebook-like-static
 dailymail.co.uk##.mol-fe-related-replace
