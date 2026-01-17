@@ -1,4 +1,4 @@
-########## 0000 2026.0117.1000
+########## 0000 2026.0117.1100
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -620,13 +620,6 @@ macrumors.com##div.noskim.widget--3ewetJyi:nth-of-type(2)
 macrumors.com##div.noskim.widget--3ewetJyi:nth-of-type(3)
 macrumors.com##div.noskim.widget--3ewetJyi:nth-of-type(5)
 macrumors.com##slick-inline-search
-mail.proton.me##.bg-info.no-print.text-bold.relative.text-center.flex-nowrap.flex-item-noshrink.flex
-mail.proton.me##.bg-info.no-print.text-bold.relative.text-center.flex-nowrap.shrink-0.flex
-mail.proton.me##.modal-two
-mail.proton.me##.modal-two-dialog--large.offer-modal--one-deal.offer-black-friday-2025-inbox-free-yearly.offer-modal.outline-none.modal-two-dialog
-mail.proton.me##.p-2.flex-1
-mail.proton.me##.p-2.flex-item-fluid
-mail.proton.me##.topnav-listItem--noCollapse.topnav-listItem
 mediamarkt.hu##.djoCQE
 mediamarkt.hu##.gCXcXL
 mobilarena.hu##.modal-md.modal-dialog
