@@ -1,4 +1,4 @@
-########## 0000 2026.0117.1200
+########## 0000 2026.0117.2000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -362,6 +362,7 @@ deepl.com##.mobile\:hidden>.lg\:px-\[70px\].p-8
 dictzone.com###aside
 dictzone.com##.ad1m
 dictzone.com##.cr
+digg.com##.-mt-\[112px\]
 discussions.apple.com##.site-wide-container
 disneyplus.com####.iAsmkG.sc-iNhVCk
 disneyplus.com###app_body_content > div.sc-fEUNkw.hjCJhU:last-child > div.sc-iNhVCk.iAsmkG:last-child
