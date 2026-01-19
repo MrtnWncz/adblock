@@ -1,4 +1,4 @@
-########## 0000 2026.0117.2000
+########## 0000 2026.0119.1000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -354,6 +354,7 @@ dailymail.co.uk##.facebook-like-static
 dailymail.co.uk##.footerContainer_AquJM997
 dailymail.co.uk##.footerContainer_bflxYHTi
 dailymail.co.uk##.mol-fe-related-replace
+dailymail.co.uk##.countdown_BKMhF_wr
 dailymail.co.uk##.puff
 dailymail.co.uk##.swipe-container
 dailymail.co.uk##.swipe-tutorial
