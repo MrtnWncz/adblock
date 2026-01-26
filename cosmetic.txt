@@ -1,4 +1,4 @@
-########## 0000 2026.0126.2100
+########## 0000 2026.0126.2200
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -1213,7 +1213,7 @@ www.origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.co
 www.origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 www.theathletic.com###showcase-link-6774171
 www.theathletic.com###showcase-link-6776323
-x.com###layers > div.css-175oi2r.r-aqfbo4.r-zchlnj.r-1d2f490.r-1xcajam.r-12vffkv:last-child > div.css-175oi2r.r-12vffkv > div.css-175oi2r.r-12vffkv > div.css-175oi2r.r-zchlnj.r-1d2f490.r-633pao.r-1xcajam.r-1gn8etr > div.css-175oi2r.r-633pao.r-u8s1d.r-dkhcqf.r-axxi2z.r-18jm5s1.r-13qz1uu:last-child > div.css-175oi2r.r-f8sm7e.r-13qz1uu > div.css-175oi2r.r-1awozwy.r-1777fci.r-1cwvpvk.r-f8sm7e.r-13qz1uu > div.css-175oi2r.r-12kyg2d.r-6dt33c.r-1kw4oii.r-1i36cah.r-eafdt9.r-1b8bd59.r-6czh2s
+x.com##.css-175oi2r.r-l5o3uw.r-sdzlij.r-1uusn97.r-1777fci.r-cnw61z.r-3pj75a.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
