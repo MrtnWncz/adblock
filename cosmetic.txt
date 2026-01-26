@@ -1,4 +1,4 @@
-########## 0000 2026.0119.1000
+########## 0000 2026.0126.1000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -350,11 +350,11 @@ dailymail.co.uk###most-watched-videos-wrapper
 dailymail.co.uk##.clrd
 dailymail.co.uk##.commentBox-yXqiT
 dailymail.co.uk##.container_V5eJTpXY
+dailymail.co.uk##.countdown_BKMhF_wr
 dailymail.co.uk##.facebook-like-static
 dailymail.co.uk##.footerContainer_AquJM997
 dailymail.co.uk##.footerContainer_bflxYHTi
 dailymail.co.uk##.mol-fe-related-replace
-dailymail.co.uk##.countdown_BKMhF_wr
 dailymail.co.uk##.puff
 dailymail.co.uk##.swipe-container
 dailymail.co.uk##.swipe-tutorial
@@ -1213,6 +1213,7 @@ www.origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.co
 www.origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 www.theathletic.com###showcase-link-6774171
 www.theathletic.com###showcase-link-6776323
+x.com##.r-cnw61z
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
