@@ -1,4 +1,4 @@
-########## 0000 2026.0127.2000
+########## 0000 2026.0127.2100
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -1219,7 +1219,6 @@ www.theathletic.com###showcase-link-6774171
 www.theathletic.com###showcase-link-6776323
 x.com##.css-175oi2r.r-l5o3uw.r-sdzlij.r-1uusn97.r-1777fci.r-cnw61z.r-3pj75a.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l
 x.com##.r-cnw61z
-x.com##.r-obd0qt
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
