@@ -1,4 +1,4 @@
-########## 0000 2026.0126.2200
+########## 0000 2026.0127.2000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -1154,6 +1154,10 @@ tiktok.com##.loginContainer
 totalcar.hu###car-suggester
 totalcar.hu##.car-suggester
 totalcar.hu##.cikk-bottom-box.social-stripe>.index-social-box
+transfermarkt.com##.fav-voting
+transfermarkt.com##.sorare-banner
+transfermarkt.com##a.db.mt10[href][target][onclick] > img[loading][src][width][height][alt]
+transfermarkt.com##tm-voting
 tumblr.com##.Lq1wm
 twitter.com##div[class="css-1dbjc4n r-1iusvr4 r-16y2uox r-97wbjc"]
 vezess.hu###more-news
@@ -1214,6 +1218,8 @@ www.origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.con
 www.theathletic.com###showcase-link-6774171
 www.theathletic.com###showcase-link-6776323
 x.com##.css-175oi2r.r-l5o3uw.r-sdzlij.r-1uusn97.r-1777fci.r-cnw61z.r-3pj75a.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l
+x.com##.r-cnw61z
+x.com##.r-obd0qt
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
