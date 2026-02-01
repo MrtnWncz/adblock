@@ -864,7 +864,6 @@ quora.com##.false.q-box
 quora.com##.qu-bg--poe_primary_purple:has-text(Ask AI bots any question on Poe, a free app by Quora)
 quora.com##button[type="button"]:has-text(Open in App)
 quora.com##div#credential_picker_container
-reddit.com###blocking-modal-blur-container:style(filter: none !important;)
 reddit.com###left-sidebar > nav.z-2.box-border.flex.flex-col.mt-0.mb-0.pt-md.shrink-0.s\:shrink.w-full.min-h-screen-without-header.select-none > faceplate-tracker:nth-child(3) > games-section-badge-controller.nd\:visible
 reddit.com###pdp-app-upsell-bottom-sheet
 reddit.com###pdp-seeker-mweb-return-to-results
@@ -885,25 +884,25 @@ reddit.com##.getappfooter
 reddit.com##.joinbuttonfull
 reddit.com##.lb-footer
 reddit.com##.lb-header
-reddit.com##.m-blurred:style(filter: none !important;)
 reddit.com##.mt-md
-reddit.com##.navframe:style(overflow: scroll !important;)
 reddit.com##.postfooter__share
+reddit.com##.postfooter_share
 reddit.com##.previewdrawer
 reddit.com##.promotedlink
-reddit.com##.scroll-disabled:style(overflow: scroll !important; position: static !important;)
-reddit.com##.scroll-is-blocked:style(overflow: scroll !important;)
 reddit.com##.team-flair-selection-modal
 reddit.com##.topbutton
 reddit.com##.topics-links-block
 reddit.com##.topnav__promobutton
+reddit.com##.topnav_promobutton
 reddit.com##.topposts
 reddit.com##.useApp,.TopNav__promoButton
+reddit.com##.useApp,.TopNav_promoButton
 reddit.com##.xpromoappstorefooter
 reddit.com##.xpromoblockingmodal
 reddit.com##.xpromochoicebanner
 reddit.com##.xpromoinfeed
 reddit.com##.xpromonsfwblocking__warning
+reddit.com##.xpromonsfwblocking_warning
 reddit.com##.xpromonsfwblockingmodal
 reddit.com##.xpromopill
 reddit.com##.xpromopopup
@@ -912,12 +911,6 @@ reddit.com##.XPromoPopupRplNew
 reddit.com##div.bottom-bar
 reddit.com##div.XPromoBottomBar.m-consolidate
 reddit.com##div.XPromoBottomBar__banner
-reddit.com##shreddit-comments-page-ad
-reddit.com##shreddit-experience-tree
-reddit.com##shreddit-interactable-element > a
-reddit.com##shreddit-post[view-context="ListingBelowLinkedPosts"]
-reddit.com##shreddit-post[view-context="ListingBelowSubredditPosts"]
-reddit.com##shreddit-rereddit-promo
 reddit.com##team-flair-selection-modal
 reddit.com##xpromo-app-selector
 reddit.com##xpromo-footer
