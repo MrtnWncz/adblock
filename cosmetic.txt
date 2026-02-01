@@ -1,4 +1,4 @@
-########## 0000 2026 0201.1900
+########## 0000 2026 0201.2000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -870,10 +870,9 @@ reddit.com###pdp-app-upsell-bottom-sheet
 reddit.com###pdp-seeker-mweb-return-to-results
 reddit.com###right-sidebar-contents
 reddit.com###search-hero
+reddit.com###subgrid-container > div.masthead.w-full.relative:first-child > div.\@container:first-child
 reddit.com###subreddit-banner-img
 reddit.com###team-flair-selection-modal
-reddit.com##+js(aeld, touchmove)
-reddit.com##._13GEaJc1u3mPvCCGhfLQG4
 reddit.com##.adlinkbar
 reddit.com##.bottom-bar, .XPromoBottomBar
 reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href$="/user/AutoModerator"])
@@ -910,17 +909,6 @@ reddit.com##.xpromopill
 reddit.com##.xpromopopup
 reddit.com##.XPromoPopupRpl
 reddit.com##.XPromoPopupRplNew
-reddit.com##[data-testid="bottom-cell-wrapper"]
-reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
-reddit.com##article[style*="z-index: 1;"]
-reddit.com##body,html:style(overflow:auto!important)
-reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
-reddit.com##body:remove-class(scroll-disabled)
-reddit.com##body:style(overflow: visible !important; pointer-events: auto !important;)
-reddit.com##body:style(pointer-events:auto!important;)
-reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
-reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
-reddit.com##button[class="action last"]
 reddit.com##div.bottom-bar
 reddit.com##div.XPromoBottomBar.m-consolidate
 reddit.com##div.XPromoBottomBar__banner
@@ -937,7 +925,6 @@ reddit.com##xpromo-new-app-selector
 reddit.com##xpromo-nsfw-blocking-container
 reddit.com##xpromo-nsfw-blocking-modal
 reddit.com##xpromo-untagged-content-blocking-modal
-reddit.com###subgrid-container > div.masthead.w-full.relative:first-child > div.\@container:first-child
 removepaywalls.com###popup
 routinehub.co###ads
 routinehub.co###ethad
@@ -1249,5 +1236,3 @@ yahoo.com##.app-banner
 yahoo.com##div[class*="consent"]
 yahoo.com#$#body { overflow: auto !important; }
 youtube.com###frosted-glass
-||reddit.com^$removeparam=tl
-||reddit.com^*tl=$removeparam=tl
