@@ -1,4 +1,4 @@
-########## 0000 2026 0201.1400
+########## 0000 2026 0201.1500
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -864,6 +864,9 @@ quora.com##.false.q-box
 quora.com##.qu-bg--poe_primary_purple:has-text(Ask AI bots any question on Poe, a free app by Quora)
 quora.com##button[type="button"]:has-text(Open in App)
 quora.com##div#credential_picker_container
+||reddit.com^*tl=$removeparam=tl
+||reddit.com^$removeparam=tl
+reddit.com^$removeparam=tl
 reddit.com###blocking-modal-blur-container:style(filter: none !important;)
 reddit.com###left-sidebar > nav.z-2.box-border.flex.flex-col.mt-0.mb-0.pt-md.shrink-0.s\:shrink.w-full.min-h-screen-without-header.select-none > faceplate-tracker:nth-child(3) > games-section-badge-controller.nd\:visible
 reddit.com###pdp-seeker-mweb-return-to-results
