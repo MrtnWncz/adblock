@@ -1,4 +1,4 @@
-########## 0000 2026 0201.1600
+########## 0000 2026 0201.1700
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
