@@ -1,4 +1,4 @@
-########## 0000 2026 0201.1800
+########## 0000 2026 0201.1900
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -937,6 +937,7 @@ reddit.com##xpromo-new-app-selector
 reddit.com##xpromo-nsfw-blocking-container
 reddit.com##xpromo-nsfw-blocking-modal
 reddit.com##xpromo-untagged-content-blocking-modal
+reddit.com###subgrid-container > div.masthead.w-full.relative:first-child > div.\@container:first-child
 removepaywalls.com###popup
 routinehub.co###ads
 routinehub.co###ethad
