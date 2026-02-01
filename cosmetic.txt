@@ -1,6 +1,27 @@
-########## 0000 2026 0131.1800
+########## 0000 2026 0201.1300
 ###.nativterelo
 ###.szechenyi-infoblokk-container
+
+reddit.com###subreddit-banner-img
+reddit.com##.dualpartinterstitial
+reddit.com##.topbutton
+reddit.com##.xpromopill
+reddit.com##.xpromopopup
+reddit.com##.adlinkbar
+reddit.com##body:remove-class(scroll-disabled)
+reddit.com##body:style(overflow: visible !important; pointer-events: auto !important;)
+reddit.com##div.XPromoBottomBar__banner
+reddit.com##div.XPromoBottomBar.m-consolidate
+reddit.com##div.bottom-bar
+reddit.com##shreddit-interactable-element > a
+prohardver.hu###notif-modal
+mobilarena.hu###notif-modal
+x.com##.r-1yadl64
+prohardver.hu###right
+prohardver.hu##.fakebook
+prohardver.hu##.foot-barion
+prohardver.hu##.modal-md.modal-dialog
+
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
