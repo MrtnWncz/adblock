@@ -1,4 +1,4 @@
-########## 0000 2026 0202.1500
+########## 0000 2026 0202.1600
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -854,6 +854,7 @@ pmc.ncbi.nlm.nih.gov##.pmc-layout__disclaimer
 pmc.ncbi.nlm.nih.gov##section.usa-banner:nth-child(2)
 prohardver.hu###notif-modal
 prohardver.hu###right
+prohardver.hu##.bg-transparent
 prohardver.hu##.fakebook
 prohardver.hu##.foot-barion
 prohardver.hu##.modal-md.modal-dialog
