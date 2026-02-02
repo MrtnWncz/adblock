@@ -1,4 +1,4 @@
-########## 0000 2026 0202.1000
+########## 0000 2026 0202.1500
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -412,10 +412,6 @@ euronics.hu###content-before
 euronics.hu###contentAfter
 euronics.hu###newsletter-subscription-wrapper
 euronics.hu###sc__guest_newsletter_subscription
-facebook.com##+js(aeld, scroll)
-facebook.com##+js(trusted-click-element, body > div[id^="mount"] #scrollview ~ div div[role="button"]:has(> div[data-visualcompletion="ignore"]) )
-facebook.com##body > div[class*="__fb-light-mode"]
-facebook.com##div[id^="mount"] div:not([id]):not([class]):not([style]) > div[data-nosnippet]
 futunatura.hu##.action_wrapper
 galeria.totalcar.hu###hasznaltauto_iframe_wrapper
 galeriasavaria.hu##.box_wave, .box_wave_prod
