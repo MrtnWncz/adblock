@@ -1,4 +1,4 @@
-########## 0000 2026 0202.1600
+########## 0000 2026 0202.1700
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -412,6 +412,7 @@ euronics.hu###content-before
 euronics.hu###contentAfter
 euronics.hu###newsletter-subscription-wrapper
 euronics.hu###sc__guest_newsletter_subscription
+facebook.com##.xippug5
 futunatura.hu##.action_wrapper
 galeria.totalcar.hu###hasznaltauto_iframe_wrapper
 galeriasavaria.hu##.box_wave, .box_wave_prod
