@@ -1,4 +1,4 @@
-########## 0000 2026 0201.2000
+########## 0000 2026 0202.1000
 ###.nativterelo
 ###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
@@ -412,6 +412,10 @@ euronics.hu###content-before
 euronics.hu###contentAfter
 euronics.hu###newsletter-subscription-wrapper
 euronics.hu###sc__guest_newsletter_subscription
+facebook.com##+js(aeld, scroll)
+facebook.com##+js(trusted-click-element, body > div[id^="mount"] #scrollview ~ div div[role="button"]:has(> div[data-visualcompletion="ignore"]) )
+facebook.com##body > div[class*="__fb-light-mode"]
+facebook.com##div[id^="mount"] div:not([id]):not([class]):not([style]) > div[data-nosnippet]
 futunatura.hu##.action_wrapper
 galeria.totalcar.hu###hasznaltauto_iframe_wrapper
 galeriasavaria.hu##.box_wave, .box_wave_prod
@@ -864,12 +868,10 @@ quora.com##.false.q-box
 quora.com##.qu-bg--poe_primary_purple:has-text(Ask AI bots any question on Poe, a free app by Quora)
 quora.com##button[type="button"]:has-text(Open in App)
 quora.com##div#credential_picker_container
-reddit.com###left-sidebar > nav.z-2.box-border.flex.flex-col.mt-0.mb-0.pt-md.shrink-0.s\:shrink.w-full.min-h-screen-without-header.select-none > faceplate-tracker:nth-child(3) > games-section-badge-controller.nd\:visible
 reddit.com###pdp-app-upsell-bottom-sheet
 reddit.com###pdp-seeker-mweb-return-to-results
 reddit.com###right-sidebar-contents
 reddit.com###search-hero
-reddit.com###subgrid-container > div.masthead.w-full.relative:first-child > div.\@container:first-child
 reddit.com###subreddit-banner-img
 reddit.com###team-flair-selection-modal
 reddit.com##.adlinkbar
@@ -879,30 +881,21 @@ reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href*="bot"])
 reddit.com##.Comment:has(span:has-text(Pinned by moderators))
 reddit.com##.community-banner
 reddit.com##.communityheader-subscribe-button
-reddit.com##.dualpartinterstitial
 reddit.com##.getappfooter
 reddit.com##.joinbuttonfull
 reddit.com##.lb-footer
 reddit.com##.lb-header
 reddit.com##.mt-md
-reddit.com##.postfooter__share
-reddit.com##.postfooter_share
 reddit.com##.previewdrawer
 reddit.com##.promotedlink
 reddit.com##.team-flair-selection-modal
 reddit.com##.topbutton
 reddit.com##.topics-links-block
-reddit.com##.topnav__promobutton
-reddit.com##.topnav_promobutton
 reddit.com##.topposts
-reddit.com##.useApp,.TopNav__promoButton
-reddit.com##.useApp,.TopNav_promoButton
 reddit.com##.xpromoappstorefooter
 reddit.com##.xpromoblockingmodal
 reddit.com##.xpromochoicebanner
 reddit.com##.xpromoinfeed
-reddit.com##.xpromonsfwblocking__warning
-reddit.com##.xpromonsfwblocking_warning
 reddit.com##.xpromonsfwblockingmodal
 reddit.com##.xpromopill
 reddit.com##.xpromopopup
@@ -910,7 +903,6 @@ reddit.com##.XPromoPopupRpl
 reddit.com##.XPromoPopupRplNew
 reddit.com##div.bottom-bar
 reddit.com##div.XPromoBottomBar.m-consolidate
-reddit.com##div.XPromoBottomBar__banner
 reddit.com##team-flair-selection-modal
 reddit.com##xpromo-app-selector
 reddit.com##xpromo-footer
