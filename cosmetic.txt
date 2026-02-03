@@ -1,6 +1,5 @@
-########## 0000 2026 0202.1700
+########## 0000 2026 "0203.0900"
 ###.nativterelo
-###.szechenyi-infoblokk-container
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -18,7 +17,6 @@
 ###google-one-tap_container
 ###mdCookie
 ###molin-shop-ai
-###sz2020info
 ##.akw-tab-content
 ##.chat-widget
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -33,7 +31,6 @@
 ##.modal--overlay
 ##.nativterelo
 ##.newsletter-drawer
-##.szechenyi-infoblokk-container
 ##[class*="hud"]
 ##chat-widget
 ##chat-widget.hydrated
@@ -872,8 +869,11 @@ reddit.com###right-sidebar-contents
 reddit.com###search-hero
 reddit.com###subreddit-banner-img
 reddit.com###team-flair-selection-modal
+reddit.com##.active.xpromopopup
 reddit.com##.adlinkbar
+reddit.com##.amp.snackbar
 reddit.com##.bottom-bar, .XPromoBottomBar
+reddit.com##.coin-sale
 reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href$="/user/AutoModerator"])
 reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href*="bot"])
 reddit.com##.Comment:has(span:has-text(Pinned by moderators))
@@ -884,12 +884,22 @@ reddit.com##.joinbuttonfull
 reddit.com##.lb-footer
 reddit.com##.lb-header
 reddit.com##.mt-md
+reddit.com##.navframe > .xpromominimal.dualpartinterstitial
+reddit.com##.powerups-banner
 reddit.com##.previewdrawer
 reddit.com##.promotedlink
+reddit.com##.scroll-is-blocked
+reddit.com##.shreddit-ad-post
+reddit.com##.shreddit-bottom-bar
+reddit.com##.shreddit-header-prompt
+reddit.com##.shreddit-notification-banner
+reddit.com##.shreddit-recommendation
+reddit.com##.snackbar
 reddit.com##.team-flair-selection-modal
 reddit.com##.topbutton
 reddit.com##.topics-links-block
 reddit.com##.topposts
+reddit.com##.xpromoadfeed
 reddit.com##.xpromoappstorefooter
 reddit.com##.xpromoblockingmodal
 reddit.com##.xpromochoicebanner
@@ -901,6 +911,7 @@ reddit.com##.XPromoPopupRpl
 reddit.com##.XPromoPopupRplNew
 reddit.com##div.bottom-bar
 reddit.com##div.XPromoBottomBar.m-consolidate
+reddit.com##shreddit-experience-tree
 reddit.com##team-flair-selection-modal
 reddit.com##xpromo-app-selector
 reddit.com##xpromo-footer
