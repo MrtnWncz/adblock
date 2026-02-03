@@ -1,4 +1,4 @@
-########## 0000 2026 "0203.1000"
+########## 0000 2026 "0203.1100"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -919,6 +919,7 @@ reddit.com##xpromo-new-app-selector
 reddit.com##xpromo-nsfw-blocking-container
 reddit.com##xpromo-nsfw-blocking-modal
 reddit.com##xpromo-untagged-content-blocking-modal
+reddit.com##.legal-links
 removepaywalls.com###popup
 routinehub.co###ads
 routinehub.co###ethad
