@@ -1,4 +1,4 @@
-########## 0000 2026 "0203.2000"
+########## 0000 2026 "0206.2000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -988,6 +988,7 @@ telex.hu##.spacing-bottom.tooltip>.options-bottom.options
 telex.hu##.spacing-top.options-top.options
 telex.hu##.spacing-top.options-top.options>.share-network-facebook>svg>path
 telex.hu##.sponsored-line--txt
+telex.hu##.sport-event-dashboard
 telex.hu##.sportszelet-line.sponsored-line
 telex.hu##.tax-widget__container
 telex.hu##.telexapp__group
