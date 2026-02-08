@@ -1,4 +1,4 @@
-########## 0000 2026 "0206.2000"
+########## 0000 2026 "0208.1000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -378,6 +378,9 @@ duckduckgo.com##.showcase
 duckduckgo.com##.tagline_tagline__xryVo
 duckduckgo.com##[data-testid="serp-popover-promo"]
 ebank.fundamenta.hu###fund-cookie-popup
+emag.hu##.acc-toolbox-open-button
+emag.hu##.first-in-app-modal
+emag.hu##.modal-backdrop
 episode.hu###banya_felhiv
 episode.hu###navbar>.menurow.container>.d-lg-block.d-none.col-3.login>.gomb.btn-danger.btn2.btn
 episode.hu###sticky-navbar>.menurow.container>.d-lg-block.d-none.col-3.login>.gomb.btn-danger.btn2.btn
