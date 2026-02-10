@@ -1,4 +1,4 @@
-########## 0000 2026 "0208.1000"
+########## 0000 2026 "0210.2000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -325,6 +325,8 @@ bestmarkt.hu###ddModal>div.overlay:first-child
 biomenu.hu###exposeMaskOverlay
 bkk.hu###infoblokk
 bkk.hu###sidebar > button.sidebar-toggle:first-child > i.bkk-icon-sidebar-open
+bloomberg.com##.floating-copy-link
+bloomberg.com##.media-ui-LogoBarMobile_right-0rIQ7fk-KaE-
 canva.com##._1PHgrg, .FijAlA
 chatgpt.com##+js(set-local-storage-item, oai/apps/hasSeenNoAuthImagegenNux, true)
 chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
