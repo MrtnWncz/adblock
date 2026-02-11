@@ -1,4 +1,4 @@
-########## 0000 2026 "0210.2000"
+########## 0000 2026 "0211.2000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -457,6 +457,7 @@ google.com###Rzn5id
 google.com###slim_appbar
 google.com###slim_appbar > div
 google.com##.BOyx7
+google.com##.qkizKf
 google.hu###Rzn5id
 grok.com###grok-4-promotion-dialog-content
 grok.com###grok-home-promotion-dialog-content
@@ -958,6 +959,12 @@ startpage.com##.css-mtj8kd
 startpage.com##.layout-web__feedback-button-container--desktop
 startpage.com##.privacy-extension-and-app-widget,.css-i4fykg
 startpage.com##.serp-toast-container
+suzukiblog.hu##.bannercsik
+suzukiblog.hu##.car-sidebar-right
+suzukiblog.hu##.div.bannercsik
+suzukiblog.hu##.imgshadow
+suzukiblog.hu##.share
+suzukiblog.hu##div.bannercsik
 telex.hu###__nuxt > div > div.main--t > div:last-child > main.main-container:nth-child(3) > div.subcontainer > div > div.cl-container:last-child > div.tax-widget:first-child
 telex.hu###donate-navigation-right
 telex.hu###donate-navigation-right-link
