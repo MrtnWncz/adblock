@@ -1,4 +1,4 @@
-########## 0000 2026 "0211.2000"
+########## 0000 2026 "0212.2000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -670,6 +670,9 @@ nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(9)
 nemzetisport.hu##nso-articles-related-content
 nemzetisport.hu##nso-subscription
+news.google.com##.Jur22e
+news.google.com##.tGUGyc
+news.google.com##.ttg1Pb
 nlm.nih.gov##.usa-banner__header
 nytimes.com####ta-bar-one
 nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.DesktopNav_Wrapper__uEs_q.DesktopNav_FullFollowingHeight__GWwDk > div.DesktopNav_PrimaryNav__4azlX.DesktopNav_PrimaryNavFullFollowing__Qt03R:first-child > div.mobile-padding > div > div:nth-child(6)
