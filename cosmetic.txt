@@ -1,4 +1,4 @@
-########## 0000 2026 "0212.2000"
+########## 0000 2026 "0214.1000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -1247,3 +1247,4 @@ yahoo.com##.app-banner
 yahoo.com##div[class*="consent"]
 yahoo.com#$#body { overflow: auto !important; }
 youtube.com###frosted-glass
+youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
