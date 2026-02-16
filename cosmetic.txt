@@ -1,4 +1,4 @@
-########## 0000 2026 "0216.1000"
+########## 0000 2026 "0216.2000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -260,6 +260,7 @@ amazon.de##span:has-text(/Schneiden Sie diesen Teil aus und legen Sie ihn Ihrer 
 amazon.de##span:has-text(/Schneiden Sie dieses Etikett aus und kleben Sie es außen auf Ihre Rücksendung./)
 amazon.de#@##percolate-ui-ilm_div
 amazon.de#@##percolate-ui-ilm_feature_div
+angol-magyar-szotar.hu###adError
 aqua.hu###mobile_app_link_offer
 arcanum.com##.card-body
 arcanum.com##.card-img-top
@@ -416,6 +417,7 @@ euronics.hu###contentAfter
 euronics.hu###newsletter-subscription-wrapper
 euronics.hu###sc__guest_newsletter_subscription
 facebook.com##.xippug5
+forums.macrumors.com##a.link--external.link:nth-of-type(6)
 futunatura.hu##.action_wrapper
 galeria.totalcar.hu###hasznaltauto_iframe_wrapper
 galeriasavaria.hu##.box_wave, .box_wave_prod
@@ -619,11 +621,13 @@ macrumors.com##.glide--slider.glide--ltr.glide--swipeable.glide2>.glide__track>.
 macrumors.com##.glide--slider.glide--ltr.glide--swipeable.slider--2RhxUdeP.glide>.glide__track>.glide__slides
 macrumors.com##.headline
 macrumors.com##.headline--1PNRjTU3
+macrumors.com##.lazyloaded
 macrumors.com##.slick-inline-search-panel
 macrumors.com##.social--159R8SRB
 macrumors.com##.trending--2ymci4Wd
 macrumors.com##.wrapper--20Awsb5E>.sidebar--1d3u_-lK
 macrumors.com##.wrapper--20Awsb5E>.sidebar--1d3u_-lK>.noskim.secondary--2XxvWX2n.widget--3ewetJyi
+macrumors.com##[href^="https://www.bloomberg.com/subscriptions/checkout"]
 macrumors.com##div.noskim.widget--3ewetJyi:nth-of-type(2)
 macrumors.com##div.noskim.widget--3ewetJyi:nth-of-type(3)
 macrumors.com##div.noskim.widget--3ewetJyi:nth-of-type(5)
@@ -849,6 +853,7 @@ origo.hu##origo-articles-related-content
 origo.hu##origo-most-read
 origo.hu##origo-newsletter-box
 pastedownload.com###sectionsNav
+pastedownload.com##.fc-dialog-overlay
 paypal.com###PPAppDownloadBannerContainer
 pcforum.hu###subscribebar
 perplexity.ai###root > div.isolate:last-child > div.bg-base\/95.h-headerHeight.pointer-events-none.inset-x-0.top-0.backdrop-blur-md.duration-150.fixed.z-\[2\]:first-child > div.h-headerHeight.flex.flex-col > div.gap-x-md.px-md.py-sm.flex.h-full.items-center.justify-between > div.gap-x-sm.pointer-events-auto.relative.flex.items-center:last-child > div.animate-in.fade-in.duration-300:last-child
