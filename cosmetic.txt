@@ -1,4 +1,4 @@
-########## 0000 2026 "0214.1000"
+########## 0000 2026 "0216.1000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -405,6 +405,7 @@ eredmenyek.com##.container__myMenu
 eredmenyek.com##.header
 eredmenyek.com##.header__content
 eredmenyek.com##.odds
+eredmenyek.com##.outrightWidget.fp-outrightWidget_ONamr
 eredmenyek.com##.prematchOddsBonus__bonus--withButton
 eredmenyek.com##.section__prematchOdds.section
 eredmenyek.com##.wcl-tooltip_VNnu4,.wcl-onboarding_rfbSg
