@@ -1,4 +1,4 @@
-########## 0000 2026 "0219.2100"
+########## 0000 2026 "0219.2200"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -261,7 +261,12 @@ amazon.de##span:has-text(/Schneiden Sie dieses Etikett aus und kleben Sie es au√
 amazon.de#@##percolate-ui-ilm_div
 amazon.de#@##percolate-ui-ilm_feature_div
 anfieldwatch.co.uk###articles-list
+anfieldwatch.co.uk###snack-incontent-1
+anfieldwatch.co.uk###snack-incontent-2
+anfieldwatch.co.uk###snack-incontent-3
+anfieldwatch.co.uk###snack-incontent-repeater
 anfieldwatch.co.uk###snack-top
+anfieldwatch.co.uk###snack-top-slim
 anfieldwatch.co.uk###snack-vod
 anfieldwatch.co.uk##.anfieldwatch.card
 anfieldwatch.co.uk##.col-lg-4
@@ -272,11 +277,6 @@ anfieldwatch.co.uk##.my-12.store-widget
 anfieldwatch.co.uk##.player.player-container-article
 anfieldwatch.co.uk##.position-relative.container
 anfieldwatch.co.uk##center
-anfieldwatch.co.uk##div.basic-text:nth-of-type(6)
-anfieldwatch.co.uk##p:nth-of-type(4)
-anfieldwatch.co.uk##p:nth-of-type(5)
-anfieldwatch.co.uk##p:nth-of-type(6)
-anfieldwatch.co.uk##p:nth-of-type(7)
 anfieldwatch.co.uk##social-media
 angol-magyar-szotar.hu###adError
 aqua.hu###mobile_app_link_offer
@@ -927,6 +927,7 @@ reddit.com##.powerups-banner
 reddit.com##.previewdrawer
 reddit.com##.promotedlink
 reddit.com##.scroll-is-blocked
+reddit.com##.search-hero-small
 reddit.com##.shreddit-ad-post
 reddit.com##.shreddit-bottom-bar
 reddit.com##.shreddit-header-prompt
