@@ -1,4 +1,4 @@
-########## 0000 2026 "0219.2000"
+########## 0000 2026 "0219.2100"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -260,6 +260,24 @@ amazon.de##span:has-text(/Schneiden Sie diesen Teil aus und legen Sie ihn Ihrer 
 amazon.de##span:has-text(/Schneiden Sie dieses Etikett aus und kleben Sie es außen auf Ihre Rücksendung./)
 amazon.de#@##percolate-ui-ilm_div
 amazon.de#@##percolate-ui-ilm_feature_div
+anfieldwatch.co.uk###articles-list
+anfieldwatch.co.uk###snack-top
+anfieldwatch.co.uk###snack-vod
+anfieldwatch.co.uk##.anfieldwatch.card
+anfieldwatch.co.uk##.col-lg-4
+anfieldwatch.co.uk##.footer__bottom
+anfieldwatch.co.uk##.lazyloaded
+anfieldwatch.co.uk##.lazyloading
+anfieldwatch.co.uk##.my-12.store-widget
+anfieldwatch.co.uk##.player.player-container-article
+anfieldwatch.co.uk##.position-relative.container
+anfieldwatch.co.uk##center
+anfieldwatch.co.uk##div.basic-text:nth-of-type(6)
+anfieldwatch.co.uk##p:nth-of-type(4)
+anfieldwatch.co.uk##p:nth-of-type(5)
+anfieldwatch.co.uk##p:nth-of-type(6)
+anfieldwatch.co.uk##p:nth-of-type(7)
+anfieldwatch.co.uk##social-media
 angol-magyar-szotar.hu###adError
 aqua.hu###mobile_app_link_offer
 arcanum.com##.card-body
