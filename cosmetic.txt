@@ -1,4 +1,4 @@
-########## 0000 2026 "0218.2000"
+########## 0000 2026 "0219.2000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -904,6 +904,7 @@ reddit.com##.lb-header
 reddit.com##.legal-links
 reddit.com##.mt-md
 reddit.com##.navframe > .xpromominimal.dualpartinterstitial
+reddit.com##.nd\:visible.w-\[inherit\].translate-x-0.max-w-\[750px\].w-full
 reddit.com##.powerups-banner
 reddit.com##.previewdrawer
 reddit.com##.promotedlink
@@ -918,6 +919,7 @@ reddit.com##.team-flair-selection-modal
 reddit.com##.topbutton
 reddit.com##.topics-links-block
 reddit.com##.topposts
+reddit.com##.w-full.max-w-\[750px\].translate-x-0.w-\[inherit\].nd\:visible
 reddit.com##.xpromoadfeed
 reddit.com##.xpromoappstorefooter
 reddit.com##.xpromoblockingmodal
