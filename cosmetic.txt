@@ -1,4 +1,4 @@
-########## 0000 2026 "0219.2200"
+########## 0000 2026 "0222.1600"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -1223,6 +1223,7 @@ vitaminnagyker.hu###hud
 vitaminnagyker.hu###top-bar
 wikipedia.org##+js(rc, frb-overlay-open, body, stay)
 wikipedia.org##+js(rc, frb-overlay-open, html, stay)
+wikipedia.org##.cdx-message
 wikipedia.org##.no-font-mode-scale.vector-column-end
 wikipedia.org##.vector-pinnable-element.vector-toc
 wordpress.com##.cookie-banner
