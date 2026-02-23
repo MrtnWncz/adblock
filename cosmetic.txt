@@ -1,4 +1,4 @@
-########## 0000 2026 "0222.1600"
+########## 0000 2026 "0223.2000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -596,9 +596,6 @@ instagram.com##.bIiDR.aOOlW
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
 instagram.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.
 instagram.com##.xzkaem6.x1n2onr6
-istyle.hu###shopify-section-announcement_bar_slider
-istyle.hu##.mfp-bg
-istyle.hu##.mfp-container
 jegy.mav.hu###app-header-beta-row
 jegy.mav.hu##app-header-beta-row
 jofogas.hu##.adverticum-anchor-banner
