@@ -1,4 +1,4 @@
-########## 0000 2026 "0226.2000"
+########## 0000 2026 "0226.2200"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -668,6 +668,7 @@ ncore.pro##.hessteg-ad-block.news_block_right
 ncore.pro##.infocsik
 nemzetisport.hu###FeaturedSidedBottomColumnTitleDate
 nemzetisport.hu###nso-subscription
+nemzetisport.hu###qc-cmp2-container
 nemzetisport.hu##.article-header-right-top
 nemzetisport.hu##.FeaturedSidedBottomColumnTitleDate
 nemzetisport.hu##.footer-menu
@@ -690,6 +691,7 @@ nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(8)
 nemzetisport.hu##app-root:first-child > app-base:last-child > main.content-wrap:nth-child(2) > app-article-page:last-child > section.article-page > div.wrapper.with-aside:last-child > div.left-column:first-child > nso-article-card.article-card.style-FeaturedSidedBottomColumnTitleDate:nth-child(9)
 nemzetisport.hu##nso-articles-related-content
+nemzetisport.hu##nso-petition-popup
 nemzetisport.hu##nso-subscription
 news.google.com##.Jur22e
 news.google.com##.tGUGyc
