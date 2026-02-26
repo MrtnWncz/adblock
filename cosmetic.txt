@@ -1,4 +1,4 @@
-########## 0000 2026 "0223.2000"
+########## 0000 2026 "0226.2000"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -1218,11 +1218,17 @@ vitaminnagyker.hu###fb_minim_content
 vitaminnagyker.hu###fogyaszto
 vitaminnagyker.hu###hud
 vitaminnagyker.hu###top-bar
+wikipedia.org###div.vector-sidenotice-container
+wikipedia.org###sidenotice-container
+wikipedia.org###vector-sidenotice-container
 wikipedia.org##+js(rc, frb-overlay-open, body, stay)
 wikipedia.org##+js(rc, frb-overlay-open, html, stay)
 wikipedia.org##.cdx-message
+wikipedia.org##.div.vector-sidenotice-container
 wikipedia.org##.no-font-mode-scale.vector-column-end
+wikipedia.org##.sidenotice-container
 wikipedia.org##.vector-pinnable-element.vector-toc
+wikipedia.org##.vector-sidenotice-container
 wordpress.com##.cookie-banner
 wsj.com##.css-14zqvv1-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-1aa6zog-UtilityBarWrapper
