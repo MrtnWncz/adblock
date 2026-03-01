@@ -302,6 +302,7 @@ udcm.yahoo.com
 ||lionbasote.cyou^$important
 ||llnwd.net^$important
 ||molin.ai^$important
+||nso.hu^$important
 ||origo.hu^$important
 ||pawwalls.com^$important
 ||privacy-api.9gag.com.cdn.cloudflare.net^$important
