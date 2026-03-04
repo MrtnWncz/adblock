@@ -1,4 +1,4 @@
-########## 0000 2026 "0301.2000"
+########## 0000 2026 "0304.2200"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -479,6 +479,11 @@ google.com###slim_appbar
 google.com###slim_appbar > div
 google.com##.BOyx7
 google.com##.qkizKf
+google.com##a:has(span:contains(Sponsored)):upward(3)
+google.com##div:has(a[href^="/aclk"])
+google.com##div:has(span:contains(Sponsored))
+google.com##div:has(span:contains(Sponsored)):has(img)
+google.com##div[data-text-ad]
 google.hu###Rzn5id
 grok.com###grok-4-promotion-dialog-content
 grok.com###grok-home-promotion-dialog-content
@@ -869,6 +874,7 @@ quora.com##.false.q-box
 quora.com##.qu-bg--poe_primary_purple:has-text(Ask AI bots any question on Poe, a free app by Quora)
 quora.com##button[type="button"]:has-text(Open in App)
 quora.com##div#credential_picker_container
+reddit.com###expand-search-button
 reddit.com###in-feed-community-recommendations
 reddit.com###pdp-app-upsell-bottom-sheet
 reddit.com###pdp-seeker-mweb-return-to-results
@@ -880,6 +886,7 @@ reddit.com##.active.xpromopopup
 reddit.com##.adlinkbar
 reddit.com##.amp.snackbar
 reddit.com##.bottom-bar, .XPromoBottomBar
+reddit.com##.button-large
 reddit.com##.coin-sale
 reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href$="/user/AutoModerator"])
 reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href*="bot"])
@@ -897,6 +904,7 @@ reddit.com##.navframe > .xpromominimal.dualpartinterstitial
 reddit.com##.nd\:visible.w-\[inherit\].translate-x-0.max-w-\[750px\].w-full
 reddit.com##.powerups-banner
 reddit.com##.previewdrawer
+reddit.com##.prominent-search
 reddit.com##.promotedlink
 reddit.com##.scroll-is-blocked
 reddit.com##.search-hero-small
