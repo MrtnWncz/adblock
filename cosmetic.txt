@@ -1,4 +1,4 @@
-########## 0000 2026 "0304.2200"
+########## 0000 2026 "0304.2300"
 ###.nativterelo
 ###bon-loyalty-btn
 ###chat-widget
@@ -476,14 +476,8 @@ giphy.com##div[class*="OpenInAppContainer"]
 github.com###universe24_7
 google.com###Rzn5id
 google.com###slim_appbar
-google.com###slim_appbar > div
 google.com##.BOyx7
 google.com##.qkizKf
-google.com##a:has(span:contains(Sponsored)):upward(3)
-google.com##div:has(a[href^="/aclk"])
-google.com##div:has(span:contains(Sponsored))
-google.com##div:has(span:contains(Sponsored)):has(img)
-google.com##div[data-text-ad]
 google.hu###Rzn5id
 grok.com###grok-4-promotion-dialog-content
 grok.com###grok-home-promotion-dialog-content
