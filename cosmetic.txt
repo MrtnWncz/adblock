@@ -1,5 +1,6 @@
-########## 0000 2026 "0304.2300"
+########## 0000 2026 "0308.1700"
 ###.nativterelo
+###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
 ###chat-widget
 ###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
