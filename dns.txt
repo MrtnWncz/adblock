@@ -145,8 +145,21 @@
 0.0.0.0 ab.video-ak.cdn.spotify.com
 0.0.0.0 ac.video-ak.cdn.spotify.com
 0.0.0.0 ad.video-ak.cdn.spotify.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 adtech.yahooinc.com
 0.0.0.0 ae.video-ak.cdn.spotify.com
 0.0.0.0 af.video-ak.cdn.spotify.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 b0.video-ak.cdn.spotify.com
 0.0.0.0 b1.video-ak.cdn.spotify.com
 0.0.0.0 b2.video-ak.cdn.spotify.com
@@ -163,6 +176,8 @@
 0.0.0.0 bd.video-ak.cdn.spotify.com
 0.0.0.0 be.video-ak.cdn.spotify.com
 0.0.0.0 bf.video-ak.cdn.spotify.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 business-api.tiktok.com
 0.0.0.0 c0.video-ak.cdn.spotify.com
 0.0.0.0 c1.video-ak.cdn.spotify.com
 0.0.0.0 c2.video-ak.cdn.spotify.com
@@ -181,6 +196,7 @@
 0.0.0.0 cd.video-ak.cdn.spotify.com
 0.0.0.0 ce.video-ak.cdn.spotify.com
 0.0.0.0 cf.video-ak.cdn.spotify.com
+0.0.0.0 click.googleanalytics.com
 0.0.0.0 d0.video-ak.cdn.spotify.com
 0.0.0.0 d1.video-ak.cdn.spotify.com
 0.0.0.0 d2.video-ak.cdn.spotify.com
@@ -198,6 +214,7 @@
 0.0.0.0 dc.video-ak.cdn.spotify.com
 0.0.0.0 dd.video-ak.cdn.spotify.com
 0.0.0.0 de.video-ak.cdn.spotify.com
+0.0.0.0 default.cdn-gslb.spotify.com
 0.0.0.0 df.video-ak.cdn.spotify.com
 0.0.0.0 e0.video-ak.cdn.spotify.com
 0.0.0.0 e1.video-ak.cdn.spotify.com
@@ -232,19 +249,29 @@
 0.0.0.0 fe.video-ak.cdn.spotify.com
 0.0.0.0 ff.video-ak.cdn.spotify.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 gemini.yahoo.com
 0.0.0.0 i.scdn.co
 0.0.0.0 image-cdn-ak.spotifycdn.com
 0.0.0.0 image-scdn.cdn-gslb.spotify.com
 0.0.0.0 llnwd.net
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 media.net
+0.0.0.0 metrika.yandex.ru
 0.0.0.0 mosaic.scdn.co
 0.0.0.0 newjams-images.scdn.co
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 o.scdn.co
+0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 pickasso.spotifycdn.com
 0.0.0.0 pl.scdn.co
+0.0.0.0 podz-content.spotifycdn.com
 0.0.0.0 scdn.co
 0.0.0.0 scorecardresearch.com
 0.0.0.0 seed-mix-image.spotifycdn.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 static.media.net
 0.0.0.0 thisis-images.spotifycdn.com
+0.0.0.0 udcm.yahoo.com
 0.0.0.0 video-ak-cdn-spotify-com.akamaized.net
 0.0.0.0 video-ak.cdn.spotify.com
 0.0.0.0 video-ak.cdn.spotify.com.splitter-eip.akadns.net
@@ -257,42 +284,6 @@
 0.0.0.0 video-fa.cdn.spotify.com
 0.0.0.0 video-fa.scdn.co
 0.0.0.0 video4-ak.spotify.com
-ads-api.tiktok.com
-ads-api.twitter.com
-ads-sg.tiktok.com
-ads.pinterest.com
-ads.tiktok.com
-ads.yahoo.com
-adtech.yahooinc.com
-afs.googlesyndication.com
-analytics.pinterest.com
-api.bugsnag.com
-app.bugsnag.com
-app.getsentry.com
-appmetrica.yandex.ru
-browser.sentry-cdn.com
-business-api.tiktok.com
-canvaz.scdn.co
-click.googleanalytics.com
-default.cdn-gslb.spotify.com
-gemini.yahoo.com
-image-cdn-ak.spotifycdn.com
-log.fc.yahoo.com
-media.net
-metrika.yandex.ru
-notify.bugsnag.com
-partnerads.ysm.yahoo.com
-podz-content.spotifycdn.com
-sessions.bugsnag.com
-static.media.net
-udcm.yahoo.com
-video-ak.cdn.spotify.com.splitter-eip.akadns.net
-video-akpcw-cdn-spotify-com.akamaized.net
-video-akpcw.spotifycdn.com
-video-fa-b.cdn.spotify.com
-video-fa.cdn.spotify.com
-video-fa.scdn.co
-video4-ak.spotify.com
 ||8-lives-cat.io^$important
 ||appstack.link^$important
 ||canvas.spotifycdn.com^$important
