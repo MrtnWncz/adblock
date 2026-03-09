@@ -327,4 +327,3 @@
 ||vuogd.cn^$important
 ||wallet.brave.com^$important
 ||xaeis.cn^$important
-||youtube-nocookie.com^$important
