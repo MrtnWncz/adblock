@@ -1,5 +1,4 @@
-########## 0000 2026 "0309.2000"
-google.*##.kSMK2
+########## 0000 2026 "0310.2000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -136,14 +135,20 @@ autofejlesztes.hu##body > div.gmt_google_consent_container
 autofejlesztes.hu##div.gmt_google_consent_container
 autofejlesztes.hu##div.gmt_google_consent_container:nth-child(37)
 autofejlesztes.hu##div[class="gmt_google_consent_container"]
+benu.hu##
 benu.hu###ambanner-slider-container
 benu.hu###amrelated-block-9
 benu.hu###footer.page-footer
+benu.hu###header-callout-title
 benu.hu###molin-shop-ai
 benu.hu###pfbx-pdp-complementary-desktop
+benu.hu###shopify-section-template
+benu.hu###shopify-section-template--19787808669915__adverticum_ad_UbazXg
 benu.hu###slick-slide04.slick-active.slick-current.slick-slide
 benu.hu###widget.block.block-static-block
 benu.hu##.-ambanner-loaded.slick-dotted.slick-slider.slick-initialized.-dots-1.-arrows-1.-ambanner-dots.-ambanner-arrows.ambanner-slider-block
+benu.hu##.alert
+benu.hu##.alert__body
 benu.hu##.ambanner-item-block
 benu.hu##.ambanner-link
 benu.hu##.ambanner-slider-container
@@ -305,6 +310,7 @@ giphy.com##.sc-86edfcd6-1
 giphy.com##div.sc-6f6dd835-0.brOqxe.device-mobile:nth-child(5)
 giphy.com##div[class*="OpenInAppContainer"]
 github.com###universe24_7
+google.*##.kSMK2
 google.com###Rzn5id
 google.com###slim_appbar
 google.com##.BOyx7
@@ -696,6 +702,7 @@ provitamin.hu###newsletterbar
 pubmed.ncbi.nlm.nih.gov##.ncbi-alert__info-outer
 pubmed.ncbi.nlm.nih.gov##.usa-banner
 quora.com##.false.q-box
+quora.com##.qu-bg--blue
 quora.com##.qu-bg--poe_primary_purple:has-text(Ask AI bots any question on Poe, a free app by Quora)
 quora.com##button[type="button"]:has-text(Open in App)
 quora.com##div#credential_picker_container
