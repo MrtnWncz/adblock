@@ -1,4 +1,4 @@
-########## 0000 2026 "0310.2000"
+########## 0000 2026 "0311.2000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -90,6 +90,9 @@ alza.hu##.brandingEars-alz-1, .brandingEars-alz-3
 alza.hu##.pcConfigurator-alz-11
 alza.hu##alza-jarvis
 alza.hu##swiper-container
+amazon.co.uk##.glow-toaster-slot-default
+amazon.com##.glow-toaster-slot-default
+amazon.de##.glow-toaster-slot-default
 anfieldwatch.co.uk###articles-list
 anfieldwatch.co.uk###snack-incontent-1
 anfieldwatch.co.uk###snack-incontent-2
@@ -109,6 +112,7 @@ anfieldwatch.co.uk##.position-relative.container
 anfieldwatch.co.uk##center
 anfieldwatch.co.uk##social-media
 angol-magyar-szotar.hu###adError
+applehirek.hu##.post-single-content
 aqua.hu###mobile_app_link_offer
 arcanum.com##.card-body
 arcanum.com##.card-img-top
@@ -135,7 +139,6 @@ autofejlesztes.hu##body > div.gmt_google_consent_container
 autofejlesztes.hu##div.gmt_google_consent_container
 autofejlesztes.hu##div.gmt_google_consent_container:nth-child(37)
 autofejlesztes.hu##div[class="gmt_google_consent_container"]
-benu.hu##
 benu.hu###ambanner-slider-container
 benu.hu###amrelated-block-9
 benu.hu###footer.page-footer
@@ -144,6 +147,7 @@ benu.hu###molin-shop-ai
 benu.hu###pfbx-pdp-complementary-desktop
 benu.hu###shopify-section-template
 benu.hu###shopify-section-template--19787808669915__adverticum_ad_UbazXg
+benu.hu###shopify-section-template--19787808669915__benu_adverticum_ad_ih8kAE
 benu.hu###slick-slide04.slick-active.slick-current.slick-slide
 benu.hu###widget.block.block-static-block
 benu.hu##.-ambanner-loaded.slick-dotted.slick-slider.slick-initialized.-dots-1.-arrows-1.-ambanner-dots.-ambanner-arrows.ambanner-slider-block
@@ -173,6 +177,7 @@ benu.hu##.risks
 benu.hu##.safari-context-wrap
 benu.hu##.slick-track
 benu.hu##.slider
+benu.hu##.swiper-wrapper
 benu.hu##.widget.block.block-static-block
 benu.hu##molin-shop-ai
 bestmarkt.hu###ddModal-inner
