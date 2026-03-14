@@ -1,4 +1,4 @@
-########## 0000 2026 "0311.2000"
+########## 0000 2026 "0314.1800"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -278,6 +278,7 @@ euronics.hu###sc__guest_newsletter_subscription
 facebook.com##.xippug5
 forums.macrumors.com##a.link--external.link:nth-of-type(6)
 futunatura.hu##.action_wrapper
+gal.hu##.offcanvas-backdrop
 galeria.totalcar.hu###hasznaltauto_iframe_wrapper
 galeriasavaria.hu##.box_wave, .box_wave_prod
 galeriasavaria.hu##.flyer_container
