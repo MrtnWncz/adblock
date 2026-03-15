@@ -1,4 +1,4 @@
-########## 0000 2026 "0314.1800"
+########## 0000 2026 "03151800"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -186,6 +186,7 @@ biomenu.hu###exposeMaskOverlay
 bkk.hu###infoblokk
 bkk.hu###sidebar > button.sidebar-toggle:first-child > i.bkk-icon-sidebar-open
 bloomberg.com##.floating-copy-link
+bloomberg.com##.media-ui-CustomizableTicker_customizableTickers-RJtsXqEYiLI-
 bloomberg.com##.media-ui-LogoBarMobile_right-0rIQ7fk-KaE-
 canva.com##._1PHgrg, .FijAlA
 chatgpt.com##+js(set-local-storage-item, oai/apps/hasSeenNoAuthImagegenNux, true)
