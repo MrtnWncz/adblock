@@ -304,12 +304,14 @@
 ||lionbasote.cyou^$important
 ||llnwd.net^$important
 ||molin.ai^$important
+||monitor.mozilla.org^$important
 ||nso.hu^$important
 ||origo.hu^$important
 ||pawwalls.com^$important
 ||privacy-api.9gag.com.cdn.cloudflare.net^$important
 ||privacy-api.9gag.com^$important
 ||revenuecat.com^$important
+||s.w.org^$important
 ||scdn.co^$important
 ||scorecardresearch.com^$important
 ||suggest.perplexity.ai^$important
