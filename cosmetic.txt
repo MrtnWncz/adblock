@@ -1,4 +1,4 @@
-########## 0000 2026 "03151800"
+########## 0000 2026 "03172000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -818,6 +818,11 @@ suzukiblog.hu##.div.bannercsik
 suzukiblog.hu##.imgshadow
 suzukiblog.hu##.share
 suzukiblog.hu##div.bannercsik
+techwok.hu##.jnews_inline_related_post_wrapper
+techwok.hu##.jnews_module_287_2_69b92df78b07e
+techwok.hu##.jnews_module_287_3_69b92df78b166
+techwok.hu##.jnews_module_287_4_69b92df78b1f2
+techwok.hu##.mhcookie-show
 telex.hu###__nuxt > div > div.main--t > div:last-child > main.main-container:nth-child(3) > div.subcontainer > div > div.cl-container:last-child > div.tax-widget:first-child
 telex.hu###donate-navigation-right
 telex.hu###donate-navigation-right-link
