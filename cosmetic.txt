@@ -1,4 +1,4 @@
-########## 0000 2026 "03182000"
+########## 0000 2026 "03182100"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -318,6 +318,7 @@ giphy.com##div.sc-6f6dd835-0.brOqxe.device-mobile:nth-child(5)
 giphy.com##div[class*="OpenInAppContainer"]
 github.com###universe24_7
 google.*##.kSMK2
+google.com###credential_picker_container
 google.com###Rzn5id
 google.com###slim_appbar
 google.com##.BOyx7
