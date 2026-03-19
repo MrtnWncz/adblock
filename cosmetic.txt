@@ -1,4 +1,4 @@
-########## 0000 2026 "03192000"
+########## 0000 2026 "03192100"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -1123,3 +1123,4 @@ yahoo.com#$#body { overflow: auto !important; }
 yiya.hu##.cookie_footer
 youtube.com###frosted-glass
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
+||accounts.google.com/gsi/iframe/select$subdocument
