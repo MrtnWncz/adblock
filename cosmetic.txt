@@ -1,4 +1,4 @@
-########## 0000 2026 "03182100"
+########## 0000 2026 "03192000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -356,8 +356,14 @@ herbafulvo.hu##.kuuki_box
 herbafulvo.hu##kuuki_box
 hoxa.hu###stialert
 hoxa.hu###stidiv
+hvg.hu###header
+hvg.hu###mobile-nav
+hvg.hu###site-toolbar
 hvg.hu##.m-breadcrumb
+hvg.hu##.portfolio-menu
 hvg.hu##.pt-box
+hvg.hu##.sidebar-brandlab
+hvg.hu##.slideDown
 hwsw.hu##.ab-block
 hwsw.hu##.article-info>.share-article-button.facebook-share
 hwsw.hu##.button-group>.share-article-button.facebook-share
