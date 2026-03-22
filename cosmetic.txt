@@ -1,4 +1,4 @@
-########## 0000 2026 "03202100"
+########## 0000 2026 "03221000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -363,6 +363,7 @@ hvg.hu##.breaking
 hvg.hu##.m-breadcrumb
 hvg.hu##.portfolio-menu
 hvg.hu##.pt-box
+hvg.hu##.rltd_outer
 hvg.hu##.sidebar-brandlab
 hvg.hu##.slideDown
 hwsw.hu##.ab-block
@@ -477,6 +478,7 @@ m.imgur.com###app > div.App > div.GalleryHandler:last-child > div.SeeImgurOIA-ov
 m.imgur.com##.GalleryInfiniteScroll > div > .GalleryHandler-postContainer + div
 m.imgur.com##.GalleryInfiniteScroll > div > div:not([class])
 m.soundcloud.com##a[data-testid="open-in-app-link"]
+m.youtube.com##.feed-nudge-content-wrapper
 macrumors.com###featured_slider
 macrumors.com###maincontent > div:nth-child(3) > h2.heading--1cooZo6n.heading--h3--23mHEuMI.inline--Nnb-B96C
 macrumors.com###maincontent>div[class^="subscribe"]~div:has(~#comments)
@@ -820,6 +822,8 @@ startpage.com##.css-mtj8kd
 startpage.com##.layout-web__feedback-button-container--desktop
 startpage.com##.privacy-extension-and-app-widget,.css-i4fykg
 startpage.com##.serp-toast-container
+startpage.com##.support-banner
+streamin.me##.listvid
 suzukiblog.hu##.bannercsik
 suzukiblog.hu##.car-sidebar-right
 suzukiblog.hu##.div.bannercsik
@@ -1127,5 +1131,7 @@ yahoo.com##div[class*="consent"]
 yahoo.com#$#body { overflow: auto !important; }
 yiya.hu##.cookie_footer
 youtube.com###frosted-glass
+youtube.com##.feed-nudge-content-wrapper
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 ||accounts.google.com/gsi/iframe/select$subdocument
+||streami.su/static/duel.webp$image
