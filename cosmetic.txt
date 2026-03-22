@@ -1,4 +1,4 @@
-########## 0000 2026 "03221000"
+########## 0000 2026 "03222000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -360,6 +360,7 @@ hvg.hu###header
 hvg.hu###mobile-nav
 hvg.hu###site-toolbar
 hvg.hu##.breaking
+hvg.hu##.embedly-card-hug
 hvg.hu##.m-breadcrumb
 hvg.hu##.portfolio-menu
 hvg.hu##.pt-box
