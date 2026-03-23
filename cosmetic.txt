@@ -1,4 +1,4 @@
-########## 0000 2026 "03222000"
+########## 0000 2026 "03232000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -1055,6 +1055,7 @@ tumblr.com##.Lq1wm
 twitter.com##div[class="css-1dbjc4n r-1iusvr4 r-16y2uox r-97wbjc"]
 vezess.hu###more-news
 videa.hu###notification-bar
+videakid.hu###notification-bar
 vitaminnagyker.hu###fb_content_box
 vitaminnagyker.hu###fb_header_box
 vitaminnagyker.hu###fb_header_cert_box
