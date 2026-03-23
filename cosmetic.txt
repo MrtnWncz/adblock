@@ -1,4 +1,4 @@
-########## 0000 2026 "03232000"
+########## 0000 2026 "03232100"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -480,6 +480,7 @@ m.imgur.com##.GalleryInfiniteScroll > div > .GalleryHandler-postContainer + div
 m.imgur.com##.GalleryInfiniteScroll > div > div:not([class])
 m.soundcloud.com##a[data-testid="open-in-app-link"]
 m.youtube.com##.feed-nudge-content-wrapper
+m.youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 macrumors.com###featured_slider
 macrumors.com###maincontent > div:nth-child(3) > h2.heading--1cooZo6n.heading--h3--23mHEuMI.inline--Nnb-B96C
 macrumors.com###maincontent>div[class^="subscribe"]~div:has(~#comments)
@@ -1134,6 +1135,7 @@ yahoo.com#$#body { overflow: auto !important; }
 yiya.hu##.cookie_footer
 youtube.com###frosted-glass
 youtube.com##.feed-nudge-content-wrapper
+youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 ||accounts.google.com/gsi/iframe/select$subdocument
 ||streami.su/static/duel.webp$image
