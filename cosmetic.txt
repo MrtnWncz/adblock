@@ -1,4 +1,4 @@
-########## 0000 2026 "03232100"
+########## 0000 2026 "03271500"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -1066,6 +1066,7 @@ vitaminnagyker.hu###hud
 vitaminnagyker.hu###top-bar
 wikipedia.org###div.vector-sidenotice-container
 wikipedia.org###sidenotice-container
+wikipedia.org###siteNotice
 wikipedia.org###vector-sidenotice-container
 wikipedia.org##+js(rc, frb-overlay-open, body, stay)
 wikipedia.org##+js(rc, frb-overlay-open, html, stay)
