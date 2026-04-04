@@ -1,4 +1,4 @@
-########## 0000 2026 "03271500"
+########## 0000 2026 "04041800"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -322,6 +322,7 @@ google.com###credential_picker_container
 google.com###Rzn5id
 google.com###slim_appbar
 google.com##.BOyx7
+google.com##.ko8QQ
 google.com##.qkizKf
 google.hu###Rzn5id
 grok.com###grok-4-promotion-dialog-content
