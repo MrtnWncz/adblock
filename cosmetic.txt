@@ -1,4 +1,4 @@
-########## 0000 2026 "04041800"
+########## 0000 2026 "04071500"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -807,6 +807,7 @@ shorturl.at##.intercom-lightweight-app-launcher
 shorturl.at##header
 skinsort.com###colophon
 skinsort.com###masthead
+skinsort.com##.bg-indigo-50
 skinsort.com##.flex-col.flex.font-header.my-5.p-6.rounded-xl.w-full.text-indigo-900.bg-indigo-50
 skinsort.com##.relative.h-full.items-center.flex
 skinsort.com##.show
