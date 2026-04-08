@@ -1,4 +1,4 @@
-########## 0000 2026 "04071500"
+########## 0000 2026 "04081900"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -480,6 +480,7 @@ m.imgur.com###app > div.App > div.GalleryHandler:last-child > div.SeeImgurOIA-ov
 m.imgur.com##.GalleryInfiniteScroll > div > .GalleryHandler-postContainer + div
 m.imgur.com##.GalleryInfiniteScroll > div > div:not([class])
 m.soundcloud.com##a[data-testid="open-in-app-link"]
+m.youtube.com##.consent-bump-v2-lightbox
 m.youtube.com##.feed-nudge-content-wrapper
 m.youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 macrumors.com###featured_slider
@@ -816,6 +817,7 @@ soccertvhd.com###\30 x307f87
 soccertvhd.com###\30 x31df77
 soccertvhd.com###\30 x31dfa1
 soccertvhd.com##.animate__animated
+sport-arab.space###kk-sticky-ad
 stackoverflow.com##.js-consent-banner
 startpage.com###marketing-tag-container
 startpage.com###serp-toast-container
@@ -1137,6 +1139,7 @@ yahoo.com##div[class*="consent"]
 yahoo.com#$#body { overflow: auto !important; }
 yiya.hu##.cookie_footer
 youtube.com###frosted-glass
+youtube.com##.consent-bump-v2-lightbox
 youtube.com##.feed-nudge-content-wrapper
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
