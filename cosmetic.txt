@@ -1,4 +1,4 @@
-########## 0000 2026 "04081900"
+########## 0000 2026 "04091900"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -16,8 +16,10 @@
 ###google-one-tap-anchor
 ###google-one-tap__container
 ###google-one-tap_container
+###kk-sticky-ad
 ###mdCookie
 ###molin-shop-ai
+###sp-pto-mb-div
 ##.akw-tab-content
 ##.chat-widget
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -32,6 +34,8 @@
 ##.modal--overlay
 ##.nativterelo
 ##.newsletter-drawer
+##.sp-pto-google-ads
+##.sp-pto-mb-div
 ##[class*="hud"]
 ##chat-widget
 ##chat-widget.hydrated
