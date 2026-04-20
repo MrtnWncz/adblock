@@ -1,4 +1,4 @@
-########## 0000 2026 "04091900"
+########## 0000 2026 "04201900"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -228,6 +228,7 @@ dictzone.com###aside
 dictzone.com##.ad1m
 dictzone.com##.cr
 digg.com##.-mt-\[112px\]
+discussions.apple.com##.form-alert
 discussions.apple.com##.site-wide-container
 disneyplus.com####.iAsmkG.sc-iNhVCk
 disneyplus.com###app_body_content > div.sc-fEUNkw.hjCJhU:last-child > div.sc-iNhVCk.iAsmkG:last-child
