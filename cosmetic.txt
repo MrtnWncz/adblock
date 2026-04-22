@@ -1,4 +1,4 @@
-########## 0000 2026 "04201900"
+########## 0000 2026 "04221900"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -228,8 +228,12 @@ dictzone.com###aside
 dictzone.com##.ad1m
 dictzone.com##.cr
 digg.com##.-mt-\[112px\]
+discussions.apple.com###.notification.site-wide.shown
+discussions.apple.com##.div.notification.site-wide.shown
 discussions.apple.com##.form-alert
+discussions.apple.com##.notification.site-wide.shown
 discussions.apple.com##.site-wide-container
+discussions.apple.com##div.notification.site-wide.shown
 disneyplus.com####.iAsmkG.sc-iNhVCk
 disneyplus.com###app_body_content > div.sc-fEUNkw.hjCJhU:last-child > div.sc-iNhVCk.iAsmkG:last-child
 disneyplus.com##.iAsmkG.sc-iNhVCk
@@ -620,6 +624,7 @@ nytimes.com##.MobileNav_MobileSubscribeDisplay__7ugeg
 nytimes.com##.MobileNav_MobileSubscribeDisplay___7ugeg
 nytimes.com##.puzzle-content-container
 nytimes.com##.PuzzleEntryPoint_PuzzleContainer___nayX
+nytimes.com##.PuzzleEntryPoint_PuzzleContainer__eVJWr
 nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 nytimes.com##.ReactModalPortal
 nytimes.com##.RegionBanner_ban-ner___peckr
@@ -1122,6 +1127,7 @@ www.nytimes.com##.Content_PuzzleContainer__xV0Ru
 www.nytimes.com##.Footer_Footer__BSyrm
 www.nytimes.com##.in-content-module-link
 www.nytimes.com##.OpenAppToast_OpenAppToast__CfDPd
+www.nytimes.com##.PuzzleEntryPoint_PuzzleContainer__eVJWr
 www.nytimes.com##.PuzzleEntryPoint_PuzzlesContentContainer__YIJUL
 www.nytimes.com##.RegionBanner_banner__peckr
 www.nytimes.com##ta-bar-one
