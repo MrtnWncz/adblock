@@ -1,4 +1,4 @@
-########## 0000 2026 "04241900"
+########## 0000 2026 "04271900"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -459,6 +459,7 @@ instagram.com##.bIiDR.aOOlW
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
 instagram.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.
 instagram.com##.xzkaem6.x1n2onr6
+itbusiness.hu##.hird-banner-mob
 jegy.mav.hu###app-header-beta-row
 jegy.mav.hu##app-header-beta-row
 jofogas.hu##.adverticum-anchor-banner
