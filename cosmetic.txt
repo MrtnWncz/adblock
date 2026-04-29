@@ -1,4 +1,4 @@
-########## 0000 2026 "04271900"
+########## 0000 2026 "04292000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -364,6 +364,7 @@ healthline.com##.wp-block-healthline-jwplayer
 herbafulvo.hu###kuuki_box
 herbafulvo.hu##.kuuki_box
 herbafulvo.hu##kuuki_box
+hitslink.xyz###sticky-728x90-ad
 hoxa.hu###stialert
 hoxa.hu###stidiv
 hvg.hu###header
