@@ -1,4 +1,4 @@
-########## 0000 2026 "04292000"
+########## 0000 2026 "05021800"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -83,6 +83,7 @@
 9xbuddy.online##.md\:w-4\/12
 9xbuddy.online##.md\:w-8\/12
 9xbuddy.online##.p-4
+9xbuddy.site##.bg-gray-500
 9xbuddy.site##.border-blue-400
 9xbuddy.site##.md\:w-4\/12
 9xbuddy.site##.md\:w-8\/12
@@ -873,6 +874,7 @@ telex.hu##.fb-box__logo>svg
 telex.hu##.footer__app
 telex.hu##.footer__container
 telex.hu##.l-screen.telex-links
+telex.hu##.modal--overlay--tax
 telex.hu##.modal--tax
 telex.hu##.modal--threat__content
 telex.hu##.navigation--domain
@@ -894,6 +896,7 @@ telex.hu##.spacing-top.options-top.options>.share-network-facebook>svg>path
 telex.hu##.sponsored-line--txt
 telex.hu##.sport-event-dashboard
 telex.hu##.sportszelet-line.sponsored-line
+telex.hu##.tamogatott-tartalom
 telex.hu##.tax-widget__container
 telex.hu##.telexapp__group
 temu.com###container-1IdA5
