@@ -1,4 +1,4 @@
-########## 0000 2026 "05021800"
+########## 0000 2026 "05031600"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -867,6 +867,7 @@ telex.hu##.article-box-margin.sidebar_container_
 telex.hu##.article-content.favorite.recommendation
 telex.hu##.article-content.support-box
 telex.hu##.asahi-line-b
+telex.hu##.biztos-dontes
 telex.hu##.btn.support-box__next
 telex.hu##.burger-button
 telex.hu##.fb-box
@@ -882,6 +883,7 @@ telex.hu##.navigation__button
 telex.hu##.navigation__logo
 telex.hu##.pip
 telex.hu##.pip__minimized.pip
+telex.hu##.pr-cikk
 telex.hu##.share-network-email.spacing-bottom.options-bottom.options
 telex.hu##.share-network-facebook.spacing-bottom.options-bottom.options
 telex.hu##.share-network-facebook.spacing-bottom.options-bottom.options>svg
