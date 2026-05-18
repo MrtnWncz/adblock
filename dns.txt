@@ -300,13 +300,10 @@
 ||flirtback.com^$important
 ||fundingchoicesmessages.google.com^$important
 ||googletagmanager.com^$important
-||index.hu^$important
 ||lionbasote.cyou^$important
 ||llnwd.net^$important
 ||molin.ai^$important
 ||monitor.mozilla.org^$important
-||nso.hu^$important
-||origo.hu^$important
 ||pawwalls.com^$important
 ||privacy-api.9gag.com.cdn.cloudflare.net^$important
 ||privacy-api.9gag.com^$important
