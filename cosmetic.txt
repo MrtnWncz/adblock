@@ -1,4 +1,4 @@
-########## 0000 2026 "05031600"
+########## 0000 2026 "05191900"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -430,6 +430,7 @@ index.hu##.dogz
 index.hu##.ecnmxajanlo_wrapper
 index.hu##.exchange
 index.hu##.exchange-ticker
+index.hu##.google-pref-banner
 index.hu##.info-stripe
 index.hu##.linkpreview, .bekezdes_utan
 index.hu##.linkpreview,.bekezdes_utan
