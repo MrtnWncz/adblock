@@ -1,4 +1,4 @@
-########## 0000 2026 "05191900"
+########## 0000 2026 "05211900"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -351,12 +351,24 @@ gyakorikerdesek.hu###stidiv
 gymbeam.hu##.gb-notification
 hasznaltalma.hu##.banner-container
 hasznaltauto.hu###billboard
+hasznaltauto.hu###bumper
+hasznaltauto.hu###bumper-mobile
 hasznaltauto.hu###didomi-popup
+hasznaltauto.hu###half-page
+hasznaltauto.hu###half-page-small-1
+hasznaltauto.hu###half-page-small-1-mobile
+hasznaltauto.hu###half-page-small-2-mobile
+hasznaltauto.hu###half-page-small-3-mobile
+hasznaltauto.hu###half-page-small-4-mobile
 hasznaltauto.hu###irsz-floater
 hasznaltauto.hu###localContent4968902>.local-content__zone
 hasznaltauto.hu###localContent4968905>a>img
+hasznaltauto.hu###money-widget
+hasznaltauto.hu###money-widget-mobile
 hasznaltauto.hu###wrap>div.container:nth-child(7)>div.adatlap:last-child>div.row>div.col-xs-28.no-print:first-child
 hasznaltauto.hu###wrap>div.container:nth-child(7)>div.site-index:last-child>div.row>div.col-xs-28:first-child
+hasznaltauto.hu###zone-container
+hasznaltauto.hu##.details__reveal-primary-phone
 hazisajtkeszites.hu###fb_header_box
 hazisajtkeszites.hu##chat-widget.hydrated:last-child
 healthline.com##.myFinance-ad-unit
