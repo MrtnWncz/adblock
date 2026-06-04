@@ -782,6 +782,7 @@ www.googletagservices.com
 ||audio4-ak.spotify.com.edgesuite.net^
 ||audio4-akp.spotify.com.edgesuite.net^
 ||auditdesk-server.spotify.com^
+||awarnetudop.com^$important
 ||axp.spotify.com^
 ||b.admob.com^
 ||b.scorecardresearch.com^
@@ -1215,6 +1216,7 @@ www.googletagservices.com
 ||kajal.ash1.spotify.com^
 ||kenyatta.ash.spotify.com^
 ||kenyatta.ash1.spotify.com^
+||kilojaya.com^$important
 ||kismet.ash.spotify.com^
 ||kismet.ash1.spotify.com^
 ||l.admob.com^
