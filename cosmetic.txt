@@ -1,4 +1,4 @@
-########## 0000 2026 "05211900"
+########## 0000 2026 "06111500"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -914,6 +914,7 @@ telex.hu##.sportszelet-line.sponsored-line
 telex.hu##.tamogatott-tartalom
 telex.hu##.tax-widget__container
 telex.hu##.telexapp__group
+telex.hu##.viewport--article
 temu.com###container-1IdA5
 temu.com##.container-1IdA5
 tenor.com##.FeaturedPage
@@ -1158,6 +1159,12 @@ www.origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.co
 www.origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 www.theathletic.com###showcase-link-6774171
 www.theathletic.com###showcase-link-6776323
+x-video.tube##.clkbat-wraper
+x-video.tube##.info-bar__buttons
+x-video.tube##.telegram-chat
+x-video.tube##.top-sites-bar
+x-video.tube##.vote-block
+x-video.tube##.xv-topbar-flare-final
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
