@@ -314,9 +314,11 @@ spclient.wg.spotify.com
 ssl.google-analytics.com
 static.doubleclick.net
 stats.g.doubleclick.net
+stun.l.google.com
+thf.bing.com
 tpc.googlesyndication.com
-www.googleadservices.com
-www.googletagservices.com
+googleadservices.com
+googletagservices.com
 ||00.audio-ak.cdn.spotify.com^
 ||00.video-ak.cdn.spotify.com^
 ||01.audio-ak.cdn.spotify.com^
