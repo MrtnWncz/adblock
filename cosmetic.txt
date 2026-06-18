@@ -1,4 +1,4 @@
-########## 0000 2026 "06111800"
+########## 0000 2026 "06181800"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -187,6 +187,7 @@ benu.hu##.widget.block.block-static-block
 benu.hu##molin-shop-ai
 bestmarkt.hu###ddModal-inner
 bestmarkt.hu###ddModal>div.overlay:first-child
+bing.com##.composer_container
 biomenu.hu###exposeMaskOverlay
 bkk.hu###infoblokk
 bkk.hu###sidebar > button.sidebar-toggle:first-child > i.bkk-icon-sidebar-open
