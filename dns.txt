@@ -434,6 +434,7 @@ www.googletagservices.com
 ||3e.audio-ak.cdn.spotify.com^
 ||3e.video-ak.cdn.spotify.com^
 ||3f.video-ak.cdn.spotify.com^
+||4.bing.com^$important
 ||40.audio-ak.cdn.spotify.com^
 ||40.video-ak.cdn.spotify.com^
 ||41.audio-ak.cdn.spotify.com^
@@ -889,6 +890,7 @@ www.googletagservices.com
 ||clemmie.ash.spotify.com^
 ||clemmie.ash1.spotify.com^
 ||click.api.cp.tune.com^
+||clients.l.google.com^$important
 ||clients1.google.com^
 ||clk1.vip.sc9.admob.com^
 ||clk2.vip.sc9.admob.com^
@@ -1492,6 +1494,7 @@ www.googletagservices.com
 ||tathra.ash1.spotify.com^
 ||techattend.com^
 ||terraform-modules-test.intercom.io^
+||thfvnext.bing.com^$important
 ||thisis-images.scdn.co^
 ||tic1.vip.sc9.admob.com^
 ||timecapsule.spotify.com^
