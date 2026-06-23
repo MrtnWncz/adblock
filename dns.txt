@@ -1370,6 +1370,7 @@
 ||prod.spotify.map.fastlylb.net^
 ||profile-images.scdn.co^
 ||pt.admob.com^
+||pub.fotmob.com^$important
 ||pubads.g.doubleclick.net^
 ||px.moatads.com^
 ||q.admob.com^
