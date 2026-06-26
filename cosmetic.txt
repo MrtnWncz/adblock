@@ -1,4 +1,4 @@
-########## 0000 2026 "06191500"
+########## 0000 2026 "06261600"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -464,9 +464,16 @@ index.hu##.macronomx_index
 index.hu##.moneytalks
 index.hu##.nehagyjaki
 index.hu##.njs-carousel
+index.hu##.one-container
+index.hu##.one-container-sidekick
+index.hu##.one-radar-intro
 index.hu##.postcontent
 index.hu##.pp-hasab
 index.hu##.promo-container
+index.hu##.radar-circle
+index.hu##.radar-container
+index.hu##.radar-container-inner
+index.hu##.show
 index.hu##.small.facebook.social-follow
 index.hu##.szelso-jobb
 index.hu##.vegasodds
