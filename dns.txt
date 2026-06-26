@@ -84,6 +84,7 @@
 0.0.0.0 2e.video-ak.cdn.spotify.com
 0.0.0.0 2f.audio-ak.cdn.spotify.com
 0.0.0.0 2f.video-ak.cdn.spotify.com
+0.0.0.0 2giga.link
 0.0.0.0 2qbjhhcl4u87btjbo7dh8vi2n.litix.io
 0.0.0.0 30.audio-ak.cdn.spotify.com
 0.0.0.0 30.video-ak.cdn.spotify.com
@@ -879,6 +880,7 @@
 0.0.0.0 googletagservices.com
 0.0.0.0 graph-fallback.facebook.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 greatis.com
 0.0.0.0 groups.spotify.com
 0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 guc-dealer-ssl.spotify.com
