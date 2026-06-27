@@ -722,7 +722,6 @@
 0.0.0.0 devnews.spotify.com
 0.0.0.0 df.audio-ak.cdn.spotify.com
 0.0.0.0 df.video-ak.cdn.spotify.com
-0.0.0.0 dgw.fallback.c10r.facebook.com
 0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 digitaloceanspaces.com
 0.0.0.0 docs.spotify.com
@@ -1222,9 +1221,6 @@
 0.0.0.0 stacia.ash1.spotify.com
 0.0.0.0 stage.tune.com
 0.0.0.0 staging-newsroom.spotify.com
-0.0.0.0 star-mini.fallback.c10r.facebook.com
-0.0.0.0 star-z-mini.c10r.facebook.com
-0.0.0.0 star.fallback.c10r.facebook.com
 0.0.0.0 start.spotify.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.doubleclick.net
