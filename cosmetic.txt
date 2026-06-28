@@ -1,4 +1,4 @@
-########## 0000 2026 "06271400"
+########## 0000 2026 "06281200"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -925,6 +925,7 @@ telex.hu##.tamogatott-tartalom
 telex.hu##.tax-widget__container
 telex.hu##.telexapp__group
 telex.hu##.viewport--article
+telex.hu##.viewport--s
 temu.com###container-1IdA5
 temu.com##.container-1IdA5
 tenor.com##.FeaturedPage
