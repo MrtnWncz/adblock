@@ -1,4 +1,4 @@
-########## 0000 2026 "06281200"
+########## 0000 2026 "06281800"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -791,6 +791,7 @@ reddit.com##.legal-links
 reddit.com##.mt-md
 reddit.com##.navframe > .xpromominimal.dualpartinterstitial
 reddit.com##.nd\:visible.w-\[inherit\].translate-x-0.max-w-\[750px\].w-full
+reddit.com##.overflow-hidden.relative.p-md.bg-neutral-background-weak.rounded-4.m-md.w-\[251px\].h-\[calc\(100vh-64px-56px\)\].flex-col.flex
 reddit.com##.powerups-banner
 reddit.com##.previewdrawer
 reddit.com##.prominent-search
