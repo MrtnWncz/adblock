@@ -1,4 +1,4 @@
-########## 0000 2026 "06281800"
+########## 0000 2026 "06302100"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -1086,6 +1086,7 @@ tiktok.com###StyledIcon
 tiktok.com###tux-web-canary-1-modal-overlay
 tiktok.com##.bottom
 tiktok.com##.css-1oz3gmx-7937d88b--DivKeyboardShortcutContainer
+tiktok.com##.css-1r8oxhk-5b89d02d--DivModalContainer
 tiktok.com##.css-ailk6h-7937d88b--ButtonGetAppText
 tiktok.com##.css-i41e9h-5e6d46e3--DivModalContainer, .ec9omd60
 tiktok.com##.css-qrtvk6-5e6d46e3--DivKeyboardShortcutContainer
