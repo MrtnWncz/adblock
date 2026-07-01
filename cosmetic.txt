@@ -1,4 +1,4 @@
-########## 0000 2026 "06302100"
+########## 0000 2026 "07012000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -243,6 +243,7 @@ disneyplus.com###app_body_content > div.sc-fEUNkw.hjCJhU:last-child > div.sc-iNh
 disneyplus.com##.iAsmkG.sc-iNhVCk
 docstransfer.com##div.main:first-child>div.ukraine-banner:first-child
 downdetector.com###geo-redirect-root
+dropr.co##.dropr-ad-inner
 duckduckgo.com##.c1GwqC__eRoEs0cLTIfL
 duckduckgo.com##.feedback-prompt
 duckduckgo.com##.footer
