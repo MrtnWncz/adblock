@@ -1,4 +1,4 @@
-########## 0000 2026 "06281200"
+########## 0000 2026 "07121500"
 0.0.0.0 00.audio-ak.cdn.spotify.com
 0.0.0.0 00.video-ak.cdn.spotify.com
 0.0.0.0 01.audio-ak.cdn.spotify.com
@@ -1347,6 +1347,7 @@
 0.0.0.0 welcome-images.scdn.co
 0.0.0.0 wendy.admob.com
 0.0.0.0 widget.intercom.io
+0.0.0.0 widget.molin.ai
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 wl.spotify.com
