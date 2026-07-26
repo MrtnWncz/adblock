@@ -1,4 +1,4 @@
-########## 0000 2026 "07012100"
+########## "07261100"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -20,6 +20,7 @@
 ###mdCookie
 ###molin-shop-ai
 ###sp-pto-mb-div
+##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
@@ -30,10 +31,14 @@
 ##.gmt_google_consent_container
 ##.gmtgc_block_screen
 ##.gmtgc_consent_popup
+##.google-preferred-source
+##.google-search-button
+##.google-source-banner
 ##.hydrated
 ##.modal--overlay
 ##.nativterelo
 ##.newsletter-drawer
+##.preferred-source
 ##.sp-pto-google-ads
 ##.sp-pto-mb-div
 ##[class*="hud"]
@@ -43,6 +48,7 @@
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##div.gmt_google_consent_container
 ##div.hydrated
+##div:has-text(/(Hozzáadás preferált forrásként|Hozzáadás a kedvenc forrásokhoz|Állítsd be megbízható forrásnak!)/)
 ##div[class^="gmtgc_"], div[class*=" gmtgc_"]
 ##fb-hud
 ##google-one-tap__container
@@ -51,6 +57,7 @@
 24.hu###credential_picker_container
 24.hu##.-noSticky
 24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
+24.hu##.article_box_border_szponzibox
 24.hu##.d-xl-none
 24.hu##.L5Fo6c-PQbLGe
 24.hu##.o-footer__wrap
@@ -390,6 +397,7 @@ hvg.hu###mobile-nav
 hvg.hu###site-toolbar
 hvg.hu##.breaking
 hvg.hu##.embedly-card-hug
+hvg.hu##.google-search-button
 hvg.hu##.m-breadcrumb
 hvg.hu##.portfolio-menu
 hvg.hu##.pt-box
