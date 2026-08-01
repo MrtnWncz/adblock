@@ -1,4 +1,4 @@
-########## "08011000"
+########## "08011200"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -204,6 +204,7 @@ bkk.hu###sidebar > button.sidebar-toggle:first-child > i.bkk-icon-sidebar-open
 bloomberg.com##.floating-copy-link
 bloomberg.com##.media-ui-CustomizableTicker_customizableTickers-RJtsXqEYiLI-
 bloomberg.com##.media-ui-LogoBarMobile_right-0rIQ7fk-KaE-
+book24.hu##.rb-cookiealert-cover-page
 canva.com##._1PHgrg, .FijAlA
 chatgpt.com##+js(set-local-storage-item, oai/apps/hasSeenNoAuthImagegenNux, true)
 chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
