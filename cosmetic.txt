@@ -1,4 +1,4 @@
-########## "07261100"
+########## "08011000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -39,6 +39,7 @@
 ##.nativterelo
 ##.newsletter-drawer
 ##.preferred-source
+##.rb-cookiealert-cover-page
 ##.sp-pto-google-ads
 ##.sp-pto-mb-div
 ##[class*="hud"]
