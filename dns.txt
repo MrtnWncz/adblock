@@ -1,4 +1,4 @@
-########## 0000 2026 "07121500"
+########## "08041300"
 0.0.0.0 00.audio-ak.cdn.spotify.com
 0.0.0.0 00.video-ak.cdn.spotify.com
 0.0.0.0 01.audio-ak.cdn.spotify.com
@@ -604,7 +604,6 @@
 0.0.0.0 click.api.cp.tune.com
 0.0.0.0 click.googleanalytics.com
 0.0.0.0 click.mailchimp.com
-0.0.0.0 clients.l.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 clk1.vip.sc9.admob.com
