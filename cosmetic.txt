@@ -1,4 +1,4 @@
-########## "08041000"
+########## "08041100"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -775,6 +775,70 @@ quora.com##.qu-bg--blue
 quora.com##.qu-bg--poe_primary_purple:has-text(Ask AI bots any question on Poe, a free app by Quora)
 quora.com##button[type="button"]:has-text(Open in App)
 quora.com##div#credential_picker_container
+reddit.com###expand-search-button
+reddit.com###in-feed-community-recommendations
+reddit.com###pdp-app-upsell-bottom-sheet
+reddit.com###pdp-seeker-mweb-return-to-results
+reddit.com###right-sidebar-contents
+reddit.com###search-hero
+reddit.com###team-flair-selection-modal
+reddit.com##.active.xpromopopup
+reddit.com##.adlinkbar
+reddit.com##.amp.snackbar
+reddit.com##.bottom-bar, .XPromoBottomBar
+reddit.com##.button-large
+reddit.com##.coin-sale
+reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href$="/user/AutoModerator"])
+reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href*="bot"])
+reddit.com##.Comment:has(span:has-text(Pinned by moderators))
+reddit.com##.getappfooter
+reddit.com##.in-feed-community-recommendations
+reddit.com##.lb-footer
+reddit.com##.lb-header
+reddit.com##.legal-links
+reddit.com##.mt-md
+reddit.com##.navframe > .xpromominimal.dualpartinterstitial
+reddit.com##.nd\:visible.w-\[inherit\].translate-x-0.max-w-\[750px\].w-full
+reddit.com##.overflow-hidden.relative.p-md.bg-neutral-background-weak.rounded-4.m-md.w-\[251px\].h-\[calc\(100vh-64px-56px\)\].flex-col.flex
+reddit.com##.powerups-banner
+reddit.com##.previewdrawer
+reddit.com##.prominent-search
+reddit.com##.promotedlink
+reddit.com##.scroll-is-blocked
+reddit.com##.search-hero-small
+reddit.com##.shreddit-ad-post
+reddit.com##.shreddit-bottom-bar
+reddit.com##.shreddit-header-prompt
+reddit.com##.shreddit-notification-banner
+reddit.com##.shreddit-recommendation
+reddit.com##.snackbar
+reddit.com##.team-flair-selection-modal
+reddit.com##.topbutton
+reddit.com##.topics-links-block
+reddit.com##.topposts
+reddit.com##.w-full.max-w-\[750px\].translate-x-0.w-\[inherit\].nd\:visible
+reddit.com##.xpromoadfeed
+reddit.com##.xpromoappstorefooter
+reddit.com##.xpromoblockingmodal
+reddit.com##.xpromochoicebanner
+reddit.com##.xpromoinfeed
+reddit.com##.xpromonsfwblockingmodal
+reddit.com##.xpromopill
+reddit.com##.xpromopopup
+reddit.com##.XPromoPopupRpl
+reddit.com##.XPromoPopupRplNew
+reddit.com##div.bottom-bar
+reddit.com##div.XPromoBottomBar.m-consolidate
+reddit.com##in-feed-community-recommendations
+reddit.com##shreddit-app > #sticky-comment-composer-wrapper
+reddit.com##shreddit-experience-tree
+reddit.com##team-flair-selection-modal
+reddit.com##xpromo-app-selector
+reddit.com##xpromo-footer
+reddit.com##xpromo-new-app-selector
+reddit.com##xpromo-nsfw-blocking-container
+reddit.com##xpromo-nsfw-blocking-modal
+reddit.com##xpromo-untagged-content-blocking-modal
 removepaywalls.com###popup
 routinehub.co###ads
 routinehub.co###ethad
