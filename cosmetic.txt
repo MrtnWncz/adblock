@@ -1,4 +1,4 @@
-########## "08041100"
+########## "08112000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -495,6 +495,10 @@ instagram.com##._56bt._a6gi._56bs._52jh._54k8
 instagram.com##.bIiDR.aOOlW
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
 instagram.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.
+instagram.com##.x1h0vfkc
+instagram.com##.x1uvtmcs
+instagram.com##.x64bnmy
+instagram.com##.xwib8y2
 instagram.com##.xzkaem6.x1n2onr6
 itbusiness.hu##.hird-banner-mob
 jegy.mav.hu###app-header-beta-row
@@ -863,6 +867,9 @@ soccertvhd.com###\30 x307f87
 soccertvhd.com###\30 x31df77
 soccertvhd.com###\30 x31dfa1
 soccertvhd.com##.animate__animated
+speedtest.net##.max-w-\[360px\]
+speedtest.net##.max-w-\[480px\]
+speedtest.net##.MuiModal-root
 sport-arab.space###kk-sticky-ad
 stackoverflow.com##.js-consent-banner
 startpage.com###marketing-tag-container
