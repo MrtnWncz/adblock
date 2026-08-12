@@ -1,4 +1,4 @@
-########## "08122000"
+########## "08122100"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -491,6 +491,7 @@ index.hu##.szelso-jobb
 index.hu##.vegasodds
 index.hu##.welovedogzajanlo
 index.hu##.welovedogzajanlo_wrapper
+instagram.com###mount_0_0_ud > div > div > div.x9f619.x1n2onr6.x1ja2u2z:last-child > div.x78zum5.xdt5ytf.x1n2onr6.x1ja2u2z > div.x78zum5.xdt5ytf.x1n2onr6.xat3117.xxzkxad.x4m6w61 > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4:first-child > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x9f619.xjbqb8w.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x78zum5.x5yr21d.xl56j7k.xixxii4.x13vifvy.xh8yej3.x1355qak:nth-child(2)
 instagram.com##._56bt._a6gi._56bs._52jh._54k8
 instagram.com##.bIiDR.aOOlW
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
