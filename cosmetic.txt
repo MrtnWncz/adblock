@@ -1,4 +1,4 @@
-########## "08291400"
+########## "08291500"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -620,6 +620,10 @@ news.google.com##.Jur22e
 news.google.com##.tGUGyc
 news.google.com##.ttg1Pb
 nlm.nih.gov##.usa-banner__header
+notegpt.io##.data-\[state\=open\]\:animate-\[fade-in_200ms_ease-out\]
+notegpt.io##.divide-y
+notegpt.io##.fade-in-group2
+notegpt.io##.sm\:p-6
 nytimes.com####ta-bar-one
 nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.DesktopNav_Wrapper__uEs_q.DesktopNav_FullFollowingHeight__GWwDk > div.DesktopNav_PrimaryNav__4azlX.DesktopNav_PrimaryNavFullFollowing__Qt03R:first-child > div.mobile-padding > div > div:nth-child(6)
 nytimes.com###article-container-grid > div.PuzzleEntryPoint_PuzzleContainer___nayX:last-child
