@@ -419,7 +419,7 @@
 0.0.0.0 api-lookup-aeun1a.smoot.apple.com
 0.0.0.0 api-partners-canary.wg.spotify.com
 0.0.0.0 api-ping.intercom.io
-0.0.0.0 api-safari-aeun1a.smoot.apple.com^$important
+0.0.0.0 api-safari-aeun1a.smoot.apple.com
 0.0.0.0 api-tv-canary.wg.spotify.com
 0.0.0.0 api.admob.com
 0.0.0.0 api.admob.xiaomi.com
