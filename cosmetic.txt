@@ -1,4 +1,4 @@
-########## "09032000"
+########## "09032100"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -926,6 +926,7 @@ telex.hu##.asahi-line-b
 telex.hu##.biztos-dontes
 telex.hu##.btn.support-box__next
 telex.hu##.burger-button
+telex.hu##.cl-widget--weather
 telex.hu##.fb-box
 telex.hu##.fb-box__logo>svg
 telex.hu##.footer__app
@@ -1213,6 +1214,10 @@ x-video.tube##.telegram-chat
 x-video.tube##.top-sites-bar
 x-video.tube##.vote-block
 x-video.tube##.xv-topbar-flare-final
+x.com##.active\:bg-background\/95
+x.com##.bg-gray-1100
+x.com##.bg-overlay-normal
+x.com##.shadow-popup
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
 yahoo.com###app-promo
