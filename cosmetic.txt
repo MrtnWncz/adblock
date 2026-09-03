@@ -1,4 +1,4 @@
-########## "08311700"
+########## "09032000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -495,7 +495,22 @@ instagram.com###react-root ~ div[class*=" "][role="presentation"]
 instagram.com###react-root ~ div[role="presentation"]:has(a[href^="/accounts/"][href*="signup/"])
 instagram.com##.XQXOT:style(width: 100% !important; padding-right: 0 !important;)
 instagram.com##^responseheader(location)
+instagram.com##a:has-text(Sign up)
+instagram.com##body:style(overflow: auto !important; position: static !important;)
+instagram.com##body:style(overflow: auto !important;)
 instagram.com##body:style(overflow: scroll !important;)
+instagram.com##button:has-text(Open Instagram)
+instagram.com##div:has-text(Alkalmazás megnyitása)
+instagram.com##div:has-text(Open Instagram)
+instagram.com##div:has-text(See full profile in the app)
+instagram.com##div:has-text(See this post in the app)
+instagram.com##div:has-text(Sign up)
+instagram.com##div:has-text(Use the app to see more about)
+instagram.com##div:has-text(Use the app to view all comments)
+instagram.com##div[role="dialog"]:has(div:has-text(Sign up))
+instagram.com##div[role="presentation"]:has(div:has-text(Open Instagram))
+instagram.com##div[role="presentation"]:has(div:has-text(Sign up))
+instagram.com##html:style(overflow: auto !important;)
 instagram.com##html:style(overflow: scroll !important;)
 itbusiness.hu##.hird-banner-mob
 jegy.mav.hu###app-header-beta-row
