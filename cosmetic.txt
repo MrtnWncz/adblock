@@ -1,4 +1,4 @@
-########## "09062000"
+########## "09161200"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -1115,6 +1115,8 @@ transfermarkt.com##a.db.mt10[href][target][onclick] > img[loading][src][width][h
 transfermarkt.com##tm-voting
 tumblr.com##.Lq1wm
 twitter.com##div[class="css-1dbjc4n r-1iusvr4 r-16y2uox r-97wbjc"]
+twitterviewer.net##.h-9
+twitterviewer.net##.pwa-card
 vezess.hu###more-news
 videa.hu###notification-bar
 videakid.hu###notification-bar
