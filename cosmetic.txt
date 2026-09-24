@@ -1,4 +1,4 @@
-########## "09161200"
+########## "09241500"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -206,18 +206,6 @@ bloomberg.com##.media-ui-CustomizableTicker_customizableTickers-RJtsXqEYiLI-
 bloomberg.com##.media-ui-LogoBarMobile_right-0rIQ7fk-KaE-
 book24.hu##.rb-cookiealert-cover-page
 canva.com##._1PHgrg, .FijAlA
-chatgpt.com##+js(set-local-storage-item, oai/apps/hasSeenNoAuthImagegenNux, true)
-chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
-chatgpt.com##+js(trusted-set-cookie, oai-allow-ne, true, ,, domain, .chatgpt.com)
-chatgpt.com##.aspect-3\/2
-chatgpt.com##.dark\:bg-black\/80
-chatgpt.com##.gap-3
-chatgpt.com##.max-w-none
-chatgpt.com##.mt-auto
-chatgpt.com##.object-bottom
-chatgpt.com##.pb-8
-chatgpt.com##.ps-5
-chatgpt.com##.z-50
 community.brave.com###banner
 community.brave.com##.banner
 dailymail.co.uk###footer
