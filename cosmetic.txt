@@ -1,4 +1,4 @@
-########## "09241500"
+########## "10051500"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -198,6 +198,7 @@ bestmarkt.hu###ddModal>div.overlay:first-child
 bing.com###sacs_win
 bing.com##.composer_container
 bing.com##.sacs_popup
+bintvcc.pages.dev###chatAd
 biomenu.hu###exposeMaskOverlay
 bkk.hu###infoblokk
 bkk.hu###sidebar > button.sidebar-toggle:first-child > i.bkk-icon-sidebar-open
