@@ -1,4 +1,4 @@
-########## "10051500"
+########## "10142000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -738,6 +738,7 @@ origo.hu##origo-most-read
 origo.hu##origo-newsletter-box
 pastedownload.com###sectionsNav
 pastedownload.com##.fc-dialog-overlay
+pastedownload.com/###pdq-main-dialog
 paypal.com###PPAppDownloadBannerContainer
 pcforum.hu###subscribebar
 perplexity.ai###root > div.isolate:last-child > div.bg-base\/95.h-headerHeight.pointer-events-none.inset-x-0.top-0.backdrop-blur-md.duration-150.fixed.z-\[2\]:first-child > div.h-headerHeight.flex.flex-col > div.gap-x-md.px-md.py-sm.flex.h-full.items-center.justify-between > div.gap-x-sm.pointer-events-auto.relative.flex.items-center:last-child > div.animate-in.fade-in.duration-300:last-child
