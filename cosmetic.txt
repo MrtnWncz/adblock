@@ -1,4 +1,4 @@
-########## "10142000"
+########## "10232000"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -910,6 +910,7 @@ telex.hu##.navigation__logo
 telex.hu##.pip
 telex.hu##.pip__minimized.pip
 telex.hu##.pr-cikk
+telex.hu##.pz
 telex.hu##.share-network-email.spacing-bottom.options-bottom.options
 telex.hu##.share-network-facebook.spacing-bottom.options-bottom.options
 telex.hu##.share-network-facebook.spacing-bottom.options-bottom.options>svg
