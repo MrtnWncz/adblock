@@ -1,4 +1,4 @@
-########## "10232100"
+########## "10232200"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -902,6 +902,7 @@ telex.hu##.fb-box__logo>svg
 telex.hu##.footer__app
 telex.hu##.footer__container
 telex.hu##.l-screen.telex-links
+telex.hu##.modal--3000.modal--overlay--bottom.modal--3000--open
 telex.hu##.modal--overlay--tax
 telex.hu##.modal--tax
 telex.hu##.modal--threat__content
@@ -912,6 +913,7 @@ telex.hu##.pip
 telex.hu##.pip__minimized.pip
 telex.hu##.pr-cikk
 telex.hu##.pz
+telex.hu##.pz.article__block--games.article__block--t.article__block
 telex.hu##.share-network-email.spacing-bottom.options-bottom.options
 telex.hu##.share-network-facebook.spacing-bottom.options-bottom.options
 telex.hu##.share-network-facebook.spacing-bottom.options-bottom.options>svg
