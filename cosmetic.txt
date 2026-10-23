@@ -1,4 +1,4 @@
-########## "10232000"
+########## "10232100"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -257,6 +257,7 @@ ebank.fundamenta.hu###fund-cookie-popup
 emag.hu##.acc-toolbox-open-button
 emag.hu##.first-in-app-modal
 emag.hu##.modal-backdrop
+emb.apl623.online###adsbox
 episode.hu###banya_felhiv
 episode.hu###navbar>.menurow.container>.d-lg-block.d-none.col-3.login>.gomb.btn-danger.btn2.btn
 episode.hu###sticky-navbar>.menurow.container>.d-lg-block.d-none.col-3.login>.gomb.btn-danger.btn2.btn
@@ -1111,6 +1112,7 @@ twitterviewer.net##.pwa-card
 vezess.hu###more-news
 videa.hu###notification-bar
 videakid.hu###notification-bar
+vitaminbolt.net##molin-shop-ai
 vitaminnagyker.hu###fb_content_box
 vitaminnagyker.hu###fb_header_box
 vitaminnagyker.hu###fb_header_cert_box
@@ -1204,4 +1206,5 @@ youtube.com##.feed-nudge-content-wrapper
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 ||accounts.google.com/gsi/iframe/select$subdocument
+||ii.apl623.online/img/x.gif$image
 ||streami.su/static/duel.webp$image
