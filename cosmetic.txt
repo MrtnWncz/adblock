@@ -1,4 +1,4 @@
-########## "10232200"
+########## "11062200"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -254,6 +254,7 @@ duckduckgo.com##.showcase
 duckduckgo.com##.tagline_tagline__xryVo
 duckduckgo.com##[data-testid="serp-popover-promo"]
 ebank.fundamenta.hu###fund-cookie-popup
+ecosia.org##.popover__content
 emag.hu##.acc-toolbox-open-button
 emag.hu##.first-in-app-modal
 emag.hu##.modal-backdrop
@@ -428,6 +429,7 @@ index.hu###m-cf-fejlec_container
 index.hu###m-cf-kiadvanylista
 index.hu###m-cf-kiadvanylista_container_list
 index.hu###njs-carousel
+index.hu###overlay
 index.hu###twitter
 index.hu###welovedogzajanlo_wrapper
 index.hu##._iph_brk_act
@@ -475,6 +477,7 @@ index.hu##.promo-container
 index.hu##.radar-circle
 index.hu##.radar-container
 index.hu##.radar-container-inner
+index.hu##.scratch-overlay__banner
 index.hu##.show
 index.hu##.small.facebook.social-follow
 index.hu##.szelso-jobb
@@ -562,6 +565,8 @@ nlm.nih.gov##.usa-banner__header
 notegpt.io##.data-\[state\=open\]\:animate-\[fade-in_200ms_ease-out\]
 notegpt.io##.divide-y
 notegpt.io##.fade-in-group2
+notegpt.io##.md\:items-end
+notegpt.io##.overflow-x-auto
 notegpt.io##.sm\:p-6
 nytimes.com####ta-bar-one
 nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.DesktopNav_Wrapper__uEs_q.DesktopNav_FullFollowingHeight__GWwDk > div.DesktopNav_PrimaryNav__4azlX.DesktopNav_PrimaryNavFullFollowing__Qt03R:first-child > div.mobile-padding > div > div:nth-child(6)
@@ -629,6 +634,7 @@ nytimes.com##.fKFRKA.sc-b1dc387f-0
 nytimes.com##.Footer_Footer___BSyrm
 nytimes.com##.Footer_footer___n3iGa
 nytimes.com##.Footer_Footer__BSyrm
+nytimes.com##.Footer_Footer__df8T4
 nytimes.com##.Footer_footer__n3iGa
 nytimes.com##.gateway-container
 nytimes.com##.gdpr
@@ -849,6 +855,7 @@ skinsort.com##.flex-col.flex.font-header.my-5.p-6.rounded-xl.w-full.text-indigo-
 skinsort.com##.relative.h-full.items-center.flex
 skinsort.com##.show
 skinsort.com##.show.z-\[9999\].\[isolation\:isolate\].bottom-drawer-transition.pointer-events-none.opacity-0.flex-col.lg\:justify-center.justify-end.items-center.flex.w-full.h-full.left-0.backdrop-blur-sm.top-0.fixed.transform-gpu.bottom-drawer
+snapgram.io##.md\:max-w-full
 soccertvhd.com###\30 x307f87
 soccertvhd.com###\30 x31df77
 soccertvhd.com###\30 x31dfa1
@@ -1075,31 +1082,6 @@ theverge.com###privacy-consent
 theverge.com##._1o7ma3q5
 theverge.com##.m-privacy-consent
 threads.com##.x1mk1bxn
-tiktok.com###button-at-bottom-right
-tiktok.com###close-button-at-bottom-right
-tiktok.com###floating-ui-10
-tiktok.com###FooterContainer
-tiktok.com###KeyboardShortcutContainer
-tiktok.com###login-modal
-tiktok.com###loginContainer
-tiktok.com###ModalContainer
-tiktok.com###ModalMask
-tiktok.com###NoticeContainerWithoutHeader
-tiktok.com###pns-communication-service
-tiktok.com###PopupContainer
-tiktok.com###react-app-launch
-tiktok.com###StyledIcon
-tiktok.com###tux-web-canary-1-modal-overlay
-tiktok.com##.bottom
-tiktok.com##.css-1oz3gmx-7937d88b--DivKeyboardShortcutContainer
-tiktok.com##.css-1r8oxhk-5b89d02d--DivModalContainer
-tiktok.com##.css-ailk6h-7937d88b--ButtonGetAppText
-tiktok.com##.css-i41e9h-5e6d46e3--DivModalContainer, .ec9omd60
-tiktok.com##.css-qrtvk6-5e6d46e3--DivKeyboardShortcutContainer
-tiktok.com##.e1ajfdyx0
-tiktok.com##.login-modal
-tiktok.com##.loginContainer
-tiktok.com##.tux-modal__container--open-f2OtdU
 totalcar.hu###car-suggester
 totalcar.hu##.car-suggester
 totalcar.hu##.cikk-bottom-box.social-stripe>.index-social-box
@@ -1207,6 +1189,7 @@ youtube.com##.consent-bump-v2-lightbox
 youtube.com##.feed-nudge-content-wrapper
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
+youtubesummary.com###home-hero-title
 ||accounts.google.com/gsi/iframe/select$subdocument
 ||ii.apl623.online/img/x.gif$image
 ||streami.su/static/duel.webp$image
