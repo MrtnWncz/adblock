@@ -1,4 +1,4 @@
-########## "11062200"
+########## "11111600"
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -567,6 +567,7 @@ notegpt.io##.divide-y
 notegpt.io##.fade-in-group2
 notegpt.io##.md\:items-end
 notegpt.io##.overflow-x-auto
+notegpt.io##.py-6
 notegpt.io##.sm\:p-6
 nytimes.com####ta-bar-one
 nytimes.com###__next > div > div.Layout_HeaderContainer__DKNS2.Layout_IsLegacy__l5kxu:first-child > header > nav.HeaderNav_HeaderNav__vBL_D > div.DesktopNav_Wrapper__uEs_q.DesktopNav_FullFollowingHeight__GWwDk > div.DesktopNav_PrimaryNav__4azlX.DesktopNav_PrimaryNavFullFollowing__Qt03R:first-child > div.mobile-padding > div > div:nth-child(6)
