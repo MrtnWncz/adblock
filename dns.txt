@@ -1,4 +1,4 @@
-########## "08291500"
+########## "11131000"
 0.0.0.0 00.audio-ak.cdn.spotify.com
 0.0.0.0 00.video-ak.cdn.spotify.com
 0.0.0.0 01.audio-ak.cdn.spotify.com
@@ -383,6 +383,7 @@
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.yandex.ru
+0.0.0.0 advp.apple.com
 0.0.0.0 ae.audio-ak.cdn.spotify.com
 0.0.0.0 ae.video-ak.cdn.spotify.com
 0.0.0.0 aet.spotify.com
@@ -413,6 +414,7 @@
 0.0.0.0 ap-guc3.spotify.com
 0.0.0.0 ap-gue1.spotify.com
 0.0.0.0 ap.gslb.spotify.com
+0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-canary.wg.spotify.com
 0.0.0.0 api-glb-aeun1a.smoot.apple.com
 0.0.0.0 api-iam.intercom.io
@@ -435,6 +437,7 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 app.getsentry.com
+0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 appstack.link
 0.0.0.0 apx.moatads.com
@@ -494,6 +497,7 @@
 0.0.0.0 audio4-akp.spotify.com.edgesuite.net
 0.0.0.0 auditdesk-server.spotify.com
 0.0.0.0 awarnetudop.com
+0.0.0.0 axm-telemetry.apple.com
 0.0.0.0 axp.spotify.com
 0.0.0.0 b.admob.com
 0.0.0.0 b.scorecardresearch.com
@@ -520,6 +524,7 @@
 0.0.0.0 ba.audio-ak.cdn.spotify.com
 0.0.0.0 ba.video-ak.cdn.spotify.com
 0.0.0.0 bag-smoot.v.aaplimg.com
+0.0.0.0 banners.itunes.apple.com
 0.0.0.0 bb.audio-ak.cdn.spotify.com
 0.0.0.0 bb.video-ak.cdn.spotify.com
 0.0.0.0 bc.audio-ak.cdn.spotify.com
@@ -542,6 +547,7 @@
 0.0.0.0 blog.spotify.com
 0.0.0.0 bloodhound-off-helios.spotify.com
 0.0.0.0 bloodhound.spotify.com
+0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 bounceexchange.com
 0.0.0.0 branch.io
 0.0.0.0 brandsnews.spotify.com
@@ -576,6 +582,7 @@
 0.0.0.0 c9.audio-ak.cdn.spotify.com
 0.0.0.0 c9.video-ak.cdn.spotify.com
 0.0.0.0 ca.audio-ak.cdn.spotify.com
+0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca.video-ak.cdn.spotify.com
 0.0.0.0 cache.spotify.com
 0.0.0.0 cadace.ash1.spotify.com
@@ -602,6 +609,7 @@
 0.0.0.0 ce.video-ak.cdn.spotify.com
 0.0.0.0 cer.comscore.com
 0.0.0.0 cf.audio-ak.cdn.spotify.com
+0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cf.video-ak.cdn.spotify.com
 0.0.0.0 charts-images.scdn.co
 0.0.0.0 clemmie.ash.spotify.com
@@ -627,6 +635,8 @@
 0.0.0.0 comscoredatamine.com
 0.0.0.0 comscoredirect.net
 0.0.0.0 comscorenetworks.net
+0.0.0.0 comscoreresearch.com
+0.0.0.0 comscoreresearch.net
 0.0.0.0 concerts-hometile-images.scdn.co
 0.0.0.0 concerts.scdn.co
 0.0.0.0 configuration.ma.tune.com
@@ -656,6 +666,7 @@
 0.0.0.0 creator-canary.wg.spotify.com
 0.0.0.0 creator.wg.spotify.com
 0.0.0.0 crusader.scdn.co
+0.0.0.0 cs.iadsdk.apple.com
 0.0.0.0 cs126.wpc.edgecastcdn.net
 0.0.0.0 cs126.wpc.teliasoneracdn.net
 0.0.0.0 cs283.wpc.teliasoneracdn.net
@@ -921,7 +932,14 @@
 0.0.0.0 i.scdn.co
 0.0.0.0 ia1.comscore.com
 0.0.0.0 ia2.comscore.com
+0.0.0.0 iad-apple.com
+0.0.0.0 iad.apple.com
 0.0.0.0 iad.comscore.com
+0.0.0.0 iadcontent.apple.com
+0.0.0.0 iadctest.qwapi.com
+0.0.0.0 iadmoo.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 iadworkbench.apple.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 idp.gslb.spotify.com
 0.0.0.0 idsync-ext.rlcdn.com
@@ -966,6 +984,7 @@
 0.0.0.0 labs.spotify.com
 0.0.0.0 labs.spotify.community
 0.0.0.0 labs.tune.com
+0.0.0.0 launch.apple.com
 0.0.0.0 laurinda.ash.spotify.com
 0.0.0.0 laurinda.ash1.spotify.com
 0.0.0.0 lb-wg.dual-gslb.spotify.com
@@ -993,6 +1012,7 @@
 0.0.0.0 lon6-accesspoint-a33.lon6.spotify.com
 0.0.0.0 lotta.ash.spotify.com
 0.0.0.0 lotta.ash1.spotify.com
+0.0.0.0 ls.advp.apple.com
 0.0.0.0 lysandra.ash.spotify.com
 0.0.0.0 lysandra.ash1.spotify.com
 0.0.0.0 m.admob.com
@@ -1011,6 +1031,7 @@
 0.0.0.0 messenger-webview.scdn.co
 0.0.0.0 metadatafeedback.spotify.com
 0.0.0.0 metrics.admob.com
+0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.spotify.com
 0.0.0.0 metrics.vodafone.hu
 0.0.0.0 metrika.yandex.ru
@@ -1050,6 +1071,7 @@
 0.0.0.0 neeharika.ash1.spotify.com
 0.0.0.0 network.admob.com
 0.0.0.0 newjams-images.scdn.co
+0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news.spotify.com
 0.0.0.0 newsroom.spotify.com
 0.0.0.0 nexus-testing.intercom.io
@@ -1125,6 +1147,7 @@
 0.0.0.0 prod.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 profile-images.scdn.co
+0.0.0.0 proxy.advp.apple.com
 0.0.0.0 pt.admob.com
 0.0.0.0 pub.fotmob.com
 0.0.0.0 pubads.g.doubleclick.net
@@ -1134,6 +1157,7 @@
 0.0.0.0 qevents.quora.com
 0.0.0.0 quantcast584928381.s.moatpixel.com
 0.0.0.0 quicksilver.scdn.co
+0.0.0.0 qwapi.apple.com
 0.0.0.0 r.254a.comjs.moatads.com
 0.0.0.0 r.admob.com
 0.0.0.0 r.scdn.co
@@ -1179,6 +1203,7 @@
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.insightexpressai.com
+0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 seed-mix-image.spotifycdn.com
 0.0.0.0 seen-on-screen.thewhizmarketing.com
@@ -1253,6 +1278,7 @@
 0.0.0.0 sto3-weblb-wg6.sto3.spotify.com
 0.0.0.0 store.intercom.io
 0.0.0.0 stun.l.google.com
+0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 suggest.perplexity.ai
 0.0.0.0 support.spotify.com
 0.0.0.0 support.tune.com
@@ -1281,6 +1307,7 @@
 0.0.0.0 tic1.vip.sc9.admob.com
 0.0.0.0 timecapsule.spotify.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 track.leanlab.co
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tribpubdfp745347008913.s.moatpixel.com
@@ -1306,6 +1333,7 @@
 0.0.0.0 upv4.moatads.com
 0.0.0.0 useradmin.spotify.com
 0.0.0.0 usercentrics.eu
+0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 v.admob.com
 0.0.0.0 v.jwpcdn.com
 0.0.0.0 v3.moatads.com
@@ -1350,6 +1378,8 @@
 0.0.0.0 weblb-wg.gslb.spotify.
 0.0.0.0 weblb-wg.gslb.spotify.com
 0.0.0.0 webplayersupport.spotify.com
+0.0.0.0 webproxy-advp.iad-apple.com
+0.0.0.0 webproxy.advp.apple.com
 0.0.0.0 welcome-images.scdn.co
 0.0.0.0 wendy.admob.com
 0.0.0.0 widget.intercom.io
