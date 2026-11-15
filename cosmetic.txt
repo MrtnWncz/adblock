@@ -1,33 +1,12 @@
-########## "11151100"
-###.nativterelo
-###.StickyIconAI_StickyAIAside__kxLaT
-###bon-loyalty-btn
-###chat-widget
-###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
-###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
-###div.gmt_google_consent_container, div[class="gmt_google_consent_container"]
-###div.PopupBackdrop.AgeDisclaimerPopup
-###fb-hud
-###fb_header_box
-###fb_header_grey_banner_wrapper
-###gmt_google_consent_container
-###gmtgc_consent_popup
-###gmtgc_consent_popup, [class^="gmtgc_"], [class*=" gmtgc_"]
-###google-one-tap-anchor
-###google-one-tap__container
-###google-one-tap_container
-###kk-sticky-ad
-###mdCookie
-###molin-shop-ai
-###sp-pto-mb-div
+------------------------------------------------------------------------- "11151200"
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
 ##.div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##.div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##.e1kowrv50.css-1phbfib-7937d88b--DivBannerContainer
-##.fb-hud
 ##.fb_header_box
+##.fb-hud
 ##.gmt_google_consent_container
 ##.gmtgc_block_screen
 ##.gmtgc_consent_popup
@@ -43,44 +22,42 @@
 ##.sp-pto-google-ads
 ##.sp-pto-mb-div
 ##[class*="hud"]
+###.nativterelo
+###.StickyIconAI_StickyAIAside__kxLaT
+###bon-loyalty-btn
+###chat-widget
+###div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
+###div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"
+###div.gmt_google_consent_container, div[class="gmt_google_consent_container"]
+###div.PopupBackdrop.AgeDisclaimerPopup
+###fb_header_box
+###fb_header_grey_banner_wrapper
+###fb-hud
+###gmt_google_consent_container
+###gmtgc_consent_popup
+###gmtgc_consent_popup, [class^="gmtgc_"], [class*=" gmtgc_"]
+###google-one-tap__container
+###google-one-tap_container
+###google-one-tap-anchor
+###kk-sticky-ad
+###mdCookie
+###molin-shop-ai
+###sp-pto-mb-div
 ##chat-widget
 ##chat-widget.hydrated
+##div:has-text(/(Hozzáadás preferált forrásként|Hozzáadás a kedvenc forrásokhoz|Állítsd be megbízható forrásnak!)/)
 ##div.animated.fadeIn.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl.outline.outline-1.outline-gray-300.bottom-0.min-\[450px\]\:bottom-3.min-\[450px\]\:right-3.overflow-hidden
 ##div.fixed.z-50.w-full.min-\[450px\]\:w-\[400px\].h-\[250px\].bg-white.shadow-xl[class*="fadeIn"]
 ##div.gmt_google_consent_container
 ##div.hydrated
-##div:has-text(/(Hozzáadás preferált forrásként|Hozzáadás a kedvenc forrásokhoz|Állítsd be megbízható forrásnak!)/)
 ##div[class^="gmtgc_"], div[class*=" gmtgc_"]
 ##fb-hud
 ##google-one-tap__container
 ##hydrated
 ##molin-shop-ai
-24.hu###credential_picker_container
-24.hu##.-noSticky
-24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
-24.hu##.article_box_border_szponzibox
-24.hu##.d-xl-none
-24.hu##.L5Fo6c-PQbLGe
-24.hu##.o-footer__wrap
-444.hu###\34 44_cikk_pc_640_cikkozi_2_dinamikus_ardzyW
-444.hu###\34 44_cikk_pc_640_cikkozi_3_dinamikus_ardzyW
-444.hu###\34 44_cikk_pc_640_cikkvegi_ardzyW
-444.hu###\34 44_cikk_pc_640_lead_alatt_ardzyW
-444.hu###\3444_cikk_mobil_300_cikkvegi
-444.hu###\3444_cikk_mobil_300_lead_alatt
-444.hu###ap-top
-444.hu###ember4
-444.hu###section
-444.hu##._1chu0yw10
-444.hu##._1ihsx5h0
-444.hu##.button__1oiqrbr7
-444.hu##.kor-tagsag
-444.hu##.lyj57x2
-444.hu##.navigation-bar_NavigationBarContainerStyle__lyj57x3
-444.hu##.shop-shop
-444.hu##.wfnx2n2
-444.hu##div.ta3a4c6t.ta3a4cym.ta3a4cvq.ta3a4cux.ta3a4crg.ta3a4cqn.tzf76g0:nth-of-type(1)
-444.hu##section
+||accounts.google.com/gsi/iframe/select$subdocument
+||ii.apl623.online/img/x.gif$image
+||streami.su/static/duel.webp$image
 9gag.com##.download-app-container
 9gag.com##.inline-banner
 9gag.com##.noscroll:style(overflow: auto !important;)
@@ -97,24 +74,42 @@
 9xbuddy.site##.md\:w-4\/12
 9xbuddy.site##.md\:w-8\/12
 9xbuddy.site##.p-4
-alza.hu###alza-dialog-shadow
-alza.hu###slideout-dialog
+24.hu##._ce_measure_widget.cf.m-recommendedVideoWidget.widget
+24.hu##.-noSticky
+24.hu##.article_box_border_szponzibox
+24.hu##.d-xl-none
+24.hu##.L5Fo6c-PQbLGe
+24.hu##.o-footer__wrap
+24.hu###credential_picker_container
+444.hu##._1chu0yw10
+444.hu##._1ihsx5h0
+444.hu##.button__1oiqrbr7
+444.hu##.kor-tagsag
+444.hu##.lyj57x2
+444.hu##.navigation-bar_NavigationBarContainerStyle__lyj57x3
+444.hu##.shop-shop
+444.hu##.wfnx2n2
+444.hu###\34 44_cikk_pc_640_cikkozi_2_dinamikus_ardzyW
+444.hu###\34 44_cikk_pc_640_cikkozi_3_dinamikus_ardzyW
+444.hu###\34 44_cikk_pc_640_cikkvegi_ardzyW
+444.hu###\34 44_cikk_pc_640_lead_alatt_ardzyW
+444.hu###\3444_cikk_mobil_300_cikkvegi
+444.hu###\3444_cikk_mobil_300_lead_alatt
+444.hu###ap-top
+444.hu###ember4
+444.hu###section
+444.hu##div.ta3a4c6t.ta3a4cym.ta3a4cvq.ta3a4cux.ta3a4crg.ta3a4cqn.tzf76g0:nth-of-type(1)
+444.hu##section
 alza.hu##.brandingEars-alz-1, .brandingEars-alz-2
 alza.hu##.brandingEars-alz-1, .brandingEars-alz-3
 alza.hu##.pcConfigurator-alz-11
+alza.hu###alza-dialog-shadow
+alza.hu###slideout-dialog
 alza.hu##alza-jarvis
 alza.hu##swiper-container
 amazon.co.uk##.glow-toaster-slot-default
 amazon.com##.glow-toaster-slot-default
 amazon.de##.glow-toaster-slot-default
-anfieldwatch.co.uk###articles-list
-anfieldwatch.co.uk###snack-incontent-1
-anfieldwatch.co.uk###snack-incontent-2
-anfieldwatch.co.uk###snack-incontent-3
-anfieldwatch.co.uk###snack-incontent-repeater
-anfieldwatch.co.uk###snack-top
-anfieldwatch.co.uk###snack-top-slim
-anfieldwatch.co.uk###snack-vod
 anfieldwatch.co.uk##.anfieldwatch.card
 anfieldwatch.co.uk##.col-lg-4
 anfieldwatch.co.uk##.footer__bottom
@@ -123,6 +118,14 @@ anfieldwatch.co.uk##.lazyloading
 anfieldwatch.co.uk##.my-12.store-widget
 anfieldwatch.co.uk##.player.player-container-article
 anfieldwatch.co.uk##.position-relative.container
+anfieldwatch.co.uk###articles-list
+anfieldwatch.co.uk###snack-incontent-1
+anfieldwatch.co.uk###snack-incontent-2
+anfieldwatch.co.uk###snack-incontent-3
+anfieldwatch.co.uk###snack-incontent-repeater
+anfieldwatch.co.uk###snack-top
+anfieldwatch.co.uk###snack-top-slim
+anfieldwatch.co.uk###snack-vod
 anfieldwatch.co.uk##center
 anfieldwatch.co.uk##social-media
 angol-magyar-szotar.hu###adError
@@ -132,10 +135,6 @@ arcanum.com##.card-body
 arcanum.com##.card-img-top
 arcanum.com##.container-fluid
 arcanum.com##.d-md-none
-arukereso.hu###category-pricedrop
-arukereso.hu###homebanner-box
-arukereso.hu###top-promo-banner
-arukereso.hu###top-promo-banner-wrapper
 arukereso.hu##.active.row.top-promo-banner
 arukereso.hu##.admanager-leaderboard
 arukereso.hu##.banner-link
@@ -147,23 +146,16 @@ arukereso.hu##.pricedrop-top-banner
 arukereso.hu##.top-promo-banner
 arukereso.hu##.top-promo-banner-wrapper
 arukereso.hu##.visible
-autofejlesztes.hu##+js(noblock, div.gmt_google_consent_container)
+arukereso.hu###category-pricedrop
+arukereso.hu###homebanner-box
+arukereso.hu###top-promo-banner
+arukereso.hu###top-promo-banner-wrapper
 autofejlesztes.hu##.gmt_google_consent_container
+autofejlesztes.hu##+js(noblock, div.gmt_google_consent_container)
 autofejlesztes.hu##body > div.gmt_google_consent_container
 autofejlesztes.hu##div.gmt_google_consent_container
 autofejlesztes.hu##div.gmt_google_consent_container:nth-child(37)
 autofejlesztes.hu##div[class="gmt_google_consent_container"]
-benu.hu###ambanner-slider-container
-benu.hu###amrelated-block-9
-benu.hu###footer.page-footer
-benu.hu###header-callout-title
-benu.hu###molin-shop-ai
-benu.hu###pfbx-pdp-complementary-desktop
-benu.hu###shopify-section-template
-benu.hu###shopify-section-template--19787808669915__adverticum_ad_UbazXg
-benu.hu###shopify-section-template--19787808669915__benu_adverticum_ad_ih8kAE
-benu.hu###slick-slide04.slick-active.slick-current.slick-slide
-benu.hu###widget.block.block-static-block
 benu.hu##.-ambanner-loaded.slick-dotted.slick-slider.slick-initialized.-dots-1.-arrows-1.-ambanner-dots.-ambanner-arrows.ambanner-slider-block
 benu.hu##.alert
 benu.hu##.alert__body
@@ -193,12 +185,23 @@ benu.hu##.slick-track
 benu.hu##.slider
 benu.hu##.swiper-wrapper
 benu.hu##.widget.block.block-static-block
+benu.hu###ambanner-slider-container
+benu.hu###amrelated-block-9
+benu.hu###footer.page-footer
+benu.hu###header-callout-title
+benu.hu###molin-shop-ai
+benu.hu###pfbx-pdp-complementary-desktop
+benu.hu###shopify-section-template
+benu.hu###shopify-section-template--19787808669915__adverticum_ad_UbazXg
+benu.hu###shopify-section-template--19787808669915__benu_adverticum_ad_ih8kAE
+benu.hu###slick-slide04.slick-active.slick-current.slick-slide
+benu.hu###widget.block.block-static-block
 benu.hu##molin-shop-ai
 bestmarkt.hu###ddModal-inner
 bestmarkt.hu###ddModal>div.overlay:first-child
-bing.com###sacs_win
 bing.com##.composer_container
 bing.com##.sacs_popup
+bing.com###sacs_win
 bintvcc.pages.dev###chatAd
 biomenu.hu###exposeMaskOverlay
 bkk.hu###infoblokk
@@ -208,12 +211,8 @@ bloomberg.com##.media-ui-CustomizableTicker_customizableTickers-RJtsXqEYiLI-
 bloomberg.com##.media-ui-LogoBarMobile_right-0rIQ7fk-KaE-
 book24.hu##.rb-cookiealert-cover-page
 canva.com##._1PHgrg, .FijAlA
-community.brave.com###banner
 community.brave.com##.banner
-dailymail.co.uk###footer
-dailymail.co.uk###most-watched-videos
-dailymail.co.uk###most-watched-videos-lazy-container
-dailymail.co.uk###most-watched-videos-wrapper
+community.brave.com###banner
 dailymail.co.uk##.clrd
 dailymail.co.uk##.commentBox-yXqiT
 dailymail.co.uk##.container_V5eJTpXY
@@ -225,21 +224,25 @@ dailymail.co.uk##.mol-fe-related-replace
 dailymail.co.uk##.puff
 dailymail.co.uk##.swipe-container
 dailymail.co.uk##.swipe-tutorial
+dailymail.co.uk###footer
+dailymail.co.uk###most-watched-videos
+dailymail.co.uk###most-watched-videos-lazy-container
+dailymail.co.uk###most-watched-videos-wrapper
 deepl.com##.max-\[1280px\]\:ps-\[20px\].ps-0.justify-between.items-center.flex.mobile\:hidden
 deepl.com##.mobile\:hidden>.lg\:px-\[70px\].p-8
-dictzone.com###aside
 dictzone.com##.ad1m
 dictzone.com##.cr
+dictzone.com###aside
 digg.com##.-mt-\[112px\]
-discussions.apple.com###.notification.site-wide.shown
 discussions.apple.com##.div.notification.site-wide.shown
 discussions.apple.com##.form-alert
 discussions.apple.com##.notification.site-wide.shown
 discussions.apple.com##.site-wide-container
+discussions.apple.com###.notification.site-wide.shown
 discussions.apple.com##div.notification.site-wide.shown
+disneyplus.com##.iAsmkG.sc-iNhVCk
 disneyplus.com####.iAsmkG.sc-iNhVCk
 disneyplus.com###app_body_content > div.sc-fEUNkw.hjCJhU:last-child > div.sc-iNhVCk.iAsmkG:last-child
-disneyplus.com##.iAsmkG.sc-iNhVCk
 docstransfer.com##div.main:first-child>div.ukraine-banner:first-child
 downdetector.com###geo-redirect-root
 dropr.co##.dropr-ad-inner
@@ -260,24 +263,19 @@ emag.hu##.acc-toolbox-open-button
 emag.hu##.first-in-app-modal
 emag.hu##.modal-backdrop
 emb.apl623.online###adsbox
-episode.hu###banya_felhiv
-episode.hu###navbar>.menurow.container>.d-lg-block.d-none.col-3.login>.gomb.btn-danger.btn2.btn
-episode.hu###sticky-navbar>.menurow.container>.d-lg-block.d-none.col-3.login>.gomb.btn-danger.btn2.btn
-episode.hu###sticky-navbar>div.container.menurow:first-child>div.login.col-3.d-none.d-lg-block:last-child>a.btn.btn2.btn-danger.gomb
-episode.hu###szoveg_doboz
 episode.hu##.banya_felhiv
 episode.hu##.d-md-block.d-none.side.side_cont
 episode.hu##.div.container.main:nth-child(26)>div.row:first-child>div.video.col-12>div.container>div.row.szoveg_doboz:first-child
 episode.hu##.main.container>.container>.row
 episode.hu##.szoveg_doboz
 episode.hu##.szoveg_doboz.row
+episode.hu###banya_felhiv
+episode.hu###navbar>.menurow.container>.d-lg-block.d-none.col-3.login>.gomb.btn-danger.btn2.btn
+episode.hu###sticky-navbar>.menurow.container>.d-lg-block.d-none.col-3.login>.gomb.btn-danger.btn2.btn
+episode.hu###sticky-navbar>div.container.menurow:first-child>div.login.col-3.d-none.d-lg-block:last-child>a.btn.btn2.btn-danger.gomb
+episode.hu###szoveg_doboz
 episode.hu##banya_felhiv
 episode.hu##div.container.main:nth-child(26)>div.row:first-child>div.video.col-12>div.container>div.row.szoveg_doboz:first-child
-eredmenyek.com###box-over-content-revive
-eredmenyek.com###detail-breadcrumbs > div:last-child
-eredmenyek.com###zoneContainer-box_over_content>.zone__container>.zone__inner
-eredmenyek.com###zoneContainer-detail_leaderboard>.zone__container
-eredmenyek.com###zoneContainer-top>.zone__container
 eredmenyek.com##.container__myMenu
 eredmenyek.com##.header
 eredmenyek.com##.header__content
@@ -286,8 +284,13 @@ eredmenyek.com##.outrightWidget.fp-outrightWidget_ONamr
 eredmenyek.com##.prematchOddsBonus__bonus--withButton
 eredmenyek.com##.section__prematchOdds.section
 eredmenyek.com##.wcl-tooltip_VNnu4,.wcl-onboarding_rfbSg
-eredmenyek.com##.zone--labelPositionRight.zone--placeholderDisabled.zone--skeletonEnabled.zone--loading.zone__top.zone
 eredmenyek.com##.zone__responsive_detail_fixed_bottom
+eredmenyek.com##.zone--labelPositionRight.zone--placeholderDisabled.zone--skeletonEnabled.zone--loading.zone__top.zone
+eredmenyek.com###box-over-content-revive
+eredmenyek.com###detail-breadcrumbs > div:last-child
+eredmenyek.com###zoneContainer-box_over_content>.zone__container>.zone__inner
+eredmenyek.com###zoneContainer-detail_leaderboard>.zone__container
+eredmenyek.com###zoneContainer-top>.zone__container
 euronics.hu###content-before
 euronics.hu###contentAfter
 euronics.hu###newsletter-subscription-wrapper
@@ -300,9 +303,6 @@ galeria.totalcar.hu###hasznaltauto_iframe_wrapper
 galeriasavaria.hu##.box_wave, .box_wave_prod
 galeriasavaria.hu##.flyer_container
 galeriasavaria.hu##.noty_container
-giphy.com###__next>main.__className_97f6a1:nth-child(2)>div.sc-86d1bbd4-0.jaEdvd.sc-6724e0bf-6.kkDHVU:first-child
-giphy.com###giphy-search-pills
-giphy.com###sc-3f112630-1
 giphy.com##.bDdZzq.Carousel-sc-1ajhmaj
 giphy.com##.bUdaVl.List-sc-webqy6
 giphy.com##.cTRcRL.MiddleHeader-sc-otryzb
@@ -328,21 +328,22 @@ giphy.com##.md\:w-desktopWidth
 giphy.com##.oDZed.ListWrapper-sc-1u057sz
 giphy.com##.qqyxu.SeeAll-sc-1k96td4
 giphy.com##.sc-3f112630-1
-giphy.com##.sc-6724e0bf-0,.hqQkeg
 giphy.com##.sc-86edfcd6-1
+giphy.com##.sc-6724e0bf-0,.hqQkeg
+giphy.com###__next>main.__className_97f6a1:nth-child(2)>div.sc-86d1bbd4-0.jaEdvd.sc-6724e0bf-6.kkDHVU:first-child
+giphy.com###giphy-search-pills
+giphy.com###sc-3f112630-1
 giphy.com##div.sc-6f6dd835-0.brOqxe.device-mobile:nth-child(5)
 giphy.com##div[class*="OpenInAppContainer"]
 github.com###universe24_7
 google.*##.kSMK2
-google.com###credential_picker_container
-google.com###Rzn5id
-google.com###slim_appbar
 google.com##.BOyx7
 google.com##.ko8QQ
 google.com##.qkizKf
+google.com###credential_picker_container
+google.com###Rzn5id
+google.com###slim_appbar
 google.hu###Rzn5id
-grok.com###grok-4-promotion-dialog-content
-grok.com###grok-home-promotion-dialog-content
 grok.com##.bg-background
 grok.com##.bg-black\/20
 grok.com##.bg-overlay
@@ -351,11 +352,14 @@ grok.com##.dark.cursor-pointer.border.text-white.bg-black.rounded-3xl.border-hig
 grok.com##.m-10.w-full.max-w-\[480px\].dark.relative
 grok.com##.pb-4.px-4.items-center.flex-col.-translate-y-full.w-full.flex.absolute
 grok.com##.toast
+grok.com###grok-4-promotion-dialog-content
+grok.com###grok-home-promotion-dialog-content
 grok.com##section:nth-child(4) > ol.toaster.group > li.inset-x-0.mx-auto.group.toast.bg-popover.rounded-2xl.border-0.shadow-sm.w-fit.min-w-\[200px\].left-0.right-0.sm\:mx-auto.ring-1.ring-inset.ring-input-border.p-3\.5.h-fit.gap-3
 gyakorikerdesek.hu###stialert
 gyakorikerdesek.hu###stidiv
 gymbeam.hu##.gb-notification
 hasznaltalma.hu##.banner-container
+hasznaltauto.hu##.details__reveal-primary-phone
 hasznaltauto.hu###billboard
 hasznaltauto.hu###bumper
 hasznaltauto.hu###bumper-mobile
@@ -374,21 +378,17 @@ hasznaltauto.hu###money-widget-mobile
 hasznaltauto.hu###wrap>div.container:nth-child(7)>div.adatlap:last-child>div.row>div.col-xs-28.no-print:first-child
 hasznaltauto.hu###wrap>div.container:nth-child(7)>div.site-index:last-child>div.row>div.col-xs-28:first-child
 hasznaltauto.hu###zone-container
-hasznaltauto.hu##.details__reveal-primary-phone
 hazisajtkeszites.hu###fb_header_box
 hazisajtkeszites.hu##chat-widget.hydrated:last-child
 healthline.com##.myFinance-ad-unit
 healthline.com##.myFinance-widget
 healthline.com##.wp-block-healthline-jwplayer
-herbafulvo.hu###kuuki_box
 herbafulvo.hu##.kuuki_box
+herbafulvo.hu###kuuki_box
 herbafulvo.hu##kuuki_box
 hitslink.xyz###sticky-728x90-ad
 hoxa.hu###stialert
 hoxa.hu###stidiv
-hvg.hu###header
-hvg.hu###mobile-nav
-hvg.hu###site-toolbar
 hvg.hu##.breaking
 hvg.hu##.embedly-card-hug
 hvg.hu##.google-search-button
@@ -398,6 +398,9 @@ hvg.hu##.pt-box
 hvg.hu##.rltd_outer
 hvg.hu##.sidebar-brandlab
 hvg.hu##.slideDown
+hvg.hu###header
+hvg.hu###mobile-nav
+hvg.hu###site-toolbar
 hwsw.hu##.ab-block
 hwsw.hu##.article-info>.share-article-button.facebook-share
 hwsw.hu##.button-group>.share-article-button.facebook-share
@@ -410,29 +413,6 @@ imgur.com##.MainContainer > div > .UploadSpinner-contentWrapper > .FastGrid > .G
 imgur.com##.MainContainer > div > .UploadSpinner-contentWrapper > .FastGrid > .Grid-column > div[id^="Col-Child-Imgur/Post/InContent/"]:has(.fast-grid-ad)
 imgur.com##body:style(overflow: auto !important;)
 imgur.com##div[class^="SeeImgurOIA-"]
-index.hu###_iph_brk_act
-index.hu###aisummit_index
-index.hu###b_1961178
-index.hu###cikkvegi_static_promo
-index.hu###closeSplash
-index.hu###exchange
-index.hu###exchange-e3f3ee14970d6ef54260f648e11d00dc
-index.hu###exchange-ticker
-index.hu###index
-index.hu###lotto-container
-index.hu###lotto-container-sidekick
-index.hu###lottoCanvas
-index.hu###lottoClose
-index.hu###lottoSplash
-index.hu###lottoSplash_inner
-index.hu###m-cf-fejlec
-index.hu###m-cf-fejlec_container
-index.hu###m-cf-kiadvanylista
-index.hu###m-cf-kiadvanylista_container_list
-index.hu###njs-carousel
-index.hu###overlay
-index.hu###twitter
-index.hu###welovedogzajanlo_wrapper
 index.hu##._iph_brk_act
 index.hu##.aisummit
 index.hu##.aisummit_index
@@ -485,43 +465,63 @@ index.hu##.szelso-jobb
 index.hu##.vegasodds
 index.hu##.welovedogzajanlo
 index.hu##.welovedogzajanlo_wrapper
+index.hu###_iph_brk_act
+index.hu###aisummit_index
+index.hu###b_1961178
+index.hu###cikkvegi_static_promo
+index.hu###closeSplash
+index.hu###exchange
+index.hu###exchange-e3f3ee14970d6ef54260f648e11d00dc
+index.hu###exchange-ticker
+index.hu###index
+index.hu###lotto-container
+index.hu###lotto-container-sidekick
+index.hu###lottoCanvas
+index.hu###lottoClose
+index.hu###lottoSplash
+index.hu###lottoSplash_inner
+index.hu###m-cf-fejlec
+index.hu###m-cf-fejlec_container
+index.hu###m-cf-kiadvanylista
+index.hu###m-cf-kiadvanylista_container_list
+index.hu###njs-carousel
+index.hu###overlay
+index.hu###twitter
+index.hu###welovedogzajanlo_wrapper
 itbusiness.hu##.hird-banner-mob
 jegy.mav.hu###app-header-beta-row
 jegy.mav.hu##app-header-beta-row
 jofogas.hu##.adverticum-anchor-banner
 kau.gov.hu##.notification
 learn.microsoft.com###cookie-consent-holder
-linkedin.com###compactfooter-advertising
 linkedin.com##.base-promo
 linkedin.com##.feed-shared-promo
 linkedin.com##.omnibanner
 linkedin.com##.update-components-survey
+linkedin.com###compactfooter-advertising
 linkedin.com##div[class^="apptivation-promo"]
-linkedin.com##span:has-text(Promoted):upward(11)
 linkedin.com##span:has-text(Promoted):upward(6)
+linkedin.com##span:has-text(Promoted):upward(11)
 listen.tidal.com###UPSELL
 m.alza.hu##.MuiDrawer-modal
 m.alza.hu##swiper-container
-m.facebook.com###screen-root > div.m.bg-s2 > div.m.fixed-container.bottom:nth-child(4)
 m.facebook.com##.bottom
+m.facebook.com###screen-root > div.m.bg-s2 > div.m.fixed-container.bottom:nth-child(4)
 m.hvg.hu##.bxlv_container
 m.hvg.hu##.random-article-box
-m.imdb.com###inlinebottom_inline_wrapper
 m.imdb.com##.footer__app
+m.imdb.com###inlinebottom_inline_wrapper
+m.imgur.com##.GalleryInfiniteScroll > div > .GalleryHandler-postContainer + div
+m.imgur.com##.GalleryInfiniteScroll > div > div:not([class])
 m.imgur.com###app > div.App > div.App-topSidebar:nth-child(2) > div:first-child
 m.imgur.com###app > div.App > div.GalleryHandler:last-child > div.FloatingOIA-container:nth-child(3)
 m.imgur.com###app > div.App > div.GalleryHandler:last-child > div.FooterOIA-container.sg_hide_element:nth-child(3)
 m.imgur.com###app > div.App > div.GalleryHandler:last-child > div.SeeImgurOIA-container.SeeImgurOIA-container-visible:nth-child(4)
 m.imgur.com###app > div.App > div.GalleryHandler:last-child > div.SeeImgurOIA-overlay.SeeImgurOIA-overlay-visible:nth-child(3)
-m.imgur.com##.GalleryInfiniteScroll > div > .GalleryHandler-postContainer + div
-m.imgur.com##.GalleryInfiniteScroll > div > div:not([class])
 m.soundcloud.com##a[data-testid="open-in-app-link"]
 m.youtube.com##.consent-bump-v2-lightbox
 m.youtube.com##.feed-nudge-content-wrapper
 m.youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
-macrumors.com###featured_slider
-macrumors.com###maincontent > div:nth-child(3) > h2.heading--1cooZo6n.heading--h3--23mHEuMI.inline--Nnb-B96C
-macrumors.com###maincontent>div[class^="subscribe"]~div:has(~#comments)
 macrumors.com##.abovebanner--Vj-emp0H
 macrumors.com##.contentRow--SgKuAPKd
 macrumors.com##.featured
@@ -537,17 +537,20 @@ macrumors.com##.trending--2ymci4Wd
 macrumors.com##.wrapper--20Awsb5E>.sidebar--1d3u_-lK
 macrumors.com##.wrapper--20Awsb5E>.sidebar--1d3u_-lK>.noskim.secondary--2XxvWX2n.widget--3ewetJyi
 macrumors.com##[href^="https://www.bloomberg.com/subscriptions/checkout"]
+macrumors.com###featured_slider
+macrumors.com###maincontent > div:nth-child(3) > h2.heading--1cooZo6n.heading--h3--23mHEuMI.inline--Nnb-B96C
+macrumors.com###maincontent>div[class^="subscribe"]~div:has(~#comments)
 macrumors.com##div.noskim.widget--3ewetJyi:nth-of-type(2)
 macrumors.com##div.noskim.widget--3ewetJyi:nth-of-type(3)
 macrumors.com##div.noskim.widget--3ewetJyi:nth-of-type(5)
 macrumors.com##slick-inline-search
 mediamarkt.hu##.djoCQE
 mediamarkt.hu##.gCXcXL
-mobilarena.hu###notif-modal
-mobilarena.hu###right
 mobilarena.hu##.fakebook
 mobilarena.hu##.foot-barion
 mobilarena.hu##.modal-md.modal-dialog
+mobilarena.hu###notif-modal
+mobilarena.hu###right
 mrmez.hu###elementor-popup-modal-101287 > div.dialog-widget-content.dialog-lightbox-widget-content.animated
 mrmez.hu###elementor-popup-modal-101287 > div.dialog-widget-content.dialog-lightbox-widget-content.animated > div.dialog-message.dialog-lightbox-message:nth-child(2) > div.elementor.elementor-101287.elementor-location-popup > div.elementor-inner > div.elementor-section-wrap > section.elementor-element.elementor-element-4b78e24.elementor-section-boxed.elementor-section-height-default.elementor-section.elementor-top-section > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-element.elementor-element-9f2070d.elementor-column.elementor-col-100.elementor-top-column > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-db10521.elementor-widget.elementor-widget-image > div.elementor-widget-container > div.elementor-image > a > img.attachment-large.size-large
 ncbi.nlm.nih.gov##.pmc-alerts
@@ -555,10 +558,10 @@ ncbi.nlm.nih.gov##.pmc-article__disclaimer
 ncbi.nlm.nih.gov##.pmc-page-banner
 ncbi.nlm.nih.gov##.usa-banner
 ncbi.nlm.nih.gov##.usa-banner-inner.usa-grid
-ncore.pro###fancybox-overlay
-ncore.pro###fancybox-wrap
 ncore.pro##.hessteg-ad-block.news_block_right
 ncore.pro##.infocsik
+ncore.pro###fancybox-overlay
+ncore.pro###fancybox-wrap
 news.google.com##.Jur22e
 news.google.com##.tGUGyc
 news.google.com##.ttg1Pb
@@ -570,11 +573,8 @@ notegpt.io##.md\:items-end
 notegpt.io##.overflow-x-auto
 notegpt.io##.py-6
 notegpt.io##.sm\:p-6
-
 open.spotify.com##.paywall
 open.spotify.com##button[data-testid="open-app-button"]
-origo.hu###app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
-origo.hu###origo-newsletter-box
 origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 origo.hu##.blue
 origo.hu##.content-type-newsletter-block
@@ -599,6 +599,8 @@ origo.hu##.style-ripost
 origo.hu##.style-tenyek
 origo.hu##.style-travelo
 origo.hu##.with-double-breaking-strip
+origo.hu###app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
+origo.hu###origo-newsletter-box
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > aside:last-child
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(13) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > aside:last-child > app-sidebar:last-child > div.sidebar-main
@@ -612,26 +614,26 @@ origo.hu##kesma-sponsored-box
 origo.hu##origo-articles-related-content
 origo.hu##origo-most-read
 origo.hu##origo-newsletter-box
-pastedownload.com###sectionsNav
-pastedownload.com##.fc-dialog-overlay
 pastedownload.com/###pdq-main-dialog
+pastedownload.com##.fc-dialog-overlay
+pastedownload.com###sectionsNav
 paypal.com###PPAppDownloadBannerContainer
 pcforum.hu###subscribebar
 perplexity.ai###root > div.isolate:last-child > div.bg-base\/95.h-headerHeight.pointer-events-none.inset-x-0.top-0.backdrop-blur-md.duration-150.fixed.z-\[2\]:first-child > div.h-headerHeight.flex.flex-col > div.gap-x-md.px-md.py-sm.flex.h-full.items-center.justify-between > div.gap-x-sm.pointer-events-auto.relative.flex.items-center:last-child > div.animate-in.fade-in.duration-300:last-child
-perplexity.ai##div.flex.flex-col.justify-center.md\\:pt-1g.md\\:pb-1g
 perplexity.ai##div:nth-child(12) > div
 perplexity.ai##div:nth-child(13)
+perplexity.ai##div.flex.flex-col.justify-center.md\\:pt-1g.md\\:pb-1g
 perplexity.ai##h1:contains("One verified answer to any question")
 pmc.ncbi.nlm.nih.gov##.ncbi-alerts
 pmc.ncbi.nlm.nih.gov##.pmc-journal-banner
 pmc.ncbi.nlm.nih.gov##.pmc-layout__disclaimer
 pmc.ncbi.nlm.nih.gov##section.usa-banner:nth-child(2)
-prohardver.hu###notif-modal
-prohardver.hu###right
 prohardver.hu##.bg-transparent
 prohardver.hu##.fakebook
 prohardver.hu##.foot-barion
 prohardver.hu##.modal-md.modal-dialog
+prohardver.hu###notif-modal
+prohardver.hu###right
 provitamin.hu###newsletterbar
 pubmed.ncbi.nlm.nih.gov##.ncbi-alert__info-outer
 pubmed.ncbi.nlm.nih.gov##.usa-banner
@@ -640,21 +642,14 @@ quora.com##.qu-bg--blue
 quora.com##.qu-bg--poe_primary_purple:has-text(Ask AI bots any question on Poe, a free app by Quora)
 quora.com##button[type="button"]:has-text(Open in App)
 quora.com##div#credential_picker_container
-reddit.com###expand-search-button
-reddit.com###in-feed-community-recommendations
-reddit.com###pdp-app-upsell-bottom-sheet
-reddit.com###pdp-seeker-mweb-return-to-results
-reddit.com###right-sidebar-contents
-reddit.com###search-hero
-reddit.com###team-flair-selection-modal
 reddit.com##.active.xpromopopup
 reddit.com##.adlinkbar
 reddit.com##.amp.snackbar
 reddit.com##.bottom-bar, .XPromoBottomBar
 reddit.com##.button-large
 reddit.com##.coin-sale
-reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href$="/user/AutoModerator"])
 reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href*="bot"])
+reddit.com##.Comment:has(.icon[aria-label="Pinned"]):has(.author[href$="/user/AutoModerator"])
 reddit.com##.Comment:has(span:has-text(Pinned by moderators))
 reddit.com##.getappfooter
 reddit.com##.in-feed-community-recommendations
@@ -692,6 +687,13 @@ reddit.com##.xpromopill
 reddit.com##.xpromopopup
 reddit.com##.XPromoPopupRpl
 reddit.com##.XPromoPopupRplNew
+reddit.com###expand-search-button
+reddit.com###in-feed-community-recommendations
+reddit.com###pdp-app-upsell-bottom-sheet
+reddit.com###pdp-seeker-mweb-return-to-results
+reddit.com###right-sidebar-contents
+reddit.com###search-hero
+reddit.com###team-flair-selection-modal
 reddit.com##div.bottom-bar
 reddit.com##div.XPromoBottomBar.m-consolidate
 reddit.com##in-feed-community-recommendations
@@ -705,45 +707,45 @@ reddit.com##xpromo-nsfw-blocking-container
 reddit.com##xpromo-nsfw-blocking-modal
 reddit.com##xpromo-untagged-content-blocking-modal
 removepaywalls.com###popup
-routinehub.co###ads
-routinehub.co###ethad
-routinehub.co###routinehub-square
 routinehub.co##.ads
 routinehub.co##.has-background-light
 routinehub.co##.jquery-modal
 routinehub.co##.slick-dotted
+routinehub.co###ads
+routinehub.co###ethad
+routinehub.co###routinehub-square
 routinehub.co##routinehub-square
+shorturl.at##.intercom-lightweight-app-launcher
 shorturl.at###emailbox
 shorturl.at###ns-banner-mobile
-shorturl.at##.intercom-lightweight-app-launcher
 shorturl.at##header
-skinsort.com###colophon
-skinsort.com###masthead
 skinsort.com##.bg-indigo-50
 skinsort.com##.flex-col.flex.font-header.my-5.p-6.rounded-xl.w-full.text-indigo-900.bg-indigo-50
 skinsort.com##.relative.h-full.items-center.flex
 skinsort.com##.show
 skinsort.com##.show.z-\[9999\].\[isolation\:isolate\].bottom-drawer-transition.pointer-events-none.opacity-0.flex-col.lg\:justify-center.justify-end.items-center.flex.w-full.h-full.left-0.backdrop-blur-sm.top-0.fixed.transform-gpu.bottom-drawer
+skinsort.com###colophon
+skinsort.com###masthead
 snapgram.io##.md\:max-w-full
-soccertvhd.com###\30 x307f87
+soccertvhd.com##.animate__animated
 soccertvhd.com###\30 x31df77
 soccertvhd.com###\30 x31dfa1
-soccertvhd.com##.animate__animated
+soccertvhd.com###\30 x307f87
 speedtest.net##.max-w-\[360px\]
 speedtest.net##.max-w-\[480px\]
 speedtest.net##.MuiModal-root
 sport-arab.space###kk-sticky-ad
 stackoverflow.com##.js-consent-banner
-startpage.com###marketing-tag-container
-startpage.com###serp-toast-container
-startpage.com##.css-11ckc7m.privacy-extension-and-app-widget
 startpage.com##.css-1w29nbo.privacy-extension-and-app-widget
+startpage.com##.css-11ckc7m.privacy-extension-and-app-widget
 startpage.com##.css-i4fykg.privacy-extension-and-app-widget
 startpage.com##.css-mtj8kd
 startpage.com##.layout-web__feedback-button-container--desktop
 startpage.com##.privacy-extension-and-app-widget,.css-i4fykg
 startpage.com##.serp-toast-container
 startpage.com##.support-banner
+startpage.com###marketing-tag-container
+startpage.com###serp-toast-container
 streamin.me##.listvid
 suzukiblog.hu##.bannercsik
 suzukiblog.hu##.car-sidebar-right
@@ -760,11 +762,6 @@ techwok.hu##.mhcookie-show
 techwok.hu##.vc_row-o-content-middle
 techworld.hu##.elementor-element-ac93f7d
 techworld.hu##.elementor-element-c10b4ae
-telex.hu###__nuxt > div > div.main--t > div:last-child > main.main-container:nth-child(3) > div.subcontainer > div > div.cl-container:last-child > div.tax-widget:first-child
-telex.hu###donate-navigation-right
-telex.hu###donate-navigation-right-link
-telex.hu###modal--threat
-telex.hu###remp-banner-2ef17474-d904-4e48-bd05-fb04a0ce44a6>.html-preview-text
 telex.hu##.article-box-margin.sidebar_container_
 telex.hu##.article-content.favorite.recommendation
 telex.hu##.article-content.support-box
@@ -782,9 +779,9 @@ telex.hu##.modal--3000.modal--overlay--bottom.modal--3000--open
 telex.hu##.modal--overlay--tax
 telex.hu##.modal--tax
 telex.hu##.modal--threat__content
-telex.hu##.navigation--domain
 telex.hu##.navigation__button
 telex.hu##.navigation__logo
+telex.hu##.navigation--domain
 telex.hu##.pip
 telex.hu##.pip__minimized.pip
 telex.hu##.pr-cikk
@@ -809,8 +806,13 @@ telex.hu##.tax-widget__container
 telex.hu##.telexapp__group
 telex.hu##.viewport--article
 telex.hu##.viewport--s
-temu.com###container-1IdA5
+telex.hu###__nuxt > div > div.main--t > div:last-child > main.main-container:nth-child(3) > div.subcontainer > div > div.cl-container:last-child > div.tax-widget:first-child
+telex.hu###donate-navigation-right
+telex.hu###donate-navigation-right-link
+telex.hu###modal--threat
+telex.hu###remp-banner-2ef17474-d904-4e48-bd05-fb04a0ce44a6>.html-preview-text
 temu.com##.container-1IdA5
+temu.com###container-1IdA5
 tenor.com##.FeaturedPage
 tenor.com##.itemList.carousel-container
 tenor.com##.items.Carousel
@@ -825,13 +827,13 @@ thetimes.com###new-nav>div.css-rgzt88:nth-child(2)>div.css-gxt15o:last-child>div
 thetimes.com###paywall-portal-page-footer>div.css-1kbzzds
 thetimes.com###related-articles>div.tc-view__TcView-nuazoi-0.fPjBcr:last-child
 thetimes.com##footer.GlobalFooter:nth-child(11)
-theverge.com###privacy-consent
 theverge.com##._1o7ma3q5
 theverge.com##.m-privacy-consent
+theverge.com###privacy-consent
 threads.com##.x1mk1bxn
-totalcar.hu###car-suggester
 totalcar.hu##.car-suggester
 totalcar.hu##.cikk-bottom-box.social-stripe>.index-social-box
+totalcar.hu###car-suggester
 transfermarkt.com##.fav-voting
 transfermarkt.com##.sorare-banner
 transfermarkt.com##a.db.mt10[href][target][onclick] > img[loading][src][width][height][alt]
@@ -851,12 +853,6 @@ vitaminnagyker.hu###fb_minim_content
 vitaminnagyker.hu###fogyaszto
 vitaminnagyker.hu###hud
 vitaminnagyker.hu###top-bar
-wikipedia.org###div.vector-sidenotice-container
-wikipedia.org###sidenotice-container
-wikipedia.org###siteNotice
-wikipedia.org###vector-sidenotice-container
-wikipedia.org##+js(rc, frb-overlay-open, body, stay)
-wikipedia.org##+js(rc, frb-overlay-open, html, stay)
 wikipedia.org##.cdx-message
 wikipedia.org##.cdx-message--notice
 wikipedia.org##.cnotice
@@ -866,48 +862,62 @@ wikipedia.org##.sidenotice-container
 wikipedia.org##.sitenotice
 wikipedia.org##.vector-pinnable-element.vector-toc
 wikipedia.org##.vector-sidenotice-container
+wikipedia.org###div.vector-sidenotice-container
+wikipedia.org###sidenotice-container
+wikipedia.org###siteNotice
+wikipedia.org###vector-sidenotice-container
+wikipedia.org##+js(rc, frb-overlay-open, body, stay)
+wikipedia.org##+js(rc, frb-overlay-open, html, stay)
 wordpress.com##.cookie-banner
-wsj.com##.css-14zqvv1-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-1aa6zog-UtilityBarWrapper
 wsj.com##.css-1pichsv-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-1u565rt-TickersWrapper
 wsj.com##.css-9qw39p-UtilityNavContainer
+wsj.com##.css-14zqvv1-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-gykdi7-LoginButtonsWrapper
 wsj.com##.css-gykdi7-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-vkkgu1-CustomerNavWrapper, .e1mkna770
 wsj.com##.nav-hat
 wsj.com##nav-hat
-www.origo.hu###app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
+www.nytimes.com##.ActionBanner_arrow-left__GqXcf.ActionBanner_arrow__UUNgh
+www.nytimes.com##.ActionBanner_banner__gINNM
+www.nytimes.com##.ActionBanner_content__P0odL
+www.nytimes.com##.ActionBanner_isLegacyTheme__ImuPo.ActionBanner_visible__KvvMV.RegionBanner_regionBanner__eGxuB.ActionBanner_banner__gINNM
+www.nytimes.com##.Footer_footer__2UV2z
+www.nytimes.com##.Footer_Footer__df8T4
+www.nytimes.com##.MultiRecircMenu_MultiRecircMenu__J63Aw
+www.nytimes.com##.PuzzleEntryPoint_PuzzleContainer__eVJWr
+www.nytimes.com##.showcase-link-container
+www.nytimes.com###stacked-recommendations-root
+www.nytimes.com##ignore
 www.origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
+www.origo.hu###app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 www.origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
 www.theathletic.com###showcase-link-6774171
 www.theathletic.com###showcase-link-6776323
-x-video.tube###list_models_left_column
-x-video.tube###list_models_right_column
 x-video.tube##.clkbat-wraper
 x-video.tube##.info-bar__buttons
 x-video.tube##.telegram-chat
 x-video.tube##.top-sites-bar
 x-video.tube##.vote-block
 x-video.tube##.xv-topbar-flare-final
+x-video.tube###list_models_left_column
+x-video.tube###list_models_right_column
 x.com##.active\:bg-background\/95
 x.com##.bg-gray-1100
 x.com##.bg-overlay-normal
 x.com##.shadow-popup
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
+yahoo.com##.app-banner
 yahoo.com###app-promo
 yahoo.com###preArticle
-yahoo.com##.app-banner
 yahoo.com##div[class*="consent"]
 yahoo.com#$#body { overflow: auto !important; }
 yiya.hu##.cookie_footer
-youtube.com###frosted-glass
 youtube.com##.consent-bump-v2-lightbox
 youtube.com##.feed-nudge-content-wrapper
+youtube.com###frosted-glass
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 youtubesummary.com###home-hero-title
-||accounts.google.com/gsi/iframe/select$subdocument
-||ii.apl623.online/img/x.gif$image
-||streami.su/static/duel.webp$image
