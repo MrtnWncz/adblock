@@ -1,4 +1,4 @@
-------------------------------------------------------------------------- "11151200"
+------------------------------------- "11161400"
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
@@ -83,11 +83,18 @@
 24.hu###credential_picker_container
 444.hu##._1chu0yw10
 444.hu##._1ihsx5h0
+444.hu##._1ucnz1n0
+444.hu##._1ucnz1n2
+444.hu##._80m4oh14
 444.hu##.button__1oiqrbr7
+444.hu##.c7g2s07e
 444.hu##.kor-tagsag
 444.hu##.lyj57x2
 444.hu##.navigation-bar_NavigationBarContainerStyle__lyj57x3
 444.hu##.shop-shop
+444.hu##.vahrc30
+444.hu##.vahrc31
+444.hu##.vahrc32
 444.hu##.wfnx2n2
 444.hu###\34 44_cikk_pc_640_cikkozi_2_dinamikus_ardzyW
 444.hu###\34 44_cikk_pc_640_cikkozi_3_dinamikus_ardzyW
