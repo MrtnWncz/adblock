@@ -1,4 +1,4 @@
-------------------------------------- "11171000"
+------------------------------------- "11201000"
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
@@ -14,6 +14,7 @@
 ##.google-search-button
 ##.google-source-banner
 ##.hydrated
+##.kl-private-reset-css-Xuajs1.needsclick
 ##.modal--overlay
 ##.nativterelo
 ##.newsletter-drawer
@@ -22,6 +23,7 @@
 ##.sp-pto-google-ads
 ##.sp-pto-mb-div
 ##[class*="hud"]
+###.kl-private-reset-css-Xuajs1.needsclick
 ###.nativterelo
 ###.StickyIconAI_StickyAIAside__kxLaT
 ###bon-loyalty-btn
@@ -396,6 +398,7 @@ herbafulvo.hu##kuuki_box
 hitslink.xyz###sticky-728x90-ad
 hoxa.hu###stialert
 hoxa.hu###stidiv
+hu.naturecan.com##div > .kl-private-reset-css-Xuajs1.needsclick
 hvg.hu##.breaking
 hvg.hu##.embedly-card-hug
 hvg.hu##.google-search-button
@@ -925,7 +928,9 @@ yahoo.com#$#body { overflow: auto !important; }
 yiya.hu##.cookie_footer
 youtube.com##.consent-bump-v2-lightbox
 youtube.com##.feed-nudge-content-wrapper
+youtube.com##.ytGridShelfViewModelHostHasBottomButton.grid-shelf-with-top-margin.ytd-item-section-renderer.ytGridShelfViewModelHost
 youtube.com###frosted-glass
+youtube.com##grid-shelf-view-model.grid-shelf-with-top-margin.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(1)
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 youtubesummary.com###home-hero-title
