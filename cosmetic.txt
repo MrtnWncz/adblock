@@ -1,4 +1,16 @@
-------------------------------------- "11211200"
+------------------------------------- "11232100"
+!#endif
+!#if env_chromium
+!#if env_firefox
+!||nytimes.com/lire_ui/
+@@||assets.bwbx.io/s3/fence/fortress-client/$script
+@@||assets.bwbx.io/s3/wall-e/
+@@||experience.tinypass.com/xbuilder/$script,3p
+@@||piano.io/api/tinypass.min.js$script,domain=brusselstimes.com
+/amp-access-$script,domain=~dictionary.cambridge.org
+/coil-web-monetization/*
+/wp-content/plugins/incognito_dectector/*
+/wp-content/plugins/leaky-paywall*.js
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
@@ -57,9 +69,42 @@
 ##google-one-tap__container
 ##hydrated
 ##molin-shop-ai
+||accounts.google.com/gsi/$~script
 ||accounts.google.com/gsi/iframe/select$subdocument
+||assets.bwbx.io/s3/sparkle/
+||assets.bwbx.io^*/fence/$script
+||assets.bwbx.io^*/pianola/$script
+||batch.com^$third-party
+||evolok.com^$third-party
+||evolok.net^$third-party
 ||ii.apl623.online/img/x.gif$image
+||lightboxcdn.com^$third-party
+||mediapass.com^$third-party
+||meter-svc.nytimes.com^
+||mng-digisubs-prod.com^
+||mppapi.io^$third-party
+||mppglobal.com^$third-party
+||myaccount.nytimes.com/auth/iframe/*&asset=RegiWall
+||news.google.com/swg/$script,third-party
+||nyt.com^*/metered_assets$script
+||nytimes.com/svc/nyt/data-layer
+||nytimes.com/unified_lire/
+||nytimes.com^*/metered_assets/
+||onecount.net^$third-party
+||pelcro.com^$third-party
+||piano.io^$third-party
+||poool.fr^$third-party
+||profitwell.com^$third-party
+||qiota.com^$third-party,important
+||scroll.com^$third-party
+||smartlock.google.com^
+||sophi.io^$third-party
 ||streami.su/static/duel.webp$image
+||taboola.com^$third-party
+||tinypass.com^$third-party
+||wallkit.net^$third-party
+||yourbow.com^$3p
+||zephr.com^$third-party
 9gag.com##.download-app-container
 9gag.com##.inline-banner
 9gag.com##.noscroll:style(overflow: auto !important;)
@@ -218,6 +263,12 @@ bkk.hu###sidebar > button.sidebar-toggle:first-child > i.bkk-icon-sidebar-open
 bloomberg.com##.floating-copy-link
 bloomberg.com##.media-ui-CustomizableTicker_customizableTickers-RJtsXqEYiLI-
 bloomberg.com##.media-ui-LogoBarMobile_right-0rIQ7fk-KaE-
+bloomberg.com###fortress-container-root
+bloomberg.com###pathfinder-tout
+bloomberg.com##+js(no-fetch-if, method:POST /prodregistryv2/)
+bloomberg.com##+js(trusted-replace-fetch-response, /.*/, {"access":"allow"\,"shouldShowWall":false\,"statsigTarget":{"type":"audience"\,"audienceId":"hello_world"}}, /paywall-decision/)
+bloomberg.com##+js(trusted-replace-fetch-response, /.*/, {"global":{"wallConfigEnabled":{"id":"wallConfigEnabled"\,"name":"Wall Config Enabled"\,"config":{"enableWallConfig":false}}}}, /wall-config\.json/)
+bloomberg.com##+js(trusted-replace-fetch-response, /\"eligible\":false/, "eligible":true, gatehouse)
 book24.hu##.rb-cookiealert-cover-page
 canva.com##._1PHgrg, .FijAlA
 community.brave.com##.banner
@@ -583,6 +634,16 @@ notegpt.io##.md\:items-end
 notegpt.io##.overflow-x-auto
 notegpt.io##.py-6
 notegpt.io##.sm\:p-6
+nytimes.com##.gdpr
+nytimes.com##.magnoliaDock
+nytimes.com##[id*="story-ad-"][id*="wrapper"]
+nytimes.com###credential_picker_container
+nytimes.com##+js(no-fetch-if, headers:x-nyt-entitlements)
+nytimes.com##+js(set, navigator.storage.estimate, undefined)
+nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
+nytimes.com##div[data-test-id="RecommendedNewsletter"]
+nytimes.com##div[data-testid="expanded-dock"]
+nytimes.com##div[data-testid="inline-message"]
 open.spotify.com##.paywall
 open.spotify.com##button[data-testid="open-app-button"]
 origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
@@ -854,6 +915,8 @@ twitter.com##div[class="css-1dbjc4n r-1iusvr4 r-16y2uox r-97wbjc"]
 twitterviewer.net##.h-9
 twitterviewer.net##.pwa-card
 vezess.hu###more-news
+videa.hu##[data-cookiename=sitemessage_1_1785751562]
+videa.hu###[data-cookiename=sitemessage_1_1785751562]
 videa.hu###notification-bar
 videakid.hu###notification-bar
 vitaminbolt.net##molin-shop-ai
@@ -899,7 +962,11 @@ www.nytimes.com##.Footer_Footer__df8T4
 www.nytimes.com##.MultiRecircMenu_MultiRecircMenu__J63Aw
 www.nytimes.com##.PuzzleEntryPoint_PuzzleContainer__eVJWr
 www.nytimes.com##.showcase-link-container
+www.nytimes.com##[data-audience=a_control]
+www.nytimes.com###[data-audience=a_control]
+www.nytimes.com###athletic-welcome-ad
 www.nytimes.com###stacked-recommendations-root
+www.nytimes.com##athletic-welcome-ad
 www.nytimes.com##header a[href*="/subscription"]
 www.nytimes.com##ignore
 www.origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
@@ -918,9 +985,13 @@ x-video.tube###list_models_right_column
 x.com##.active\:bg-background\/95
 x.com##.bg-gray-1100
 x.com##.bg-overlay-normal
+x.com##.motion-safe\:animate-enter-fade-rise
+x.com##.row-start-1
 x.com##.shadow-popup
+x.com##.text-headline1
 x.com##[data-testid=FloatingActionButtons_Tweet_Button]
 x.com##[data-testid=super-upsell-UpsellButtonRenderProperties]
+x.com##li[data-index]:has(a[href*="twclid="])
 yahoo.com##.app-banner
 yahoo.com###app-promo
 yahoo.com###preArticle
