@@ -1,16 +1,4 @@
-------------------------------------- "11241300"
-!#endif
-!#if env_chromium
-!#if env_firefox
-!||nytimes.com/lire_ui/
-@@||assets.bwbx.io/s3/fence/fortress-client/$script
-@@||assets.bwbx.io/s3/wall-e/
-@@||experience.tinypass.com/xbuilder/$script,3p
-@@||piano.io/api/tinypass.min.js$script,domain=brusselstimes.com
-/amp-access-$script,domain=~dictionary.cambridge.org
-/coil-web-monetization/*
-/wp-content/plugins/incognito_dectector/*
-/wp-content/plugins/leaky-paywall*.js
+------------------------------------- "11241400"
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
@@ -69,42 +57,6 @@
 ##google-one-tap__container
 ##hydrated
 ##molin-shop-ai
-||accounts.google.com/gsi/$~script
-||accounts.google.com/gsi/iframe/select$subdocument
-||assets.bwbx.io/s3/sparkle/
-||assets.bwbx.io^*/fence/$script
-||assets.bwbx.io^*/pianola/$script
-||batch.com^$third-party
-||evolok.com^$third-party
-||evolok.net^$third-party
-||ii.apl623.online/img/x.gif$image
-||lightboxcdn.com^$third-party
-||mediapass.com^$third-party
-||meter-svc.nytimes.com^
-||mng-digisubs-prod.com^
-||mppapi.io^$third-party
-||mppglobal.com^$third-party
-||myaccount.nytimes.com/auth/iframe/*&asset=RegiWall
-||news.google.com/swg/$script,third-party
-||nyt.com^*/metered_assets$script
-||nytimes.com/svc/nyt/data-layer
-||nytimes.com/unified_lire/
-||nytimes.com^*/metered_assets/
-||onecount.net^$third-party
-||pelcro.com^$third-party
-||piano.io^$third-party
-||poool.fr^$third-party
-||profitwell.com^$third-party
-||qiota.com^$third-party,important
-||scroll.com^$third-party
-||smartlock.google.com^
-||sophi.io^$third-party
-||streami.su/static/duel.webp$image
-||taboola.com^$third-party
-||tinypass.com^$third-party
-||wallkit.net^$third-party
-||yourbow.com^$3p
-||zephr.com^$third-party
 9gag.com##.download-app-container
 9gag.com##.inline-banner
 9gag.com##.noscroll:style(overflow: auto !important;)
