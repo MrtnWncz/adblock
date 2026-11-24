@@ -1,4 +1,4 @@
-------------------------------------- "11241400"
+------------------------------------- "11241500"
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
@@ -871,8 +871,11 @@ twitterviewer.net##.pwa-card
 vezess.hu###more-news
 videa.hu##.content-message-outer
 videa.hu##.player-page-recommended-news
+videa.hu##.videa-message-panel
+videa.hu##.videa-message-panel-inner
 videa.hu##[data-cookiename=sitemessage_1_1785751562]
 videa.hu###[data-cookiename=sitemessage_1_1785751562]
+videa.hu###content > div.content-message-outer:nth-child(3) > div.videa-message-panel > div.videa-message-panel-inner
 videa.hu###content > div.content-message-outer:nth-child(6)
 videa.hu###notification-bar
 videakid.hu###notification-bar
