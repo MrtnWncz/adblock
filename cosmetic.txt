@@ -1,4 +1,4 @@
-------------------------------------- "11232100"
+------------------------------------- "11241300"
 !#endif
 !#if env_chromium
 !#if env_firefox
@@ -446,6 +446,8 @@ healthline.com##.wp-block-healthline-jwplayer
 herbafulvo.hu##.kuuki_box
 herbafulvo.hu###kuuki_box
 herbafulvo.hu##kuuki_box
+heuristi.ca###h1
+heuristi.ca##h1
 hitslink.xyz###sticky-728x90-ad
 hoxa.hu###stialert
 hoxa.hu###stidiv
@@ -915,8 +917,11 @@ twitter.com##div[class="css-1dbjc4n r-1iusvr4 r-16y2uox r-97wbjc"]
 twitterviewer.net##.h-9
 twitterviewer.net##.pwa-card
 vezess.hu###more-news
+videa.hu##.content-message-outer
+videa.hu##.player-page-recommended-news
 videa.hu##[data-cookiename=sitemessage_1_1785751562]
 videa.hu###[data-cookiename=sitemessage_1_1785751562]
+videa.hu###content > div.content-message-outer:nth-child(6)
 videa.hu###notification-bar
 videakid.hu###notification-bar
 vitaminbolt.net##molin-shop-ai
