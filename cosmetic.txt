@@ -1,4 +1,4 @@
-------------------------------------- "11252300"
+------------------------------------- "11252400"
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
@@ -909,8 +909,7 @@ www.nytimes.com,www.theathletic.com#?#div[class*="backdrop"], div[class*="overla
 www.nytimes.com,www.theathletic.com#?#div[class*="backdrop"]:has-text(/Log in or create a free account/i), div[class*="overlay"]:has-text(/Log in or create a free account/i), div[class*="modal"]:has-text(/Log in or create a free account/i)
 www.nytimes.com,www.theathletic.com#?#div[role="dialog"]:has-text(/Log in or create a free account/i)
 www.nytimes.com,www.theathletic.com#$#body, html { overflow: auto !important; position: static !important; }
-www.nytimes.com#@#%#//scriptlet('prevent-fetch', 'api.theathletic.com/graphql', 'body:/PostEvent|PostImpressions/')
-www.nytimes.com##.ActionBanner
+www.nytimes.com#@%#//scriptlet('prevent-fetch', 'api.theathletic.com/graphql', 'body:/PostEvent|PostImpressions/')
 www.nytimes.com##.ActionBanner_arrow-left__GqXcf.ActionBanner_arrow__UUNgh
 www.nytimes.com##.ActionBanner_banner__gINNM
 www.nytimes.com##.ActionBanner_content__P0odL
@@ -918,8 +917,6 @@ www.nytimes.com##.ActionBanner_isLegacyTheme__ImuPo.ActionBanner_visible__KvvMV.
 www.nytimes.com##.ActionBanner_visible__KvvMV
 www.nytimes.com##.Container_container__E6LlX.Container_default-padding__NDTf_.Content_PuzzleModule__4X_5F
 www.nytimes.com##.DesktopNav_SecondaryNavItemsContainer__Zj1kC > [href="https://www.nytimes.com/athletic/daily-play/"]
-www.nytimes.com##.Footer_footer__2UV2z
-www.nytimes.com##.Footer_Footer__df8T4
 www.nytimes.com##.gdpr
 www.nytimes.com##.ignore
 www.nytimes.com##.magnoliaDock
@@ -932,14 +929,9 @@ www.nytimes.com###athletic-welcome-ad
 www.nytimes.com###credential_picker_container
 www.nytimes.com###stacked-recommendations-root
 www.nytimes.com###ta-bar-one
-www.nytimes.com##athletic-welcome-ad
 www.nytimes.com##div[data-test-id="RecommendedNewsletter"]
 www.nytimes.com##div[data-testid="expanded-dock"]
 www.nytimes.com##div[data-testid="inline-message"]
-www.nytimes.com##header a[href*="/subscription"]
-www.nytimes.com#%#//scriptlet('no-fetch-if', 'headers:x-nyt-entitlements')
-www.nytimes.com#%#//scriptlet('set-constant', 'navigator.storage.estimate', 'undefined')
-www.nytimes.com#%#//scriptlet('set-constant', 'webkitRequestFileSystem', 'noopFunc')
 x-video.tube##.clkbat-wraper
 x-video.tube##.info-bar__buttons
 x-video.tube##.telegram-chat
