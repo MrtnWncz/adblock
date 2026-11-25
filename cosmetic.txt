@@ -1,4 +1,4 @@
-------------------------------------- "11251400"
+------------------------------------- "11252000"
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
@@ -588,16 +588,39 @@ notegpt.io##.md\:items-end
 notegpt.io##.overflow-x-auto
 notegpt.io##.py-6
 notegpt.io##.sm\:p-6
+nytimes.com,theathletic.com#?#div[class*="backdrop"], div[class*="overlay"], div[class*="modal"]:has-text(/Log in or create a free account/i)
+nytimes.com,theathletic.com#?#div[role="dialog"]:has-text(/Log in or create a free account/i)
+nytimes.com,theathletic.com#$#body, html { overflow: auto !important; position: static !important; }
+nytimes.com#@#+js(prevent-fetch, api.theathletic.com/graphql body:/PostEvent|PostImpressions/)
+nytimes.com##.ActionBanner
+nytimes.com##.ActionBanner_arrow-left__GqXcf.ActionBanner_arrow__UUNgh
+nytimes.com##.ActionBanner_banner__gINNM
+nytimes.com##.ActionBanner_content__P0odL
+nytimes.com##.ActionBanner_isLegacyTheme__ImuPo.ActionBanner_visible__KvvMV.RegionBanner_regionBanner__eGxuB.ActionBanner_banner__gINNM
+nytimes.com##.ActionBanner_visible__KvvMV
+nytimes.com##.Footer_footer__2UV2z
+nytimes.com##.Footer_Footer__df8T4
 nytimes.com##.gdpr
 nytimes.com##.magnoliaDock
+nytimes.com##.MultiRecircMenu_MultiRecircMenu__J63Aw
+nytimes.com##.PuzzleEntryPoint_PuzzleContainer__eVJWr
+nytimes.com##.showcase-link-container
+nytimes.com##[data-audience=a_control]
 nytimes.com##[id*="story-ad-"][id*="wrapper"]
+nytimes.com###[data-audience=a_control]
+nytimes.com###athletic-welcome-ad
 nytimes.com###credential_picker_container
+nytimes.com###stacked-recommendations-root
+nytimes.com###ta-bar-one
 nytimes.com##+js(no-fetch-if, headers:x-nyt-entitlements)
 nytimes.com##+js(set, navigator.storage.estimate, undefined)
 nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
+nytimes.com##athletic-welcome-ad
 nytimes.com##div[data-test-id="RecommendedNewsletter"]
 nytimes.com##div[data-testid="expanded-dock"]
 nytimes.com##div[data-testid="inline-message"]
+nytimes.com##header a[href*="/subscription"]
+nytimes.com##ignore
 open.spotify.com##.paywall
 open.spotify.com##button[data-testid="open-app-button"]
 origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
@@ -915,27 +938,6 @@ wsj.com##.css-gykdi7-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 wsj.com##.css-vkkgu1-CustomerNavWrapper, .e1mkna770
 wsj.com##.nav-hat
 wsj.com##nav-hat
-www.nytimes.com##.ActionBanner_arrow-left__GqXcf.ActionBanner_arrow__UUNgh
-www.nytimes.com##.ActionBanner_banner__gINNM
-www.nytimes.com##.ActionBanner_content__P0odL
-www.nytimes.com##.ActionBanner_isLegacyTheme__ImuPo.ActionBanner_visible__KvvMV.RegionBanner_regionBanner__eGxuB.ActionBanner_banner__gINNM
-www.nytimes.com##.Footer_footer__2UV2z
-www.nytimes.com##.Footer_Footer__df8T4
-www.nytimes.com##.MultiRecircMenu_MultiRecircMenu__J63Aw
-www.nytimes.com##.PuzzleEntryPoint_PuzzleContainer__eVJWr
-www.nytimes.com##.showcase-link-container
-www.nytimes.com##[data-audience=a_control]
-www.nytimes.com###[data-audience=a_control]
-www.nytimes.com###athletic-welcome-ad
-www.nytimes.com###stacked-recommendations-root
-www.nytimes.com##athletic-welcome-ad
-www.nytimes.com##header a[href*="/subscription"]
-www.nytimes.com##ignore
-www.origo.hu##.app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
-www.origo.hu###app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
-www.origo.hu##app-root:first-child > app-base:last-child > main.content-wrap.content-wrap-with-breaking-block:nth-child(12) > app-sport-article-page:last-child > section.article > div.wrapper.with-aside.two-sided.narrow-wrapper > div.center:nth-child(3) > origo-newsletter-box.style-Sport:nth-child(15)
-www.theathletic.com###showcase-link-6774171
-www.theathletic.com###showcase-link-6776323
 x-video.tube##.clkbat-wraper
 x-video.tube##.info-bar__buttons
 x-video.tube##.telegram-chat
