@@ -1,4 +1,4 @@
-------------------------------------- "11261700"
+------------------------------------- "11261800"
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
@@ -871,6 +871,7 @@ videa.hu##[data-cookiename=sitemessage_1_1785751562]
 videa.hu###[data-cookiename=sitemessage_1_1785751562]
 videa.hu###content > div.content-message-outer:nth-child(3) > div.videa-message-panel > div.videa-message-panel-inner
 videa.hu###content > div.content-message-outer:nth-child(6)
+videa.hu###content > div.content-message-outer:nth-child(6) > div.videa-message-panel > div.videa-message-panel-inner
 videa.hu###notification-bar
 videakid.hu###notification-bar
 vitaminbolt.net##molin-shop-ai
@@ -938,20 +939,6 @@ www.nytimes.com###ta-bar-one
 www.nytimes.com##div[data-test-id="RecommendedNewsletter"]
 www.nytimes.com##div[data-testid="expanded-dock"]
 www.nytimes.com##div[data-testid="inline-message"]
-www.videa.hu##.collapsed.right
-www.videa.hu##.content-message-outer
-www.videa.hu##.content-message-outer > .videa-message-panel > .videa-message-panel-inner
-www.videa.hu##.in-list.loading.videa-loop-container
-www.videa.hu##.player-page-recommended-news
-www.videa.hu##.side-menu-inner
-www.videa.hu##.videa-message-panel
-www.videa.hu##.videa-message-panel-inner
-www.videa.hu##[data-cookiename=sitemessage_1_1785751562]
-www.videa.hu###[data-cookiename=sitemessage_1_1785751562]
-www.videa.hu###content > div.content-message-outer:nth-child(3) > div.videa-message-panel > div.videa-message-panel-inner
-www.videa.hu###content > div.content-message-outer:nth-child(6)
-www.videa.hu###notification-bar
-www.videakid.hu###notification-bar
 x-video.tube##.clkbat-wraper
 x-video.tube##.info-bar__buttons
 x-video.tube##.telegram-chat
