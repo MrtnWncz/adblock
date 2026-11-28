@@ -1,4 +1,4 @@
-------------------------------------- "11281300"
+------------------------------------- "11281400"
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
@@ -926,6 +926,7 @@ www.nytimes.com##.PuzzleEntryPoint_PuzzleContainer__eVJWr
 www.nytimes.com##.showcase-link-container
 www.nytimes.com##[data-audience=a_control]
 www.nytimes.com##[id*="story-ad-"][id*="wrapper"]
+www.nytimes.com###article-pickem
 www.nytimes.com###athletic-welcome-ad
 www.nytimes.com###credential_picker_container
 www.nytimes.com###stacked-recommendations-root
