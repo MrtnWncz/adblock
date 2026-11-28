@@ -1,4 +1,4 @@
-------------------------------------- "11261900"
+------------------------------------- "11281300"
 ##.add-preferred-source
 ##.akw-tab-content
 ##.chat-widget
@@ -914,6 +914,7 @@ www.nytimes.com##.ActionBanner_visible__KvvMV
 www.nytimes.com##.Container_container__E6LlX.Container_default-padding__NDTf_.Content_PuzzleModule__4X_5F
 www.nytimes.com##.Content_PuzzleContainer
 www.nytimes.com##.Content_PuzzleContainer__vbWx6.Grid_xsNumber12__7AIjd.Grid_justifyContent-flex-start__c8ll5.Grid_alignItems-stretch__tvoyw.Grid_container__nUoFL
+www.nytimes.com##.css-npzzu1
 www.nytimes.com##.DesktopNav_SecondaryNavItemsContainer__Zj1kC > [href="https://www.nytimes.com/athletic/daily-play/"]
 www.nytimes.com##.Footer_Footer
 www.nytimes.com##.Footer_Footer__df8T4
